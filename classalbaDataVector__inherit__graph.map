@@ -1,0 +1,10 @@
+<map id="albaDataVector" name="albaDataVector">
+<area shape="rect" id="node1" title="a dynamic associative sorted array of datasets indexed by their &quot;timestamp&quot;." alt="" coords="284,243,395,268"/>
+<area shape="rect" id="node2" href="$classalbaTimeMap.html" title=" " alt="" coords="5,168,207,193"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="8,5,92,31"/>
+<area shape="rect" id="node5" href="$classalbaTimeMap.html" title="a dynamic associative sorted array of timestamped objects indexed by their &quot;timestamp&quot;." alt="" coords="65,80,195,105"/>
+<area shape="rect" id="node4" href="$classalbaTimeStamped.html" title="class acting as an interface for timestamped objects This object simply defines few methods for manag..." alt="" coords="137,5,264,31"/>
+<area shape="rect" id="node6" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="231,168,328,193"/>
+<area shape="rect" id="node7" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="352,168,447,193"/>
+<area shape="rect" id="node8" href="$classalbaEventSender.html" title="class acting as an interface for objects using ALBA hierarchical event communication model This objec..." alt="" coords="471,168,589,193"/>
+</map>

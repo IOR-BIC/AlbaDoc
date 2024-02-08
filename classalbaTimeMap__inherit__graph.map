@@ -1,0 +1,5 @@
+<map id="albaTimeMap&lt; T &gt;" name="albaTimeMap&lt; T &gt;">
+<area shape="rect" id="node1" title="a dynamic associative sorted array of timestamped objects indexed by their &quot;timestamp&quot;." alt="" coords="46,79,177,104"/>
+<area shape="rect" id="node2" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="5,5,89,31"/>
+<area shape="rect" id="node3" href="$classalbaTimeStamped.html" title="class acting as an interface for timestamped objects This object simply defines few methods for manag..." alt="" coords="113,5,240,31"/>
+</map>

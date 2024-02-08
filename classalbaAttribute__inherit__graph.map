@@ -1,0 +1,11 @@
+<map id="albaAttribute" name="albaAttribute">
+<area shape="rect" id="node1" title="An abstract class for objects representing an attribute for albaVMEs." alt="" coords="337,104,432,129"/>
+<area shape="rect" id="node5" href="$classalbaAttributeTraceability.html" title="Set trials information about operations which created or modified VME." alt="" coords="480,5,641,31"/>
+<area shape="rect" id="node6" href="$classalbaTagArray.html" title="An attribute used to store an associtive array of &lt;key,value&gt; pairs, where value is multi component." alt="" coords="511,55,610,80"/>
+<area shape="rect" id="node7" href="$classmmaApplicationLayout.html" title=" " alt="" coords="483,104,638,129"/>
+<area shape="rect" id="node8" href="$classmmaMaterial.html" title=" " alt="" coords="512,153,609,179"/>
+<area shape="rect" id="node9" href="$classmmaVolumeMaterial.html" title=" " alt="" coords="490,203,631,228"/>
+<area shape="rect" id="node2" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="137,79,289,104"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="5,79,89,104"/>
+<area shape="rect" id="node4" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="166,128,261,153"/>
+</map>

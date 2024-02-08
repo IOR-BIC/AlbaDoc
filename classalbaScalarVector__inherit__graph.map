@@ -1,0 +1,8 @@
+<map id="albaScalarVector" name="albaScalarVector">
+<area shape="rect" id="node1" title="a dynamic associative sorted vector of scalar values indexed by their &quot;timestamp&quot;." alt="" coords="128,257,250,283"/>
+<area shape="rect" id="node2" href="$classalbaTimeMapScalar.html" title=" " alt="" coords="45,168,189,208"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="14,5,98,31"/>
+<area shape="rect" id="node5" href="$classalbaTimeMapScalar.html" title="a dynamic associative sorted array of scalars indexed by their &quot;timestamp&quot;." alt="" coords="34,80,200,105"/>
+<area shape="rect" id="node4" href="$classalbaTimeStamped.html" title="class acting as an interface for timestamped objects This object simply defines few methods for manag..." alt="" coords="123,5,250,31"/>
+<area shape="rect" id="node6" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="214,175,308,201"/>
+</map>

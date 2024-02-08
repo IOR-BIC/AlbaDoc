@@ -1,0 +1,4 @@
+<map id="albaDataPipe::SetDependOnPose" name="albaDataPipe::SetDependOnPose">
+<area shape="rect" id="node1" title="enable/disable the dependence of this data pipe from VME&#39;s pose matrix" alt="" coords="5,5,224,31"/>
+<area shape="rect" id="node2" href="$classalbaTimeStamped.html#a8e90deb832826ded9380e27a87d27bd2" title="Update this objects modification time." alt="" coords="272,5,455,31"/>
+</map>

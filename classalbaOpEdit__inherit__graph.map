@@ -1,0 +1,11 @@
+<map id="albaOpEdit" name="albaOpEdit">
+<area shape="rect" id="node1" title="class name: albaOpEdit Interface operation for cut, copy, and paste operation." alt="" coords="178,152,265,177"/>
+<area shape="rect" id="node6" href="$classalbaOpCopy.html" title="class name: albaOpCopy Operation which perform copy of a node." alt="" coords="5,225,99,251"/>
+<area shape="rect" id="node7" href="$classalbaOpCut.html" title="class name: albaOpCut Operation which perform cut on a node input." alt="" coords="123,225,205,251"/>
+<area shape="rect" id="node8" href="$classalbaOpPaste.html" title="class name: albaOpPaste Operation which perform paste of a node previously copied or cut." alt="" coords="230,225,327,251"/>
+<area shape="rect" id="node9" href="$classalbaOpRename.html" title="class name: albaOpPaste Operation which perform paste of a node previously copied or cut." alt="" coords="351,225,462,251"/>
+<area shape="rect" id="node2" href="$classalbaOp.html" title=" " alt="" coords="190,79,253,104"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="58,5,155,31"/>
+<area shape="rect" id="node4" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="179,5,263,31"/>
+<area shape="rect" id="node5" title=" " alt="" coords="287,5,409,31"/>
+</map>

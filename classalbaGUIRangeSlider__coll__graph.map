@@ -1,0 +1,5 @@
+<map id="albaGUIRangeSlider" name="albaGUIRangeSlider">
+<area shape="rect" id="node1" title="class name: albaGUIRangeSlider Class that handles a slider for visualising or changing range." alt="" coords="31,93,170,119"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,84,31"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="108,5,205,31"/>
+</map>

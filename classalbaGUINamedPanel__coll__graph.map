@@ -1,0 +1,7 @@
+<map id="albaGUINamedPanel" name="albaGUINamedPanel">
+<area shape="rect" id="node1" title="Class Name: albaGUINamedPanel." alt="" coords="97,168,239,193"/>
+<area shape="rect" id="node2" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="5,80,107,105"/>
+<area shape="rect" id="node3" title=" " alt="" coords="21,5,91,31"/>
+<area shape="rect" id="node4" href="$classalbaGUILab.html" title="albaGUILab is a Label that notify user&#45;click using the normal wxEvents." alt="" coords="238,80,327,105"/>
+<area shape="rect" id="node5" title=" " alt="" coords="234,5,331,31"/>
+</map>

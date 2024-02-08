@@ -1,0 +1,9 @@
+<map id="ProStorable" name="ProStorable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,96,155"/>
+<area shape="rect" id="node2" href="$classalbaProDBCompGroup.html" title="Class Name: albaProsthesisDBManager." alt="" coords="157,5,311,31"/>
+<area shape="rect" id="node3" href="$classalbaProDBComponent.html" title=" " alt="" coords="159,55,309,80"/>
+<area shape="rect" id="node4" href="$classalbaProDBProducer.html" title="Class Name: ProProducer." alt="" coords="166,104,302,129"/>
+<area shape="rect" id="node5" href="$classalbaProDBProsthesis.html" title=" " alt="" coords="161,153,307,179"/>
+<area shape="rect" id="node6" href="$classalbaProDBType.html" title="Class Name: ProType." alt="" coords="178,203,290,228"/>
+<area shape="rect" id="node7" href="$classalbaProsthesesDBManager.html" title="Class Name: albaProsthesesDBManager." alt="" coords="144,252,324,277"/>
+</map>

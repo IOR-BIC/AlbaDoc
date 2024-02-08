@@ -1,0 +1,10 @@
+<map id="albaTimeStamped" name="albaTimeStamped">
+<area shape="rect" id="node1" title="class acting as an interface for timestamped objects This object simply defines few methods for manag..." alt="" coords="357,5,483,31"/>
+<area shape="rect" id="node2" href="$classalbaDataPipe.html" title="abstract class for process objects producing data as output of a VME." alt="" coords="5,79,104,104"/>
+<area shape="rect" id="node3" href="$classalbaMatrix3x3.html" title="albaMatrix3x3 &#45; Simple 3x3 Matrix." alt="" coords="129,79,231,104"/>
+<area shape="rect" id="node4" href="$classalbaOBB.html" title="This class simply stores a Box boundary (i.e." alt="" coords="256,79,331,104"/>
+<area shape="rect" id="node5" href="$classalbaTimeMap.html" title="a dynamic associative sorted array of timestamped objects indexed by their &quot;timestamp&quot;." alt="" coords="355,79,485,104"/>
+<area shape="rect" id="node6" href="$classalbaTimeMapScalar.html" title="a dynamic associative sorted array of scalars indexed by their &quot;timestamp&quot;." alt="" coords="510,79,677,104"/>
+<area shape="rect" id="node7" href="$classalbaVME.html" title="albaVME &#45;" alt="" coords="701,79,776,104"/>
+<area shape="rect" id="node8" href="$classalbaVMERoot.html" title="albaVMERoot &#45; a VME is the root of a tree of VME nodes." alt="" coords="687,152,790,177"/>
+</map>

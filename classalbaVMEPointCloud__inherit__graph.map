@@ -1,0 +1,15 @@
+<map id="albaVMEPointCloud" name="albaVMEPointCloud">
+<area shape="rect" id="node1" title="albaVMEPointCloud &#45; this class stores a set of points as a VME albaVMEPointCloud is a concrete VME ob..." alt="" coords="1047,129,1185,155"/>
+<area shape="rect" id="node2" href="$classalbaVMESurface.html" title="albaVMESurface &#45; a VME featuring an internal array for matrices and VTK datasets." alt="" coords="880,129,999,155"/>
+<area shape="rect" id="node3" href="$classalbaVMEGeneric.html" title="albaVMEGeneric &#45; a VME featuring an internal array for matrices and VTK datasets." alt="" coords="712,129,832,155"/>
+<area shape="rect" id="node4" href="$classalbaVMEGenericAbstract.html" title="albaVMEGenericAbstract &#45; a VME featuring an internal array for matrices and data." alt="" coords="495,129,664,155"/>
+<area shape="rect" id="node5" href="$classalbaVME.html" title="albaVME &#45;" alt="" coords="372,129,447,155"/>
+<area shape="rect" id="node6" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="172,5,324,31"/>
+<area shape="rect" id="node7" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="23,5,107,31"/>
+<area shape="rect" id="node8" href="$classalbaEventBroadcaster.html" title="This class inerith form albaEventSender and extends albaEventSender with the capacity of send events ..." alt="" coords="174,55,322,80"/>
+<area shape="rect" id="node9" href="$classalbaEventSender.html" title="class acting as an interface for objects using ALBA hierarchical event communication model This objec..." alt="" coords="5,55,124,80"/>
+<area shape="rect" id="node10" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="201,104,295,129"/>
+<area shape="rect" id="node11" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="199,153,297,179"/>
+<area shape="rect" id="node12" href="$classalbaTimeStamped.html" title="class acting as an interface for timestamped objects This object simply defines few methods for manag..." alt="" coords="185,203,311,228"/>
+<area shape="rect" id="node13" title=" " alt="" coords="187,252,309,277"/>
+</map>

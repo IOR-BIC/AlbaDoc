@@ -1,0 +1,15 @@
+<map id="albaGUITimeBar" name="albaGUITimeBar">
+<area shape="rect" id="node1" title="albaGUITimeBar is a wxPanel with a set of widget to handle time." alt="" coords="1256,277,1372,303"/>
+<area shape="rect" id="node2" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="133,319,235,344"/>
+<area shape="rect" id="node13" href="$classalbaGUI.html" title="albaGUI is a panel with function to easily create GUI." alt="" coords="389,195,457,220"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,319,76,344"/>
+<area shape="rect" id="node4" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="135,168,233,193"/>
+<area shape="rect" id="node7" href="$classalbaGUIPicButton.html" title="albaGUIPicButton inherit from wxBitmapButton." alt="" coords="360,91,485,116"/>
+<area shape="rect" id="node12" href="$classalbaGUISettings.html" title="class name: albaGUISettings base class for more complex specified classes regarding the setting of ap..." alt="" coords="616,277,732,303"/>
+<area shape="rect" id="node5" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="383,419,463,444"/>
+<area shape="rect" id="node6" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="146,419,222,444"/>
+<area shape="rect" id="node8" title=" " alt="" coords="125,5,243,31"/>
+<area shape="rect" id="node9" href="$classalbaGUIFloatSlider.html" title="a Slider that can be used to set double values, albaGUIFloatSlider send usual wxWindows Events; Use a..." alt="" coords="942,479,1073,504"/>
+<area shape="rect" id="node10" title=" " alt="" coords="587,479,761,504"/>
+<area shape="rect" id="node11" href="$classalbaGUISettingsTimeBar.html" title="class name: albaGUISettingsTimeBar Gui class for handling time bar properties inside application sett..." alt="" coords="925,277,1089,303"/>
+</map>

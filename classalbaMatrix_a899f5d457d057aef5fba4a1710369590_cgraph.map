@@ -1,0 +1,6 @@
+<map id="albaMatrix::Invert" name="albaMatrix::Invert">
+<area shape="rect" id="node1" title="Matrix Inversion (adapted from Richard Carling in &quot;Graphics Gems,&quot; Academic Press,..." alt="" coords="5,79,125,104"/>
+<area shape="rect" id="node2" href="$classalbaMatrix.html#a19b165650db9aec213cf4d834dddd665" title="return pointer to elements matrix: returned type is a double [4][4] object" alt="" coords="173,5,340,31"/>
+<area shape="rect" id="node3" href="$classalbaMatrix.html#a741192fc2b3b179e32aa930bbafcb64c" title="Matrix Inversion (adapted from Richard Carling in &quot;Graphics Gems,&quot; Academic Press,..." alt="" coords="197,79,317,104"/>
+<area shape="rect" id="node4" href="$classalbaMatrix.html#a7974981528c1ee1b92632b413ee387a7" title="update modification time stamp for this object" alt="" coords="187,128,326,153"/>
+</map>

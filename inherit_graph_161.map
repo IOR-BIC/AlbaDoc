@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,153,91,179"/>
+<area shape="rect" id="node2" href="$classvtkALBAHistogram.html" title="class Name: vtkALBAHistogram This class handles a group of actors in order to generate an histogram." alt="" coords="168,5,299,31"/>
+<area shape="rect" id="node3" href="$classvtkALBAProfilingActor.html" title="class name: vtkALBAProfilingActor an actor displaying the frame per second value and the time elapsed..." alt="" coords="159,55,308,80"/>
+<area shape="rect" id="node4" href="$classvtkALBARulerActor2D.html" title=" " alt="" coords="159,104,308,129"/>
+<area shape="rect" id="node5" href="$classvtkALBASimpleRulerActor2D.html" title="an actor displaying world X and Y axes as an Actor2D." alt="" coords="139,153,328,179"/>
+<area shape="rect" id="node6" href="$classvtkALBATextActorMeter.html" title="class vtkALBATextActorMeter: An actor displaying world X and Y axes as an Actor2D." alt="" coords="153,203,314,228"/>
+<area shape="rect" id="node7" href="$classvtkALBATextOrientator.html" title="class name: vtkALBATextOrientator an actor displaying world X and Y axes as an Actor2D." alt="" coords="156,252,311,277"/>
+<area shape="rect" id="node8" href="$classvtkALBAXYPlotActor.html" title="This class is a modification of vtkXYPlotActor whit some bug correction about plot rendering." alt="" coords="162,301,305,327"/>
+</map>

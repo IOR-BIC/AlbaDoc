@@ -1,0 +1,52 @@
+<map id="albaOpSplitSurface" name="albaOpSplitSurface">
+<area shape="rect" id="node1" title=" " alt="" coords="3301,641,3435,666"/>
+<area shape="rect" id="node2" href="$classalbaOp.html" title=" " alt="" coords="1563,535,1626,561"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="7,1435,105,1461"/>
+<area shape="rect" id="node6" href="$classalbaVME.html" title="albaVME &#45;" alt="" coords="587,782,662,807"/>
+<area shape="rect" id="node11" href="$classalbaGUI.html" title="albaGUI is a panel with function to easily create GUI." alt="" coords="283,533,351,558"/>
+<area shape="rect" id="node19" href="$classalbaView.html" title="albaView is the base class for Views in alba." alt="" coords="870,1250,945,1275"/>
+<area shape="rect" id="node25" href="$classalbaRWIBase.html" title="albaRWIBase is a vtkRenderWindowInteractor placed on a wxWindow" alt="" coords="1544,1530,1645,1555"/>
+<area shape="rect" id="node26" href="$classalbaGUISettings.html" title="class name: albaGUISettings base class for more complex specified classes regarding the setting of ap..." alt="" coords="567,365,683,390"/>
+<area shape="rect" id="node30" href="$classalbaVMEGizmo.html" title=" " alt="" coords="2247,1114,2360,1139"/>
+<area shape="rect" id="node39" href="$classalbaGizmoInterface.html" title="Base class for operations and views gizmos." alt="" coords="2237,1497,2370,1522"/>
+<area shape="rect" id="node41" href="$classalbaGizmoTranslateAxis.html" title="Basic gizmo component used to perform constrained translation on one axis." alt="" coords="2541,515,2704,541"/>
+<area shape="rect" id="node42" href="$classalbaGizmoTranslatePlane.html" title="Basic gizmo component used to perform constrained translation on a plane." alt="" coords="2537,466,2708,491"/>
+<area shape="rect" id="node45" href="$classalbaGizmoRotateCircle.html" title="Basic gizmo component used to perform constrained rotation around an axis." alt="" coords="2545,1581,2700,1606"/>
+<area shape="rect" id="node46" href="$classalbaGizmoRotateFan.html" title="Basic gizmo component used to give rotation angle feedback." alt="" coords="2551,1630,2695,1655"/>
+<area shape="rect" id="node49" href="$classalbaGizmoScaleAxis.html" title="Basic gizmo component used to perform constrained scaling along one axis." alt="" coords="2551,1050,2694,1075"/>
+<area shape="rect" id="node50" href="$classalbaGizmoScaleIsotropic.html" title="Gizmo component used to perform isotropic scaling." alt="" coords="2539,1195,2706,1221"/>
+<area shape="rect" id="node4" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="14,175,98,201"/>
+<area shape="rect" id="node7" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="241,121,393,146"/>
+<area shape="rect" id="node17" href="$classalbaVMEOutput.html" title="albaVMEOutput &#45; the output data structure of a VME node." alt="" coords="850,529,965,554"/>
+<area shape="rect" id="node5" title=" " alt="" coords="257,1261,378,1286"/>
+<area shape="rect" id="node18" href="$classalbaInteractor.html" title="Abstract class for ALBA interactors This class provides base interface and features of ALBA continuou..." alt="" coords="1187,826,1287,851"/>
+<area shape="rect" id="node29" href="$classalbaVMEGenericAbstract.html" title="albaVMEGenericAbstract &#45; a VME featuring an internal array for matrices and data." alt="" coords="823,233,992,258"/>
+<area shape="rect" id="node37" href="$classalbaMatrix.html" title="albaMatrix &#45; Time stamped 4x4 Matrix." alt="" coords="1553,231,1636,257"/>
+<area shape="rect" id="node8" href="$classalbaEventBroadcaster.html" title="This class inerith form albaEventSender and extends albaEventSender with the capacity of send events ..." alt="" coords="243,634,391,659"/>
+<area shape="rect" id="node9" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="270,683,365,709"/>
+<area shape="rect" id="node10" href="$classalbaTimeStamped.html" title="class acting as an interface for timestamped objects This object simply defines few methods for manag..." alt="" coords="254,733,381,758"/>
+<area shape="rect" id="node12" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="5,583,107,609"/>
+<area shape="rect" id="node21" href="$classalbaGUINamedPanel.html" title="Class Name: albaGUINamedPanel." alt="" coords="246,1065,389,1090"/>
+<area shape="rect" id="node13" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="277,1163,357,1189"/>
+<area shape="rect" id="node14" href="$classalbaAutoPointer.html" title=" " alt="" coords="229,783,406,823"/>
+<area shape="rect" id="node15" href="$classalbaAutoPointer.html" title=" " alt="" coords="224,847,411,887"/>
+<area shape="rect" id="node16" href="$classalbaAutoPointer.html" title=" " alt="" coords="231,911,404,951"/>
+<area shape="rect" id="node34" href="$classalbaInteractorCompositorMouse.html" title="Associates instances of albaInteractorGenericMouse to mouse buttons and ctrl/shift keys combinations." alt="" coords="2220,732,2387,772"/>
+<area shape="rect" id="node36" href="$classalbaInteractorGenericInterface.html" title="Abstract class for general purpose interactor." alt="" coords="1497,791,1692,817"/>
+<area shape="rect" id="node23" href="$classalbaDeviceButtonsPadMouse.html" title="Tracking 2D device, i.e." alt="" coords="1141,1463,1332,1489"/>
+<area shape="rect" id="node20" href="$classalbaGUIHolder.html" title="class name: albaGUIHolder Secialized panel in which a developer can put a albaGUI." alt="" coords="572,1062,677,1087"/>
+<area shape="rect" id="node22" href="$classalbaGUIScrolledPanel.html" title="albaGUIScrolledPanel is a Panel on which is possible to add child&#45;widget." alt="" coords="243,1114,391,1139"/>
+<area shape="rect" id="node24" href="$classalbaDeviceButtonsPad.html" title="Device implementing interface for buttons." alt="" coords="831,1453,983,1478"/>
+<area shape="rect" id="node27" href="$classalbaVMESurface.html" title="albaVMESurface &#45; a VME featuring an internal array for matrices and VTK datasets." alt="" coords="1717,117,1835,142"/>
+<area shape="rect" id="node28" href="$classalbaVMEGeneric.html" title="albaVMEGeneric &#45; a VME featuring an internal array for matrices and VTK datasets." alt="" coords="1177,233,1297,258"/>
+<area shape="rect" id="node31" href="$classalbaTransform.html" title="albaTransform &#45; class for homogeneous transformations." alt="" coords="1185,881,1288,906"/>
+<area shape="rect" id="node32" href="$classvtkALBAClipSurfaceBoundingBox.html" title="Class Name: vtkALBAClipSurfaceBoundingBox." alt="" coords="2899,237,3113,262"/>
+<area shape="rect" id="node33" title=" " alt="" coords="2529,157,2716,182"/>
+<area shape="rect" id="node35" href="$classalbaInteractorGenericMouse.html" title="Constrained interaction with mouse device." alt="" coords="1860,739,2044,765"/>
+<area shape="rect" id="node38" href="$classalbaGizmoTranslate.html" title="Gizmo used to perform constrained translation along the x, yz axis or the xy, xz, yz plane." alt="" coords="2937,537,3075,562"/>
+<area shape="rect" id="node43" href="$classalbaGizmoRotate.html" title="Gizmo used to perform constrained rotation around an axis." alt="" coords="2945,1630,3067,1655"/>
+<area shape="rect" id="node47" href="$classalbaGizmoScale.html" title="Gizmo used to perform constrained scaling along the x, yz axis or the xy, xz, yz plane." alt="" coords="2947,1195,3065,1221"/>
+<area shape="rect" id="node40" href="$classalbaGUIGizmoTranslate.html" title="gui class for translation gizmo" alt="" coords="2543,565,2702,590"/>
+<area shape="rect" id="node44" href="$classalbaGUIGizmoRotate.html" title="gui class for rotation gizmo" alt="" coords="2551,1679,2695,1705"/>
+<area shape="rect" id="node48" href="$classalbaGUIGizmoScale.html" title="GUI class for scaling gizmo." alt="" coords="2553,1297,2692,1322"/>
+</map>

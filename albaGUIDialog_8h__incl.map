@@ -1,0 +1,28 @@
+<map id="albaGUIDialog.h" name="albaGUIDialog.h">
+<area shape="rect" id="node1" title=" " alt="" coords="563,5,677,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="257,79,343,104"/>
+<area shape="rect" id="node3" href="$albaEvent_8h.html" title=" " alt="" coords="475,152,565,177"/>
+<area shape="rect" id="node19" href="$albaObserver_8h.html" title=" " alt="" coords="609,225,717,251"/>
+<area shape="rect" id="node20" href="$albaGUI_8h.html" title=" " alt="" coords="367,79,446,104"/>
+<area shape="rect" id="node25" title=" " alt="" coords="691,79,823,104"/>
+<area shape="rect" id="node26" title=" " alt="" coords="847,79,1009,104"/>
+<area shape="rect" id="node4" href="$albaDefines_8h.html" title=" " alt="" coords="463,445,563,471"/>
+<area shape="rect" id="node11" href="$albaDecl_8h.html" title=" " alt="" coords="331,299,413,324"/>
+<area shape="rect" id="node17" href="$albaEventBase_8h.html" title=" " alt="" coords="414,225,533,251"/>
+<area shape="rect" id="node5" title=" " alt="" coords="305,519,415,544"/>
+<area shape="rect" id="node6" href="$albaIncludeWX_8h.html" title=" " alt="" coords="439,519,558,544"/>
+<area shape="rect" id="node7" title=" " alt="" coords="201,519,266,544"/>
+<area shape="rect" id="node8" title=" " alt="" coords="583,519,649,544"/>
+<area shape="rect" id="node9" title=" " alt="" coords="673,519,732,544"/>
+<area shape="rect" id="node10" title=" " alt="" coords="756,519,825,544"/>
+<area shape="rect" id="node12" title=" " alt="" coords="138,372,230,397"/>
+<area shape="rect" id="node13" href="$albaString_8h.html" title=" " alt="" coords="335,372,425,397"/>
+<area shape="rect" id="node16" title=" " alt="" coords="255,372,311,397"/>
+<area shape="rect" id="node14" href="$albaBase_8h.html" title=" " alt="" coords="353,445,439,471"/>
+<area shape="rect" id="node15" title=" " alt="" coords="243,445,328,471"/>
+<area shape="rect" id="node18" href="$albaObject_8h.html" title=" " alt="" coords="438,299,533,324"/>
+<area shape="rect" id="node21" title=" " alt="" coords="213,152,288,177"/>
+<area shape="rect" id="node22" title=" " alt="" coords="363,152,451,177"/>
+<area shape="rect" id="node23" href="$albaGUIPanel_8h.html" title=" " alt="" coords="5,152,117,177"/>
+<area shape="rect" id="node24" title=" " alt="" coords="142,152,189,177"/>
+</map>

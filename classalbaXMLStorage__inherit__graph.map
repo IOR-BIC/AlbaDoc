@@ -1,0 +1,6 @@
+<map id="albaXMLStorage" name="albaXMLStorage">
+<area shape="rect" id="node1" title="Concrete implementation of Storage object using Xerces&#45;C for storing in XML." alt="" coords="7,152,123,177"/>
+<area shape="rect" id="node4" href="$classalbaVMEStorage.html" title="A storage class for MSF local files." alt="" coords="5,225,125,251"/>
+<area shape="rect" id="node2" href="$classalbaStorage.html" title="Abstract class for an abject mastering the storing/restoring of objects This is an abstract class pro..." alt="" coords="20,79,111,104"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="23,5,107,31"/>
+</map>

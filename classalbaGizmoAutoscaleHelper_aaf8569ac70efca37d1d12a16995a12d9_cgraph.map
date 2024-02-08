@@ -1,0 +1,5 @@
+<map id="albaGizmoAutoscaleHelper::SetFollowScale" name="albaGizmoAutoscaleHelper::SetFollowScale">
+<area shape="rect" id="node1" title="Enable/Disable following of the camera scaling (on by default)" alt="" coords="5,5,184,45"/>
+<area shape="rect" id="node2" href="$classalbaTransformBase.html#a9d46b3c99d2b0d1e21df7fc6e60bf3dc" title="update modification time stamp for this object" alt="" coords="232,5,373,45"/>
+<area shape="rect" id="node3" href="$classalbaMTime.html#a2ef98fb922a3a773a3ab5f57135b6199" title="Update this object modification time." alt="" coords="421,13,563,38"/>
+</map>

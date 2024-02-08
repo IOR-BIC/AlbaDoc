@@ -1,0 +1,5 @@
+<map id="SparseMatrix::SetAllocator" name="SparseMatrix::SetAllocator">
+<area shape="rect" id="node1" title="use allocator , allocating block size" alt="" coords="5,5,184,31"/>
+<area shape="rect" id="node2" href="$classAllocator.html#a59ab43c3951edd7654a7ab101e3d7dc7" title="This method rolls back the allocator to the previous memory state and makes all of the memory previou..." alt="" coords="232,5,333,31"/>
+<area shape="rect" id="node3" href="$classAllocator.html#a97a2c74ef0bfcfbe7dd4c80f39d7e870" title="This method is the allocators destructor." alt="" coords="381,5,496,31"/>
+</map>

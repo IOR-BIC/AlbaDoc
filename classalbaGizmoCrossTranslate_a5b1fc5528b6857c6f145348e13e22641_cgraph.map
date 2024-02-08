@@ -1,0 +1,4 @@
+<map id="albaGizmoCrossTranslate::GetGui" name="albaGizmoCrossTranslate::GetGui">
+<area shape="rect" id="node1" title="Return gui owned by the gizmo." alt="" coords="5,5,176,45"/>
+<area shape="rect" id="node2" href="$classalbaGUIGizmoInterface.html#a653ee8c3d0ae3b6ea88e79eb2cffcf50" title="Return the gui to be plugged." alt="" coords="224,5,379,45"/>
+</map>

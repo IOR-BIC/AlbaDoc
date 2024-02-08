@@ -1,0 +1,5 @@
+<map id="PPolynomial::integral" name="PPolynomial::integral">
+<area shape="rect" id="node1" title="calculate integral on polys." alt="" coords="5,5,151,31"/>
+<area shape="rect" id="node2" href="$classPPolynomial.html#afe5c21a72f351119eb8414fd54c7079f" title="Free polynomials, allocate memory and set size starting polynomial." alt="" coords="199,5,320,31"/>
+<area shape="rect" id="node3" href="$classPPolynomial.html#af0457c1ead000cd293bfe1533c8c65d5" title="Return the size of polynomial object." alt="" coords="368,5,495,31"/>
+</map>

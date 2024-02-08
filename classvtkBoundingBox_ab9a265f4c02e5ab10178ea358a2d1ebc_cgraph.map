@@ -1,0 +1,4 @@
+<map id="vtkBoundingBox::vtkBoundingBox" name="vtkBoundingBox::vtkBoundingBox">
+<area shape="rect" id="node1" title="Construct a bounding box with the min point set to VTK_DOUBLE_MAX and the max point set to VTK_DOUBLE..." alt="" coords="5,5,221,31"/>
+<area shape="rect" id="node2" href="$classvtkBoundingBox.html#a8829d755788311bd68a1caa816a7fd80" title="Returns the box to its initialized state." alt="" coords="269,5,427,31"/>
+</map>

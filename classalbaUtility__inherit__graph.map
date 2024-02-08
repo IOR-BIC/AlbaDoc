@@ -1,0 +1,14 @@
+<map id="albaUtility" name="albaUtility">
+<area shape="rect" id="node1" title="albaUtility &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="5,239,84,264"/>
+<area shape="rect" id="node2" href="$classmmuVectorItems.html" title=" " alt="" coords="401,188,583,214"/>
+<area shape="rect" id="node3" href="$structalbaOldSubIdLink.html" title="data structure used to store a link VME and its Id" alt="" coords="149,42,272,67"/>
+<area shape="rect" id="node4" href="$classalbaTagItem.html" title="an utility class for storing &lt;key&#45;type&#45;array of values&gt; information." alt="" coords="165,91,257,116"/>
+<area shape="rect" id="node5" href="$structalbaVMEBackLink.html" title="data structure used to store a link VME and its Id" alt="" coords="146,140,275,166"/>
+<area shape="rect" id="node6" href="$structalbaVMELink.html" title="data structure used to store a link VME and its Id" alt="" coords="161,190,260,215"/>
+<area shape="rect" id="node7" href="$classmmuIdFactory.html" title="Factory for Ids used to generate unique Ids at runtime." alt="" coords="158,239,263,264"/>
+<area shape="rect" id="node8" href="$classmmuMSFDocument.html" title="utility class representing the MSF document." alt="" coords="141,288,280,314"/>
+<area shape="rect" id="node9" href="$classmmuTimeSet.html" title="class wrapping an STL &quot;set&quot; of albaTimeStamps providing API to query and merge." alt="" coords="161,338,260,363"/>
+<area shape="rect" id="node10" href="$classmmuVectorItems.html" title=" " alt="" coords="135,387,287,412"/>
+<area shape="rect" id="node11" href="$classmmuXMLDOM.html" title="mmuXMLDOM utility class for PIMPL of XML DOM types." alt="" coords="157,436,264,462"/>
+<area shape="rect" id="node12" href="$classmmuXMLDOMElement.html" title="mmuXMLDOMElement utility class for PIMPL of XML DOMElement types." alt="" coords="133,486,288,511"/>
+</map>

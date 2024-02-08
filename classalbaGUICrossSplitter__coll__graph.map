@@ -1,0 +1,6 @@
+<map id="albaGUICrossSplitter" name="albaGUICrossSplitter">
+<area shape="rect" id="node1" title="Use Put(w,id) to place widgets on the various pane &#45; id should be in 0..3." alt="" coords="99,168,242,193"/>
+<area shape="rect" id="node2" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="5,80,107,105"/>
+<area shape="rect" id="node3" title=" " alt="" coords="21,5,91,31"/>
+<area shape="rect" id="node4" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="238,80,335,105"/>
+</map>

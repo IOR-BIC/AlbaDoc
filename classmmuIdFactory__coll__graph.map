@@ -1,0 +1,4 @@
+<map id="mmuIdFactory" name="mmuIdFactory">
+<area shape="rect" id="node1" title="Factory for Ids used to generate unique Ids at runtime." alt="" coords="5,79,111,104"/>
+<area shape="rect" id="node2" href="$classalbaUtility.html" title="albaUtility &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="19,5,97,31"/>
+</map>

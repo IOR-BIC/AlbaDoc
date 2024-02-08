@@ -1,0 +1,5 @@
+<map id="albaGUIGizmoTranslate" name="albaGUIGizmoTranslate">
+<area shape="rect" id="node1" title="gui class for translation gizmo" alt="" coords="5,152,164,177"/>
+<area shape="rect" id="node2" href="$classalbaGUIGizmoInterface.html" title="abstract base class for gizmo gui" alt="" coords="7,79,162,104"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="36,5,133,31"/>
+</map>

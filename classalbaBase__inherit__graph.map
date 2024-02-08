@@ -1,0 +1,25 @@
+<map id="albaBase" name="albaBase">
+<area shape="rect" id="node1" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="5,718,81,743"/>
+<area shape="rect" id="node2" href="$classalbaAutoPointer.html" title=" " alt="" coords="493,219,691,244"/>
+<area shape="rect" id="node3" href="$classalbaAutoPointer.html" title=" " alt="" coords="493,15,691,40"/>
+<area shape="rect" id="node4" href="$classalbaAutoPointer.html" title=" " alt="" coords="488,97,696,137"/>
+<area shape="rect" id="node5" href="$classalbaAutoPointer.html" title=" " alt="" coords="497,164,687,190"/>
+<area shape="rect" id="node6" href="$classalbaAutoPointer.html" title=" " alt="" coords="483,391,701,416"/>
+<area shape="rect" id="node7" href="$classalbaAutoPointer.html" title=" " alt="" coords="489,513,695,553"/>
+<area shape="rect" id="node8" href="$classalbaAutoPointer.html" title=" " alt="" coords="503,586,681,626"/>
+<area shape="rect" id="node9" href="$classalbaAutoPointer.html" title=" " alt="" coords="499,676,685,716"/>
+<area shape="rect" id="node10" href="$classalbaAutoPointer.html" title=" " alt="" coords="505,444,679,484"/>
+<area shape="rect" id="node11" href="$classalbaVector.html" title=" " alt="" coords="520,759,664,784"/>
+<area shape="rect" id="node12" href="$classalbaAutoPointer.html" title="Hold a reference to a T instance." alt="" coords="131,339,276,364"/>
+<area shape="rect" id="node14" href="$classalbaDynamicLoader.html" title="Portable loading of dynamic libraries or dll&#39;s." alt="" coords="135,843,271,868"/>
+<area shape="rect" id="node15" href="$classalbaIndent.html" title="albaIndent &#45; a simple class to control print indentation." alt="" coords="163,892,244,918"/>
+<area shape="rect" id="node16" href="$classalbaMTime.html" title="albaMTime &#45; record modification timestamp." alt="" coords="161,942,246,967"/>
+<area shape="rect" id="node17" href="$classalbaMultiThreader.html" title="albaMultiThreader &#45; A class for performing multithreaded execution." alt="" coords="141,991,265,1016"/>
+<area shape="rect" id="node18" href="$classalbaMutexLock.html" title="Critical section locking class that can be allocated on the stack." alt="" coords="148,1040,259,1066"/>
+<area shape="rect" id="node19" href="$classalbaOBB.html" title="This class simply stores a Box boundary (i.e." alt="" coords="166,1090,241,1115"/>
+<area shape="rect" id="node20" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="163,1139,243,1164"/>
+<area shape="rect" id="node22" href="$classalbaVector.html" title="albaVector &#45; vector container wrapping STL vectors." alt="" coords="146,794,261,819"/>
+<area shape="rect" id="node23" href="$classalbaVersion.html" title="albaVersion &#45; Versioning class for ALBA." alt="" coords="158,1188,249,1214"/>
+<area shape="rect" id="node13" href="$classalbaSmartPointer.html" title="AutoPointer which self allocates the internal object." alt="" coords="515,304,669,330"/>
+<area shape="rect" id="node21" href="$classalbaCString.html" title="Class Name : albaCString." alt="" coords="547,1139,637,1164"/>
+</map>

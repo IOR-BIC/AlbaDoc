@@ -1,0 +1,4 @@
+<map id="albaStorageElement" name="albaStorageElement">
+<area shape="rect" id="node1" title="Abstract class representing the interface for the unit of information stored in the storage." alt="" coords="5,5,144,31"/>
+<area shape="rect" id="node2" href="$classalbaXMLElement.html" title="concrete implementation of albaStorageElement as an XML&#45;DOM element This class represent a concrete i..." alt="" coords="15,79,134,104"/>
+</map>

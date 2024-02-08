@@ -1,0 +1,5 @@
+<map id="albaGUIButton" name="albaGUIButton">
+<area shape="rect" id="node1" title="albaGUIButton inherit from wxButton." alt="" coords="45,93,151,119"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,81,31"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="105,5,203,31"/>
+</map>

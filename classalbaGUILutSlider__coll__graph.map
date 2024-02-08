@@ -1,0 +1,5 @@
+<map id="albaGUILutSlider" name="albaGUILutSlider">
+<area shape="rect" id="node1" title="albaGUILutSlider is a Label that notify user&#45;click using the normal wxEvents." alt="" coords="35,93,153,119"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,76,31"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="100,5,197,31"/>
+</map>

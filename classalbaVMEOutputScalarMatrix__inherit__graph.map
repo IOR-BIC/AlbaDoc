@@ -1,0 +1,5 @@
+<map id="albaVMEOutputScalarMatrix" name="albaVMEOutputScalarMatrix">
+<area shape="rect" id="node1" title="NULL output for VME node with a scalar output data." alt="" coords="5,152,192,177"/>
+<area shape="rect" id="node2" href="$classalbaVMEOutput.html" title="albaVMEOutput &#45; the output data structure of a VME node." alt="" coords="41,79,156,104"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="57,5,141,31"/>
+</map>

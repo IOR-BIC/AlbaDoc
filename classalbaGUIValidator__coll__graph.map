@@ -1,0 +1,10 @@
+<map id="albaGUIValidator" name="albaGUIValidator">
+<area shape="rect" id="node1" title=" " alt="" coords="251,183,369,208"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,95,105"/>
+<area shape="rect" id="node3" href="$classalbaGUIFloatSlider.html" title="a Slider that can be used to set double values, albaGUIFloatSlider send usual wxWindows Events; Use a..." alt="" coords="119,80,250,105"/>
+<area shape="rect" id="node4" title=" " alt="" coords="88,5,263,31"/>
+<area shape="rect" id="node5" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="274,80,354,105"/>
+<area shape="rect" id="node6" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="287,5,363,31"/>
+<area shape="rect" id="node7" href="$structWidgetDataType.html" title=" " alt="" coords="379,80,497,105"/>
+<area shape="rect" id="node8" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="521,80,619,105"/>
+</map>

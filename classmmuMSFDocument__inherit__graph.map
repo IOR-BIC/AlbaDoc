@@ -1,0 +1,5 @@
+<map id="mmuMSFDocument" name="mmuMSFDocument">
+<area shape="rect" id="node1" title="utility class representing the MSF document." alt="" coords="30,79,169,104"/>
+<area shape="rect" id="node2" href="$classalbaUtility.html" title="albaUtility &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="5,5,84,31"/>
+<area shape="rect" id="node3" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="108,5,203,31"/>
+</map>

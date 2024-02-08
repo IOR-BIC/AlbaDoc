@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,105,31"/>
+<area shape="rect" id="node2" href="$classwxFrameManager.html" title="class name: wxFrameManager Manager for dockabale panels; it can manage flags, attach/detach panes." alt="" coords="153,5,279,31"/>
+<area shape="rect" id="node3" href="$classalbaGUIDockManager.html" title="class name: albaGUIDockManager Represent a frame manager for gui dock elements." alt="" coords="327,5,475,31"/>
+</map>

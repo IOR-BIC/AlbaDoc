@@ -1,0 +1,5 @@
+<map id="albaPlugDevice::albaPlugDevice" name="albaPlugDevice::albaPlugDevice">
+<area shape="rect" id="node1" title="Plug a new Device class into the Device factory." alt="" coords="5,37,173,77"/>
+<area shape="rect" id="node2" href="$classalbaInteractionFactory.html#a450c2bb391d1102caf20373a99a48cf4" title="return the instance pointer of the factory." alt="" coords="221,5,372,45"/>
+<area shape="rect" id="node3" href="$classalbaInteractionFactory.html#a3fd6c8d1e13d581ed237b8a044e5b154" title="This function can be used by Application code to register new Objects&#39;s to the mflCoreFactory." alt="" coords="221,69,372,109"/>
+</map>

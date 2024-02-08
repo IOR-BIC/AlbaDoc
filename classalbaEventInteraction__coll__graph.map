@@ -1,0 +1,11 @@
+<map id="albaEventInteraction" name="albaEventInteraction">
+<area shape="rect" id="node1" title="Event class to transport a triggering button and a position from pointing devices." alt="" coords="61,355,199,380"/>
+<area shape="rect" id="node2" href="$classalbaEventBase.html" title="Implementation of the message object for the Subject/Observer design pattern." alt="" coords="15,129,123,155"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="5,5,89,31"/>
+<area shape="rect" id="node7" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="47,80,199,105"/>
+<area shape="rect" id="node4" href="$classalbaAutoPointer.html" title=" " alt="" coords="207,267,405,292"/>
+<area shape="rect" id="node5" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="308,5,384,31"/>
+<area shape="rect" id="node8" href="$classalbaMTime.html" title="albaMTime &#45; record modification timestamp." alt="" coords="223,80,309,105"/>
+<area shape="rect" id="node9" href="$classalbaAutoPointer.html" title="Hold a reference to a T instance." alt="" coords="367,129,512,155"/>
+<area shape="rect" id="node6" href="$classalbaMatrix.html" title="albaMatrix &#45; Time stamped 4x4 Matrix." alt="" coords="223,179,306,204"/>
+</map>

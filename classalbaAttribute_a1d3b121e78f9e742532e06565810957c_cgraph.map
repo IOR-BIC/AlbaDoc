@@ -1,0 +1,5 @@
+<map id="albaAttribute::NewInstance" name="albaAttribute::NewInstance">
+<area shape="rect" id="node1" title="defined to allow the definition of MakeCopy()." alt="" coords="5,31,183,56"/>
+<area shape="rect" id="node2" href="$classalbaObject.html#ac414759e5c57c2ea9f5dab918b610d9f" title="Return a new instance of the same type." alt="" coords="231,5,435,31"/>
+<area shape="rect" id="node3" href="$classalbaObject.html#a58e1e80743006ba54234d53999c60d19" title="Cast with dynamic type checking." alt="" coords="244,55,421,80"/>
+</map>

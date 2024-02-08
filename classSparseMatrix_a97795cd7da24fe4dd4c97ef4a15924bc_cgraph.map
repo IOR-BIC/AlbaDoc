@@ -1,0 +1,6 @@
+<map id="SparseMatrix::operator=" name="SparseMatrix::operator=">
+<area shape="rect" id="node1" title="operload operator for math operations" alt="" coords="5,31,168,56"/>
+<area shape="rect" id="node2" href="$classSparseMatrix.html#a660294b02e0384c95f03568c46807c8a" title="resize the matrix" alt="" coords="232,5,379,31"/>
+<area shape="rect" id="node3" href="$classSparseMatrix.html#a3201dd31bcddc886b0bb67c34214c811" title="change row size" alt="" coords="216,55,395,80"/>
+<area shape="rect" id="node4" href="$classAllocator.html#adaaa60ef7ded8e8b433bd20cfa4e5598" title="This method returns a pointer to an array of elements objects." alt="" coords="443,55,604,80"/>
+</map>

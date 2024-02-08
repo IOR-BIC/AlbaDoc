@@ -1,0 +1,23 @@
+<map id="albaPipeBox.h" name="albaPipeBox.h">
+<area shape="rect" id="node1" title=" " alt="" coords="491,5,597,31"/>
+<area shape="rect" id="node2" href="$albaPipe_8h.html" title=" " alt="" coords="503,79,585,104"/>
+<area shape="rect" id="node3" href="$albaDecl_8h.html" title=" " alt="" coords="253,372,336,397"/>
+<area shape="rect" id="node16" href="$albaObject_8h.html" title=" " alt="" coords="527,372,622,397"/>
+<area shape="rect" id="node17" href="$albaObserver_8h.html" title=" " alt="" coords="445,152,553,177"/>
+<area shape="rect" id="node18" href="$albaEvent_8h.html" title=" " alt="" coords="387,225,477,251"/>
+<area shape="rect" id="node20" title=" " alt="" coords="629,152,761,177"/>
+<area shape="rect" id="node21" title=" " alt="" coords="785,152,946,177"/>
+<area shape="rect" id="node4" href="$albaDefines_8h.html" title=" " alt="" coords="338,519,438,544"/>
+<area shape="rect" id="node11" title=" " alt="" coords="279,445,371,471"/>
+<area shape="rect" id="node12" href="$albaString_8h.html" title=" " alt="" coords="113,445,204,471"/>
+<area shape="rect" id="node15" title=" " alt="" coords="396,445,452,471"/>
+<area shape="rect" id="node5" title=" " alt="" coords="89,592,199,617"/>
+<area shape="rect" id="node6" href="$albaIncludeWX_8h.html" title=" " alt="" coords="490,592,609,617"/>
+<area shape="rect" id="node7" title=" " alt="" coords="223,592,289,617"/>
+<area shape="rect" id="node8" title=" " alt="" coords="633,592,700,617"/>
+<area shape="rect" id="node9" title=" " alt="" coords="313,592,372,617"/>
+<area shape="rect" id="node10" title=" " alt="" coords="396,592,465,617"/>
+<area shape="rect" id="node13" href="$albaBase_8h.html" title=" " alt="" coords="115,519,202,544"/>
+<area shape="rect" id="node14" title=" " alt="" coords="5,519,91,544"/>
+<area shape="rect" id="node19" href="$albaEventBase_8h.html" title=" " alt="" coords="333,299,451,324"/>
+</map>

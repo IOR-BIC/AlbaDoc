@@ -1,0 +1,14 @@
+<map id="albaAutoPointer&lt; T &gt;" name="albaAutoPointer&lt; T &gt;">
+<area shape="rect" id="node1" title="Hold a reference to a T instance." alt="" coords="131,249,276,274"/>
+<area shape="rect" id="node3" href="$classalbaSmartPointer.html" title="AutoPointer which self allocates the internal object." alt="" coords="515,10,669,35"/>
+<area shape="rect" id="node4" href="$classalbaAutoPointer.html" title=" " alt="" coords="493,59,691,85"/>
+<area shape="rect" id="node5" href="$classalbaAutoPointer.html" title=" " alt="" coords="493,109,691,134"/>
+<area shape="rect" id="node6" href="$classalbaAutoPointer.html" title=" " alt="" coords="488,159,696,199"/>
+<area shape="rect" id="node7" href="$classalbaAutoPointer.html" title=" " alt="" coords="497,223,687,249"/>
+<area shape="rect" id="node8" href="$classalbaAutoPointer.html" title=" " alt="" coords="483,273,701,298"/>
+<area shape="rect" id="node9" href="$classalbaAutoPointer.html" title=" " alt="" coords="489,323,695,363"/>
+<area shape="rect" id="node10" href="$classalbaAutoPointer.html" title=" " alt="" coords="503,387,681,427"/>
+<area shape="rect" id="node11" href="$classalbaAutoPointer.html" title=" " alt="" coords="499,451,685,491"/>
+<area shape="rect" id="node12" href="$classalbaAutoPointer.html" title=" " alt="" coords="505,515,679,555"/>
+<area shape="rect" id="node2" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="5,249,81,274"/>
+</map>

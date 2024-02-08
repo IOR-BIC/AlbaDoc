@@ -1,0 +1,7 @@
+<map id="PPolynomial::GaussianApproximation" name="PPolynomial::GaussianApproximation">
+<area shape="rect" id="node1" title="Compute gaussian approximation." alt="" coords="5,31,247,56"/>
+<area shape="rect" id="node2" href="$classPPolynomial.html#a0403612cc482f11efaf7a6da1bfd5e65" title="Compute moving average." alt="" coords="295,31,484,56"/>
+<area shape="rect" id="node3" href="$classPPolynomial.html#afe5c21a72f351119eb8414fd54c7079f" title="Free polynomials, allocate memory and set size starting polynomial." alt="" coords="532,5,653,31"/>
+<area shape="rect" id="node5" href="$classPolynomial.html#a74822441507819aba4d01f854a1b91bf" title="overload operator, according to the operation over coefficients" alt="" coords="533,55,653,80"/>
+<area shape="rect" id="node4" href="$classPPolynomial.html#af0457c1ead000cd293bfe1533c8c65d5" title="Return the size of polynomial object." alt="" coords="701,5,828,31"/>
+</map>

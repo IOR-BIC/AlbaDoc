@@ -1,0 +1,5 @@
+<map id="albaObserverCallback" name="albaObserverCallback">
+<area shape="rect" id="node1" title="Concrete implementation of Observer calling a callback function." alt="" coords="31,79,178,104"/>
+<area shape="rect" id="node2" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="5,5,89,31"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="113,5,211,31"/>
+</map>

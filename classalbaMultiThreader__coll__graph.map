@@ -1,0 +1,6 @@
+<map id="albaMultiThreader" name="albaMultiThreader">
+<area shape="rect" id="node1" title="albaMultiThreader &#45; A class for performing multithreaded execution." alt="" coords="27,285,151,311"/>
+<area shape="rect" id="node2" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="5,5,81,31"/>
+<area shape="rect" id="node4" href="$classalbaMutexLock.html" title="Critical section locking class that can be allocated on the stack." alt="" coords="65,80,176,105"/>
+<area shape="rect" id="node3" href="$classalbaMultiThreader_1_1mmuThreadInfo.html" title=" " alt="" coords="316,168,448,208"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="albaVMESegmentationVolume::VolumeAccept" name="albaVMESegmentationVolume::VolumeAccept">
+<area shape="rect" id="node1" title="Return true if node is of type albaVMEVolume." alt="" coords="5,5,204,45"/>
+<area shape="rect" id="node2" href="$classalbaObject.html#a09bce7db9a58c1c910d742cd5efa9341" title="Check the class name of this instance." alt="" coords="252,13,363,38"/>
+</map>

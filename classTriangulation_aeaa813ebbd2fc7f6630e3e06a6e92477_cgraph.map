@@ -1,0 +1,6 @@
+<map id="Triangulation::Area" name="Triangulation::Area">
+<area shape="rect" id="node1" title="calculate area with cross product" alt="" coords="5,31,136,56"/>
+<area shape="rect" id="node2" href="$vtkALBAPoissonSurfaceReconstruction_8h.html#a7b3f73091d25937b0cd3370d67c3ae60" title="Cross product beetwen two 3d points: thrid input parameter will save resulting point." alt="" coords="184,5,285,31"/>
+<area shape="rect" id="node3" href="$vtkALBAPoissonSurfaceReconstruction_8h.html#a16b0d9abfcce4d45fa90d47e53d91067" title="Return distance beetwen origin and a 3d point." alt="" coords="204,55,265,80"/>
+<area shape="rect" id="node4" href="$vtkALBAPoissonSurfaceReconstruction_8h.html#aa49948ef18c5656ca280d0de76f4e15e" title="Return square distance beetwen origin and a 3d point." alt="" coords="333,55,436,80"/>
+</map>

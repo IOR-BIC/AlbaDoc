@@ -1,0 +1,11 @@
+<map id="albaMatrixVector" name="albaMatrixVector">
+<area shape="rect" id="node1" title="a dynamic associative sorted vector of 4x4 matrices indexed by their &quot;timestamp&quot;." alt="" coords="211,419,331,444"/>
+<area shape="rect" id="node2" href="$classalbaTimeMap.html" title=" " alt="" coords="99,344,281,369"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="5,168,89,193"/>
+<area shape="rect" id="node8" href="$classalbaTimeMap.html" title="a dynamic associative sorted array of timestamped objects indexed by their &quot;timestamp&quot;." alt="" coords="67,256,198,281"/>
+<area shape="rect" id="node4" href="$classalbaTimeStamped.html" title="class acting as an interface for timestamped objects This object simply defines few methods for manag..." alt="" coords="295,168,421,193"/>
+<area shape="rect" id="node5" href="$classalbaMTime.html" title="albaMTime &#45; record modification timestamp." alt="" coords="303,80,389,105"/>
+<area shape="rect" id="node6" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="232,5,308,31"/>
+<area shape="rect" id="node7" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="190,168,270,193"/>
+<area shape="rect" id="node9" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="305,344,400,369"/>
+</map>

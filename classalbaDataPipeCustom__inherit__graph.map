@@ -1,0 +1,10 @@
+<map id="albaDataPipeCustom" name="albaDataPipeCustom">
+<area shape="rect" id="node1" title="a data pipe which simply forwards VTK update events to the VME." alt="" coords="173,225,317,251"/>
+<area shape="rect" id="node7" href="$classalbaDataPipeCustomProber.html" title="a data pipe which calculate new data depending on parameters given by the VME." alt="" coords="41,306,223,331"/>
+<area shape="rect" id="node8" href="$classalbaDataPipeCustomSegmentationVolume.html" title=" " alt="" coords="248,299,472,339"/>
+<area shape="rect" id="node2" href="$classalbaDataPipe.html" title="abstract class for process objects producing data as output of a VME." alt="" coords="196,152,295,177"/>
+<area shape="rect" id="node3" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="5,79,157,104"/>
+<area shape="rect" id="node4" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="39,5,123,31"/>
+<area shape="rect" id="node5" href="$classalbaTimeStamped.html" title="class acting as an interface for timestamped objects This object simply defines few methods for manag..." alt="" coords="182,79,309,104"/>
+<area shape="rect" id="node6" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="333,79,430,104"/>
+</map>

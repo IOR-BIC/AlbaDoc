@@ -1,0 +1,4 @@
+<map id="albaMatrixVector::GetKeyMatrix" name="albaMatrixVector::GetKeyMatrix">
+<area shape="rect" id="node1" title="Return a matrix in the vector, given its order index." alt="" coords="5,5,177,45"/>
+<area shape="rect" id="node2" href="$classalbaTimeMap.html#ac947ab7672b48aff9add3c673a107ba2" title="return the item with given its order index." alt="" coords="225,13,425,38"/>
+</map>

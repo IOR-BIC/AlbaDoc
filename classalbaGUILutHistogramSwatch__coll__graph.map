@@ -1,0 +1,13 @@
+<map id="albaGUILutHistogramSwatch" name="albaGUILutHistogramSwatch">
+<area shape="rect" id="node1" title=" " alt="" coords="133,331,321,356"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,243,76,268"/>
+<area shape="rect" id="node3" title=" " alt="" coords="100,243,221,268"/>
+<area shape="rect" id="node4" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="245,243,343,268"/>
+<area shape="rect" id="node5" href="$classmmaVolumeMaterial.html" title=" " alt="" coords="367,243,509,268"/>
+<area shape="rect" id="node6" href="$classalbaAttribute.html" title="An abstract class for objects representing an attribute for albaVMEs." alt="" coords="315,168,409,193"/>
+<area shape="rect" id="node7" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="125,80,277,105"/>
+<area shape="rect" id="node8" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="159,5,243,31"/>
+<area shape="rect" id="node9" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="301,80,396,105"/>
+<area shape="rect" id="node10" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="426,80,506,105"/>
+<area shape="rect" id="node11" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="428,5,504,31"/>
+</map>

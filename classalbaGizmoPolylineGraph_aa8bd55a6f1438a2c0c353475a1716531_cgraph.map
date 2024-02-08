@@ -1,0 +1,4 @@
+<map id="albaGizmoPolylineGraph::GetActiveBranchId" name="albaGizmoPolylineGraph::GetActiveBranchId">
+<area shape="rect" id="node1" title="Get the active branch ie the branch to which gizmo is currently constrained." alt="" coords="5,5,171,45"/>
+<area shape="rect" id="node2" href="$classalbaCurvilinearAbscissaOnSkeletonHelper.html#a1fe38761d6a7af4f906d6732ec2aab28" title="Get the active branch ie the branch to which inputVME is currently constrained." alt="" coords="219,5,444,45"/>
+</map>

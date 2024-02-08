@@ -1,0 +1,10 @@
+<map id="albaGUISettings.h" name="albaGUISettings.h">
+<area shape="rect" id="node1" title=" " alt="" coords="639,5,765,31"/>
+<area shape="rect" id="node2" href="$albaGUIApplicationSettings_8h.html" title=" " alt="" coords="5,79,196,104"/>
+<area shape="rect" id="node3" href="$albaGUIDicomSettings_8h.html" title=" " alt="" coords="220,79,384,104"/>
+<area shape="rect" id="node4" href="$albaGUISettingsAdvanced_8h.html" title=" " alt="" coords="408,79,591,104"/>
+<area shape="rect" id="node5" href="$albaGUISettingsTimeBar_8h.html" title=" " alt="" coords="615,79,789,104"/>
+<area shape="rect" id="node6" href="$albaSnapshotManager_8h.html" title=" " alt="" coords="814,79,977,104"/>
+<area shape="rect" id="node7" href="$albaViewManager_8h.html" title=" " alt="" coords="1001,79,1136,104"/>
+<area shape="rect" id="node8" href="$albaWizardSettings_8h.html" title=" " alt="" coords="1161,79,1307,104"/>
+</map>

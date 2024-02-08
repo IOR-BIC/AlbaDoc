@@ -1,0 +1,6 @@
+<map id="albaGUIDialog" name="albaGUIDialog">
+<area shape="rect" id="node1" title="albaGUIDialog is the base class for albaDialogs." alt="" coords="100,93,204,119"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,80,31"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="105,5,202,31"/>
+<area shape="rect" id="node4" title=" " alt="" coords="226,5,347,31"/>
+</map>

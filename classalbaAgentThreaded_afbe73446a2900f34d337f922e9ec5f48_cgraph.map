@@ -1,0 +1,4 @@
+<map id="albaAgentThreaded::Update" name="albaAgentThreaded::Update">
+<area shape="rect" id="node1" title="This function forces the agent to update its state." alt="" coords="5,5,147,45"/>
+<area shape="rect" id="node2" href="$classalbaAgent.html#ad6ec7cb061d3c91ee73ac2b9e085f072" title="Return true if this agent has been initialized." alt="" coords="195,13,347,38"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="albaTransformBase" name="albaTransformBase">
+<area shape="rect" id="node1" title="Superclass for Homogeneous transformations." alt="" coords="372,104,505,129"/>
+<area shape="rect" id="node6" href="$classalbaCameraTransform.html" title="Implement transform between view coordinates to world coordinates." alt="" coords="569,5,717,31"/>
+<area shape="rect" id="node7" href="$classalbaGizmoAutoscaleHelper.html" title="Helper object for gizmo autoscaling ie actor2D&#45;like behavior." alt="" coords="553,55,732,80"/>
+<area shape="rect" id="node8" href="$classalbaMatrixPipe.html" title="bridge class between albaTransform pipeline and VME to compute VME output matrix." alt="" coords="589,104,697,129"/>
+<area shape="rect" id="node10" href="$classalbaTransform.html" title="albaTransform &#45; class for homogeneous transformations." alt="" coords="591,153,694,179"/>
+<area shape="rect" id="node11" href="$classalbaTransformFrame.html" title="albaTransformFrame &#45; class for multi frame homogeneous transformations." alt="" coords="573,203,713,228"/>
+<area shape="rect" id="node2" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="172,79,324,104"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="23,79,107,104"/>
+<area shape="rect" id="node4" href="$classalbaEventBroadcaster.html" title="This class inerith form albaEventSender and extends albaEventSender with the capacity of send events ..." alt="" coords="174,128,322,153"/>
+<area shape="rect" id="node5" href="$classalbaEventSender.html" title="class acting as an interface for objects using ALBA hierarchical event communication model This objec..." alt="" coords="5,128,124,153"/>
+<area shape="rect" id="node9" href="$classalbaAbsMatrixPipe.html" title="albaAbsMatrixPipe &#45; this class implements VME tree direct cinematic (AbsMatrix)." alt="" coords="780,104,911,129"/>
+</map>

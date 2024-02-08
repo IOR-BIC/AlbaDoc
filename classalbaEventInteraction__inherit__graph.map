@@ -1,0 +1,5 @@
+<map id="albaEventInteraction" name="albaEventInteraction">
+<area shape="rect" id="node1" title="Event class to transport a triggering button and a position from pointing devices." alt="" coords="5,152,144,177"/>
+<area shape="rect" id="node2" href="$classalbaEventBase.html" title="Implementation of the message object for the Subject/Observer design pattern." alt="" coords="21,79,129,104"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="33,5,117,31"/>
+</map>

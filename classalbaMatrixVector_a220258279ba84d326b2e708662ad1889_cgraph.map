@@ -1,0 +1,4 @@
+<map id="albaMatrixVector::GetMatrix" name="albaMatrixVector::GetMatrix">
+<area shape="rect" id="node1" title="return the matrix with the timestamp==t." alt="" coords="5,5,191,31"/>
+<area shape="rect" id="node2" href="$classalbaTimeMap.html#a7972ca11cac9199b310f31ce13d5b330" title="find and return item corresponding to timestamp t." alt="" coords="239,5,392,31"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="albaGUIDialogLogin" name="albaGUIDialogLogin">
+<area shape="rect" id="node1" title="albaGUIDialogLogin &#45; a dialog widget with a find VME GUI." alt="" coords="332,315,467,340"/>
+<area shape="rect" id="node2" href="$classalbaGUIDialog.html" title="albaGUIDialog is the base class for albaDialogs." alt="" coords="170,168,274,193"/>
+<area shape="rect" id="node3" title=" " alt="" coords="151,80,226,105"/>
+<area shape="rect" id="node4" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="279,80,376,105"/>
+<area shape="rect" id="node6" href="$classalbaGUI.html" title="albaGUI is a panel with function to easily create GUI." alt="" coords="365,168,433,193"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,80,127,105"/>
+<area shape="rect" id="node7" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="419,80,521,105"/>
+<area shape="rect" id="node8" title=" " alt="" coords="435,5,505,31"/>
+<area shape="rect" id="node9" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="554,168,634,193"/>
+<area shape="rect" id="node10" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="652,80,728,105"/>
+</map>

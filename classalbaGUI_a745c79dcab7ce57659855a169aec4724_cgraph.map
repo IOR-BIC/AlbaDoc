@@ -1,0 +1,4 @@
+<map id="albaGUI::Remove" name="albaGUI::Remove">
+<area shape="rect" id="node1" title="Remove window from gui sizer." alt="" coords="5,5,128,31"/>
+<area shape="rect" id="node2" href="$albaDecl_8h.html#adb64f289933a0ec1ea0035129936d8fb" title="return the application frame window." alt="" coords="176,5,280,31"/>
+</map>

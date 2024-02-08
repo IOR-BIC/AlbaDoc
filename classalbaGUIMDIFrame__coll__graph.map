@@ -1,0 +1,14 @@
+<map id="albaGUIMDIFrame" name="albaGUIMDIFrame">
+<area shape="rect" id="node1" title="Class Name: albaGUIMDIFrame." alt="" coords="229,359,357,384"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,271,141,296"/>
+<area shape="rect" id="node3" title=" " alt="" coords="166,271,287,296"/>
+<area shape="rect" id="node4" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="311,271,409,296"/>
+<area shape="rect" id="node5" href="$classalbaGUIDockManager.html" title="class name: albaGUIDockManager Represent a frame manager for gui dock elements." alt="" coords="433,271,581,296"/>
+<area shape="rect" id="node6" href="$classwxFrameManager.html" title="class name: wxFrameManager Manager for dockabale panels; it can manage flags, attach/detach panes." alt="" coords="444,196,569,221"/>
+<area shape="rect" id="node7" title=" " alt="" coords="339,93,439,119"/>
+<area shape="rect" id="node8" href="$classwxDockArt.html" title="class name: wxDockArt dock art provider code &#45; a dock provider provides all drawing functionality to ..." alt="" coords="464,93,549,119"/>
+<area shape="rect" id="node9" href="$classwxDockUIPart.html" title="class name: wxDockUIPart This class define a UI part of a dock." alt="" coords="573,93,677,119"/>
+<area shape="rect" id="node10" href="$classwxDockInfo.html" title="class name: wxDockInfo This class define properties of a dock." alt="" coords="469,5,557,31"/>
+<area shape="rect" id="node11" href="$classwxPaneInfo.html" title="class name: wxPaneInfo This class define properties of a pane." alt="" coords="581,5,669,31"/>
+<area shape="rect" id="node12" href="$classwxPaneButton.html" title="class name: wxPaneButton This class define a button of a pane." alt="" coords="693,5,800,31"/>
+</map>

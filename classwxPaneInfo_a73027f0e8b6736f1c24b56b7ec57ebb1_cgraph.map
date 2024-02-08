@@ -1,0 +1,5 @@
+<map id="wxPaneInfo::CenterPane" name="wxPaneInfo::CenterPane">
+<area shape="rect" id="node1" title="set Center PaneBorder Resizable and retrieve this pointer" alt="" coords="5,31,169,56"/>
+<area shape="rect" id="node2" href="$classwxPaneInfo.html#abf7f6f146f242ff8d344d84c8014afc9" title="set flag optionPaneBorder and retrieve this pointer" alt="" coords="217,5,381,31"/>
+<area shape="rect" id="node3" href="$classwxPaneInfo.html#a16df7031ab840c68d165306c8223123e" title="set flag optionResizable and retrieve this pointer" alt="" coords="223,55,376,80"/>
+</map>

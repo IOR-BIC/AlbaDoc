@@ -1,0 +1,5 @@
+<map id="albaAttachCamera" name="albaAttachCamera">
+<area shape="rect" id="node1" title="albaAttachCamera is tool to attach the camera present in albaRWI to the selected VME." alt="" coords="56,79,185,104"/>
+<area shape="rect" id="node2" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="5,5,103,31"/>
+<area shape="rect" id="node3" title=" " alt="" coords="127,5,248,31"/>
+</map>

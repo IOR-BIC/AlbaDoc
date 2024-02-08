@@ -1,0 +1,5 @@
+<map id="albaTagItem" name="albaTagItem">
+<area shape="rect" id="node1" title="an utility class for storing &lt;key&#45;type&#45;array of values&gt; information." alt="" coords="53,79,145,104"/>
+<area shape="rect" id="node2" href="$classalbaUtility.html" title="albaUtility &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="5,5,84,31"/>
+<area shape="rect" id="node3" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="108,5,203,31"/>
+</map>

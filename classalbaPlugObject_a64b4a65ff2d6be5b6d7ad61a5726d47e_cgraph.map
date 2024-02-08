@@ -1,0 +1,5 @@
+<map id="albaPlugObject::albaPlugObject" name="albaPlugObject::albaPlugObject">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,173,67"/>
+<area shape="rect" id="node2" href="$classalbaCoreFactory.html#aadb7a626cc170f5d7bc4da96bd92a065" title="return the instance pointer of the factory." alt="" coords="221,5,416,31"/>
+<area shape="rect" id="node3" href="$classalbaObjectFactory.html#a3def04b2d0b8e9bbaddee0e84466f6e5" title="This function can be used by Application code to register new Objects&#39;s to the albaCoreFactory." alt="" coords="251,55,387,95"/>
+</map>

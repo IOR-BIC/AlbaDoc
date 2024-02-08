@@ -1,0 +1,7 @@
+<map id="albaGUIGizmoInterface" name="albaGUIGizmoInterface">
+<area shape="rect" id="node1" title="abstract base class for gizmo gui" alt="" coords="5,256,160,281"/>
+<area shape="rect" id="node2" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="51,80,149,105"/>
+<area shape="rect" id="node3" href="$classalbaGUI.html" title="albaGUI is a panel with function to easily create GUI." alt="" coords="177,168,245,193"/>
+<area shape="rect" id="node4" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="199,80,300,105"/>
+<area shape="rect" id="node5" title=" " alt="" coords="214,5,285,31"/>
+</map>

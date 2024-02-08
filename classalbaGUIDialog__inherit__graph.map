@@ -1,0 +1,13 @@
+<map id="albaGUIDialog" name="albaGUIDialog">
+<area shape="rect" id="node1" title="albaGUIDialog is the base class for albaDialogs." alt="" coords="175,153,279,179"/>
+<area shape="rect" id="node5" href="$classalbaGUIDialogFindVme.html" title="albaGUIDialogFindVme &#45; a dialog widget with a find VME GUI." alt="" coords="359,5,515,31"/>
+<area shape="rect" id="node6" href="$classalbaGUIDialogLogin.html" title="albaGUIDialogLogin &#45; a dialog widget with a find VME GUI." alt="" coords="369,55,504,80"/>
+<area shape="rect" id="node7" href="$classalbaGUIDialogPreview.html" title="albaGUIDialogPreview &#45; a dialog widget with a render window." alt="" coords="363,104,511,129"/>
+<area shape="rect" id="node8" href="$classalbaGUIDialogProsthesisSelection.html" title=" " alt="" coords="327,153,547,179"/>
+<area shape="rect" id="node9" href="$classalbaGUIDialogTransferFunction2D.html" title="This dialog is used to define a 2D transfer function to make a volume Ray Cast." alt="" coords="329,203,545,228"/>
+<area shape="rect" id="node10" href="$classalbaGUILutHistogramEditor.html" title=" " alt="" coords="347,252,526,277"/>
+<area shape="rect" id="node11" href="$classalbaGUIVMEChooser.html" title="Display a modal dialog filled with a vme tree and return the choosed vme." alt="" coords="364,301,509,327"/>
+<area shape="rect" id="node2" title=" " alt="" coords="29,104,103,129"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="17,153,115,179"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,203,127,228"/>
+</map>

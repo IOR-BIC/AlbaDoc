@@ -1,0 +1,7 @@
+<map id="albaMatrix" name="albaMatrix">
+<area shape="rect" id="node1" title="albaMatrix &#45; Time stamped 4x4 Matrix." alt="" coords="111,168,193,193"/>
+<area shape="rect" id="node2" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="5,80,157,105"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="39,5,123,31"/>
+<area shape="rect" id="node4" href="$classalbaMTime.html" title="albaMTime &#45; record modification timestamp." alt="" coords="181,80,267,105"/>
+<area shape="rect" id="node5" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="186,5,262,31"/>
+</map>

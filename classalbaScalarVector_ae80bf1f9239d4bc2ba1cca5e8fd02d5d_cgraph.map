@@ -1,0 +1,4 @@
+<map id="albaScalarVector::GetScalar" name="albaScalarVector::GetScalar">
+<area shape="rect" id="node1" title="Return a scalar in the vector, given its order index." alt="" coords="5,13,192,38"/>
+<area shape="rect" id="node2" href="$classalbaTimeMapScalar.html#acb6e5ffb634cf9a6dc95a5bcd89566af" title="return the item with given its order index." alt="" coords="240,5,384,45"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="albaGUICheckTree" name="albaGUICheckTree">
+<area shape="rect" id="node1" title="class Name : albaGUICheckTree." alt="" coords="89,299,219,324"/>
+<area shape="rect" id="node7" href="$classalbaGUIVMEChooserTree.html" title="Widget representing the tree that allow the user to choose a VME." alt="" coords="69,372,239,397"/>
+<area shape="rect" id="node2" href="$classalbaGUITree.html" title="albaGUITree allows a simplified and lot easier use of a wxWindows tree widget." alt="" coords="107,225,201,251"/>
+<area shape="rect" id="node3" href="$classalbaGUINamedPanel.html" title="Class Name: albaGUINamedPanel." alt="" coords="5,152,148,177"/>
+<area shape="rect" id="node4" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="26,79,127,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="41,5,112,31"/>
+<area shape="rect" id="node6" title=" " alt="" coords="172,152,293,177"/>
+</map>

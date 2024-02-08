@@ -1,0 +1,10 @@
+<map id="albaGUIDockManager" name="albaGUIDockManager">
+<area shape="rect" id="node1" title="class name: albaGUIDockManager Represent a frame manager for gui dock elements." alt="" coords="99,271,247,296"/>
+<area shape="rect" id="node2" href="$classwxFrameManager.html" title="class name: wxFrameManager Manager for dockabale panels; it can manage flags, attach/detach panes." alt="" coords="110,196,235,221"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,93,105,119"/>
+<area shape="rect" id="node4" href="$classwxDockArt.html" title="class name: wxDockArt dock art provider code &#45; a dock provider provides all drawing functionality to ..." alt="" coords="130,93,215,119"/>
+<area shape="rect" id="node5" href="$classwxDockUIPart.html" title="class name: wxDockUIPart This class define a UI part of a dock." alt="" coords="239,93,343,119"/>
+<area shape="rect" id="node6" href="$classwxDockInfo.html" title="class name: wxDockInfo This class define properties of a dock." alt="" coords="135,5,223,31"/>
+<area shape="rect" id="node7" href="$classwxPaneInfo.html" title="class name: wxPaneInfo This class define properties of a pane." alt="" coords="247,5,335,31"/>
+<area shape="rect" id="node8" href="$classwxPaneButton.html" title="class name: wxPaneButton This class define a button of a pane." alt="" coords="359,5,466,31"/>
+</map>

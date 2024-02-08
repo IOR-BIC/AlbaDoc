@@ -1,0 +1,6 @@
+<map id="albaMSFImporter" name="albaMSFImporter">
+<area shape="rect" id="node1" title="A storage class for MSF local files." alt="" coords="5,225,127,251"/>
+<area shape="rect" id="node2" href="$classalbaXMLStorage.html" title="Concrete implementation of Storage object using Xerces&#45;C for storing in XML." alt="" coords="8,152,124,177"/>
+<area shape="rect" id="node3" href="$classalbaStorage.html" title="Abstract class for an abject mastering the storing/restoring of objects This is an abstract class pro..." alt="" coords="21,79,111,104"/>
+<area shape="rect" id="node4" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="24,5,108,31"/>
+</map>

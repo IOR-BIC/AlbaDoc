@@ -1,0 +1,11 @@
+<map id="albaXMLStorage" name="albaXMLStorage">
+<area shape="rect" id="node1" title="Concrete implementation of Storage object using Xerces&#45;C for storing in XML." alt="" coords="320,319,436,344"/>
+<area shape="rect" id="node2" href="$classalbaStorage.html" title="Abstract class for an abject mastering the storing/restoring of objects This is an abstract class pro..." alt="" coords="119,214,210,239"/>
+<area shape="rect" id="node5" href="$classalbaStorageElement.html" title="Abstract class representing the interface for the unit of information stored in the storage." alt="" coords="50,319,189,344"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="5,80,89,105"/>
+<area shape="rect" id="node4" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="113,80,208,105"/>
+<area shape="rect" id="node6" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="286,80,366,105"/>
+<area shape="rect" id="node7" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="288,5,364,31"/>
+<area shape="rect" id="node8" href="$classmmuXMLDOM.html" title="mmuXMLDOM utility class for PIMPL of XML DOM types." alt="" coords="526,214,633,239"/>
+<area shape="rect" id="node9" href="$classalbaUtility.html" title="albaUtility &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="540,80,619,105"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="albaGUIDicomSettings" name="albaGUIDicomSettings">
+<area shape="rect" id="node1" title="Class Name : albaGUIDicomSettings." alt="" coords="168,331,321,356"/>
+<area shape="rect" id="node2" href="$classalbaGUISettings.html" title="class name: albaGUISettings base class for more complex specified classes regarding the setting of ap..." alt="" coords="113,256,229,281"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="42,80,140,105"/>
+<area shape="rect" id="node4" href="$classalbaGUI.html" title="albaGUI is a panel with function to easily create GUI." alt="" coords="144,168,212,193"/>
+<area shape="rect" id="node9" href="$classalbaGUICheckListBox.html" title="a CheckList that send albaEventNotification in the form albaEvent(this, widget_id,..." alt="" coords="243,168,392,193"/>
+<area shape="rect" id="node5" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="263,80,364,105"/>
+<area shape="rect" id="node6" title=" " alt="" coords="278,5,349,31"/>
+<area shape="rect" id="node7" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="455,168,535,193"/>
+<area shape="rect" id="node8" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="496,80,572,105"/>
+</map>

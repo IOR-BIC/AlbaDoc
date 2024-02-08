@@ -1,0 +1,4 @@
+<map id="albaScalarVector::GetScalarBefore" name="albaScalarVector::GetScalarBefore">
+<area shape="rect" id="node1" title="return the scalar with timestamp &lt;=t" alt="" coords="5,5,192,45"/>
+<area shape="rect" id="node2" href="$classalbaTimeMapScalar.html#afd29a1f530c2bb5a03edbdaf18230afa" title="Return the pointer to the item with timestamp nearest the given one." alt="" coords="240,5,384,45"/>
+</map>

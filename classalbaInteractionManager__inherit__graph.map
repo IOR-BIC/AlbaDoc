@@ -1,0 +1,7 @@
+<map id="albaInteractionManager" name="albaInteractionManager">
+<area shape="rect" id="node1" title="This class takes care of mastering the interaction inside views." alt="" coords="149,79,305,104"/>
+<area shape="rect" id="node2" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="5,5,89,31"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="113,5,211,31"/>
+<area shape="rect" id="node4" href="$classalbaEventSender.html" title="class acting as an interface for objects using ALBA hierarchical event communication model This objec..." alt="" coords="235,5,353,31"/>
+<area shape="rect" id="node5" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="377,5,472,31"/>
+</map>

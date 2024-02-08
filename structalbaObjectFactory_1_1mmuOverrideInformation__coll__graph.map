@@ -1,0 +1,8 @@
+<map id="albaObjectFactory::mmuOverrideInformation" name="albaObjectFactory::mmuOverrideInformation">
+<area shape="rect" id="node1" title="mmuOverrideInformation utility class." alt="" coords="5,271,167,311"/>
+<area shape="rect" id="node2" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="60,5,144,31"/>
+<area shape="rect" id="node5" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="102,80,254,105"/>
+<area shape="rect" id="node3" href="$classalbaAutoPointer.html" title=" " alt="" coords="106,168,314,208"/>
+<area shape="rect" id="node4" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="289,5,365,31"/>
+<area shape="rect" id="node6" href="$classalbaAutoPointer.html" title="Hold a reference to a T instance." alt="" coords="329,80,475,105"/>
+</map>

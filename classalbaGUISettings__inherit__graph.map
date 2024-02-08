@@ -1,0 +1,11 @@
+<map id="albaGUISettings" name="albaGUISettings">
+<area shape="rect" id="node1" title="class name: albaGUISettings base class for more complex specified classes regarding the setting of ap..." alt="" coords="151,153,267,179"/>
+<area shape="rect" id="node3" href="$classalbaGUIApplicationSettings.html" title="Class Name: albaGUIApplicationSettings." alt="" coords="315,5,495,31"/>
+<area shape="rect" id="node4" href="$classalbaGUIDicomSettings.html" title="Class Name : albaGUIDicomSettings." alt="" coords="328,55,481,80"/>
+<area shape="rect" id="node5" href="$classalbaGUISettingsAdvanced.html" title="Class Name: albaGUISettingsAdvanced." alt="" coords="319,104,491,129"/>
+<area shape="rect" id="node6" href="$classalbaGUISettingsTimeBar.html" title="class name: albaGUISettingsTimeBar Gui class for handling time bar properties inside application sett..." alt="" coords="323,153,487,179"/>
+<area shape="rect" id="node7" href="$classalbaSnapshotManager.html" title="Class Name: albaSnapshotManager." alt="" coords="329,203,480,228"/>
+<area shape="rect" id="node8" href="$classalbaViewManager.html" title="An implementation of albaViewManager with [D]ynamic view [C]reation feature." alt="" coords="343,252,467,277"/>
+<area shape="rect" id="node9" href="$classalbaWizardSettings.html" title="class name :albaWizardSettings class that manage wizard specific settings" alt="" coords="337,301,472,327"/>
+<area shape="rect" id="node2" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="5,153,103,179"/>
+</map>

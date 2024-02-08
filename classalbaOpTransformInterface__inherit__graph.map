@@ -1,0 +1,11 @@
+<map id="albaOpTransformInterface" name="albaOpTransformInterface">
+<area shape="rect" id="node1" title="Abstract base class for transform operations." alt="" coords="186,152,355,177"/>
+<area shape="rect" id="node6" href="$classalbaOpMove.html" title="Transform a vme using constrains." alt="" coords="5,225,99,251"/>
+<area shape="rect" id="node7" href="$classalbaOpScaleDataset.html" title="Scale vme data set." alt="" coords="123,225,264,251"/>
+<area shape="rect" id="node8" href="$classalbaOpTransform.html" title=" " alt="" coords="288,225,408,251"/>
+<area shape="rect" id="node9" href="$classalbaOpTransformOld.html" title="Transform a vme using constrains." alt="" coords="433,225,573,251"/>
+<area shape="rect" id="node2" href="$classalbaOp.html" title=" " alt="" coords="239,79,302,104"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="107,5,205,31"/>
+<area shape="rect" id="node4" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="229,5,313,31"/>
+<area shape="rect" id="node5" title=" " alt="" coords="337,5,458,31"/>
+</map>

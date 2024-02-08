@@ -1,0 +1,7 @@
+<map id="SparseMatrix::Solve" name="SparseMatrix::Solve">
+<area shape="rect" id="node1" title="Solve for x s.t." alt="" coords="5,80,144,105"/>
+<area shape="rect" id="node2" href="$classVector.html#a3d1af8e7bde6a9796d89019b39cf723b" title="define dot product" alt="" coords="231,5,319,31"/>
+<area shape="rect" id="node3" href="$classVector.html#a334ce3a9cf757abfd7a755d05d9f6a33" title="resize vector" alt="" coords="221,55,329,80"/>
+<area shape="rect" id="node4" href="$classVector.html#ab40f160390b9faf03e047daa17179079" title="set elements to zero" alt="" coords="219,104,332,129"/>
+<area shape="rect" id="node5" href="$classSparseMatrix.html#a864c68f3a4b6c4c54fd188fc71b013c3" title="transpose sparse matrix" alt="" coords="192,153,359,179"/>
+</map>

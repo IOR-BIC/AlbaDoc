@@ -1,0 +1,4 @@
+<map id="albaGizmoPathRuler::GetOutput" name="albaGizmoPathRuler::GetOutput">
+<area shape="rect" id="node1" title="return the gizmo object" alt="" coords="5,5,147,45"/>
+<area shape="rect" id="node2" href="$classalbaVME.html#a2dc7f8f5dc7d45572ff8da038d219b15" title="return a pointer to the output data structure" alt="" coords="195,13,337,38"/>
+</map>

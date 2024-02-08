@@ -1,0 +1,13 @@
+<map id="Octree&lt; Degree &gt;" name="Octree&lt; Degree &gt;">
+<area shape="rect" id="node1" title="class name: Octree Tree with eight child nodes." alt="" coords="1288,207,1415,233"/>
+<area shape="rect" id="node2" href="$classOctNode.html" title=" " alt="" coords="999,117,1205,157"/>
+<area shape="rect" id="node3" href="$classAllocator.html" title=" " alt="" coords="312,22,460,47"/>
+<area shape="rect" id="node5" href="$classOctNode.html" title="class name: OctNode It represents a node of an octree." alt="" coords="618,105,765,145"/>
+<area shape="rect" id="node4" href="$classAllocator.html" title="class name: Allocator memory handler" alt="" coords="33,22,137,47"/>
+<area shape="rect" id="node6" href="$classTreeNodeData.html" title="class name: TreeNodeData index, weight and values associated with every tree node" alt="" coords="639,170,743,195"/>
+<area shape="rect" id="node7" href="$classFunctionData.html" title=" " alt="" coords="1024,248,1180,288"/>
+<area shape="rect" id="node8" href="$classPPolynomial.html" title=" " alt="" coords="301,255,471,281"/>
+<area shape="rect" id="node11" href="$classFunctionData.html" title="class name: FunctionData" alt="" coords="613,283,769,323"/>
+<area shape="rect" id="node9" href="$classPPolynomial.html" title="class name: PPolynomial" alt="" coords="5,279,165,305"/>
+<area shape="rect" id="node10" href="$classPPolynomial.html" title=" " alt="" coords="299,305,473,330"/>
+</map>

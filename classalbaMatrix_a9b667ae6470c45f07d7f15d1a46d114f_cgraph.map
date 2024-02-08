@@ -1,0 +1,5 @@
+<map id="albaMatrix::Multiply4x4" name="albaMatrix::Multiply4x4">
+<area shape="rect" id="node1" title="Multiplies matrices a and b and stores the result in c." alt="" coords="5,31,161,56"/>
+<area shape="rect" id="node2" href="$classalbaMatrix.html#a19b165650db9aec213cf4d834dddd665" title="return pointer to elements matrix: returned type is a double [4][4] object" alt="" coords="209,5,376,31"/>
+<area shape="rect" id="node3" href="$classalbaMatrix.html#a7974981528c1ee1b92632b413ee387a7" title="update modification time stamp for this object" alt="" coords="223,55,362,80"/>
+</map>

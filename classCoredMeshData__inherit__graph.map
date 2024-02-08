@@ -1,0 +1,5 @@
+<map id="CoredMeshData" name="CoredMeshData">
+<area shape="rect" id="node1" title="class name: CoredMeshData interface class that handle mesh in the core" alt="" coords="100,5,215,31"/>
+<area shape="rect" id="node2" href="$classCoredFileMeshData.html" title="class name: CoredVectorMeshData represents data meshes inside the core as file descriptors" alt="" coords="5,79,141,104"/>
+<area shape="rect" id="node3" href="$classCoredVectorMeshData.html" title="class name: CoredVectorMeshData represents data meshes inside the core as vector" alt="" coords="166,79,319,104"/>
+</map>

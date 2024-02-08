@@ -1,0 +1,5 @@
+<map id="albaGUIDialog::Add" name="albaGUIDialog::Add">
+<area shape="rect" id="node1" title="Add a albaGUI to the dialog." alt="" coords="5,31,140,56"/>
+<area shape="rect" id="node2" href="$classalbaGUI.html#a0575e205b537b850c282aca47a059b7e" title="Recalculate &#39;this&#39; Gui Size and MinSize considering the space required by the children widgets." alt="" coords="197,5,307,31"/>
+<area shape="rect" id="node3" href="$classalbaGUI.html#afd5b5484cd792a477f326c56f88674e7" title="place the GUI on a different parent, and perform the required Resize/Stretch/ and Show" alt="" coords="188,55,316,80"/>
+</map>

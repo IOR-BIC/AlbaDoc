@@ -1,0 +1,3 @@
+<map id="albaAgentEventQueue::PushEvent" name="albaAgentEventQueue::PushEvent">
+<area shape="rect" id="node1" title="Push an event in the queue (FIFO)" alt="" coords="5,29,156,69"/>
+</map>

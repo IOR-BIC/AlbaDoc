@@ -1,0 +1,5 @@
+<map id="albaOpImporterMotionData::OpUndo" name="albaOpImporterMotionData::OpUndo">
+<area shape="rect" id="node1" title="Makes the undo for the operation." alt="" coords="5,23,181,63"/>
+<area shape="rect" id="node2" href="$classalbaVME.html#af570cd7b69746bccd502e57f6954089f" title="Reparent this Node into a different place of the same tree." alt="" coords="229,5,379,31"/>
+<area shape="rect" id="node3" href="$classalbaVME.html#a8617821807da52cd89b0964ed1247ea0" title="redefined to cope with tree registering" alt="" coords="231,55,377,80"/>
+</map>

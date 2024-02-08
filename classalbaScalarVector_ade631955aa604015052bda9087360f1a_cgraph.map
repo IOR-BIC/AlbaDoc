@@ -1,0 +1,4 @@
+<map id="albaScalarVector::GetNumberOfScalars" name="albaScalarVector::GetNumberOfScalars">
+<area shape="rect" id="node1" title="Return the number of scalar values stored in this object." alt="" coords="5,5,200,45"/>
+<area shape="rect" id="node2" href="$classalbaTimeMapScalar.html#afd9e352db83525890801c93d3a528c8b" title="Return the number of ITEMS stored in this object." alt="" coords="248,5,392,45"/>
+</map>

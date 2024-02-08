@@ -1,0 +1,4 @@
+<map id="albaScalarVector::AppendScalar" name="albaScalarVector::AppendScalar">
+<area shape="rect" id="node1" title="Append a scalar to the vector setting its timestamp to the highest one + 1 The scalar value is refere..." alt="" coords="5,5,179,45"/>
+<area shape="rect" id="node2" href="$classalbaTimeMapScalar.html#a4efd6e5a60db15c734c3626eccb10cb7" title="Insert an item to the vector trying to append it, anyway the array is kept sorted." alt="" coords="227,5,371,45"/>
+</map>

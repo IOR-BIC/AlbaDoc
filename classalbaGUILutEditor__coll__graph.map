@@ -1,0 +1,12 @@
+<map id="albaGUILutEditor" name="albaGUILutEditor">
+<area shape="rect" id="node1" title="albaGUILutEditor : vtkLookupTable Editor" alt="" coords="825,288,945,313"/>
+<area shape="rect" id="node2" title=" " alt="" coords="8,443,79,468"/>
+<area shape="rect" id="node4" href="$classalbaGUILutSwatch.html" title="albaGUILutSwatch : widget representing a LUT, usually used to call the LutEditor." alt="" coords="537,288,666,313"/>
+<area shape="rect" id="node5" href="$classalbaGUILutWidget.html" title="albaGUILutWidget : Helper class for albaLutEditor" alt="" coords="538,91,665,116"/>
+<area shape="rect" id="node8" href="$classalbaGUIColorWidget.html" title="albaGUIColorWidget : helper class for albaGUILutEditor and albaGUIColorEditor." alt="" coords="532,351,671,376"/>
+<area shape="rect" id="node9" href="$classalbaGUIColorSwatch.html" title="albaGUIColorSwatch : small widget representing an RGBA color." alt="" coords="204,443,345,468"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="226,201,323,227"/>
+<area shape="rect" id="node6" href="$structalbaGUILutWidget_1_1LutEntry.html" title=" " alt="" coords="183,5,367,31"/>
+<area shape="rect" id="node7" href="$classalbaColor.html" title="albaColor is a class representing an RGBA color:" alt="" coords="5,331,81,356"/>
+<area shape="rect" id="node10" href="$classalbaLUTLibrary.html" title="A component to handle lookup table libraries." alt="" coords="547,595,655,620"/>
+</map>

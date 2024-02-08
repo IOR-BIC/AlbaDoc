@@ -1,0 +1,6 @@
+<map id="PPolynomial::MovingAverage" name="PPolynomial::MovingAverage">
+<area shape="rect" id="node1" title="Compute moving average." alt="" coords="5,31,195,56"/>
+<area shape="rect" id="node2" href="$classPPolynomial.html#afe5c21a72f351119eb8414fd54c7079f" title="Free polynomials, allocate memory and set size starting polynomial." alt="" coords="243,5,364,31"/>
+<area shape="rect" id="node4" href="$classPolynomial.html#a74822441507819aba4d01f854a1b91bf" title="overload operator, according to the operation over coefficients" alt="" coords="243,55,363,80"/>
+<area shape="rect" id="node3" href="$classPPolynomial.html#af0457c1ead000cd293bfe1533c8c65d5" title="Return the size of polynomial object." alt="" coords="412,5,539,31"/>
+</map>

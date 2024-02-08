@@ -1,0 +1,5 @@
+<map id="Triangulation::Area" name="Triangulation::Area">
+<area shape="rect" id="node1" title="calculate area of the triangle" alt="" coords="5,55,136,80"/>
+<area shape="rect" id="node2" href="$classTriangulation.html#a6659e3563af998968c548ef1d0e97b30" title="calculate total area of triangles" alt="" coords="189,29,319,55"/>
+<area shape="rect" id="node3" href="$classTriangulation.html#af10ea6c272ff40a085bf00897c68d3bf" title="return 0 or 1 , modifying triangle points coordinate" alt="" coords="184,79,324,104"/>
+</map>

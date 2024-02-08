@@ -1,0 +1,4 @@
+<map id="albaMatrixVector::AppendKeyMatrix" name="albaMatrixVector::AppendKeyMatrix">
+<area shape="rect" id="node1" title="Append a matrix to the vector setting its timestamp to the highest one + 1 The matrix object is refer..." alt="" coords="5,5,177,45"/>
+<area shape="rect" id="node2" href="$classalbaTimeMap.html#ac41b1ee3a32a60169b88371fc379e0d9" title="Insert an item to the vector trying to append it, anyway the array is kept sorted." alt="" coords="225,13,401,38"/>
+</map>

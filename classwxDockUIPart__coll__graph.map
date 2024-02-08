@@ -1,0 +1,6 @@
+<map id="wxDockUIPart" name="wxDockUIPart">
+<area shape="rect" id="node1" title="class name: wxDockUIPart This class define a UI part of a dock." alt="" coords="109,93,213,119"/>
+<area shape="rect" id="node2" href="$classwxDockInfo.html" title="class name: wxDockInfo This class define properties of a dock." alt="" coords="5,5,93,31"/>
+<area shape="rect" id="node3" href="$classwxPaneInfo.html" title="class name: wxPaneInfo This class define properties of a pane." alt="" coords="117,5,205,31"/>
+<area shape="rect" id="node4" href="$classwxPaneButton.html" title="class name: wxPaneButton This class define a button of a pane." alt="" coords="229,5,336,31"/>
+</map>

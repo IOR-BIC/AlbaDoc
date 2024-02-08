@@ -1,0 +1,4 @@
+<map id="albaGizmoPolylineGraph::SetCurvilinearAbscissa" name="albaGizmoPolylineGraph::SetCurvilinearAbscissa">
+<area shape="rect" id="node1" title="Set curvilinear abscissa along given constraint skeleton branch." alt="" coords="5,13,171,53"/>
+<area shape="rect" id="node2" href="$classalbaCurvilinearAbscissaOnSkeletonHelper.html#aa2c57df8f564915ff705fc35cecf12b3" title="Set the curvilinear abscissa value s on branchId branch, return ALBA_OK or ALBA_ERROR." alt="" coords="219,5,416,60"/>
+</map>

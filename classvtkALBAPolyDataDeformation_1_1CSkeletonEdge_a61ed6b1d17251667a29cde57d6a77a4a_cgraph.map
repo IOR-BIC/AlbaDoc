@@ -1,0 +1,4 @@
+<map id="vtkALBAPolyDataDeformation::CSkeletonEdge::GetNumberOfConnectedEdges" name="vtkALBAPolyDataDeformation::CSkeletonEdge::GetNumberOfConnectedEdges">
+<area shape="rect" id="node1" title="Returns the number of edges connected to one of end points of this edge." alt="" coords="5,5,312,45"/>
+<area shape="rect" id="node2" href="$classvtkALBAPolyDataDeformation_1_1CSkeletonVertex.html#a8328c2ac387734c02e9bb450ede4952c" title="Gets the degree of this vertex." alt="" coords="360,5,559,45"/>
+</map>

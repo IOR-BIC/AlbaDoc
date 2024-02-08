@@ -1,0 +1,4 @@
+<map id="albaScalarVector::GetNearestScalar" name="albaScalarVector::GetNearestScalar">
+<area shape="rect" id="node1" title="return the scalar with the timestamp nearest to t" alt="" coords="5,5,200,45"/>
+<area shape="rect" id="node2" href="$classalbaTimeMapScalar.html#ad64f2e560395823376f72579281e54f5" title="Return the pointer to the item with timestamp nearest the given one." alt="" coords="248,5,392,45"/>
+</map>

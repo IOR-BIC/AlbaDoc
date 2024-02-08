@@ -1,0 +1,9 @@
+<map id="albaGUITransformInterface" name="albaGUITransformInterface">
+<area shape="rect" id="node1" title="transform gui interface" alt="" coords="151,80,325,105"/>
+<area shape="rect" id="node3" href="$classalbaGUISaveRestorePose.html" title="Input VME ABS Matrix Store/Restore GUI Component." alt="" coords="383,5,554,31"/>
+<area shape="rect" id="node4" href="$classalbaGUITransformMouse.html" title="transform gui" alt="" coords="387,55,551,80"/>
+<area shape="rect" id="node6" href="$classalbaGUITransformSliders.html" title="Class name: albaGUITransformSliders." alt="" coords="386,104,551,129"/>
+<area shape="rect" id="node7" href="$classalbaGUITransformTextEntries.html" title="text entries gui component for transform operations" alt="" coords="373,153,564,179"/>
+<area shape="rect" id="node2" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="5,80,103,105"/>
+<area shape="rect" id="node5" href="$classalbaGUITransformMouseFloatVME.html" title="Class name: albaGUITransformMouseFloatVME This class derived from albaGUITransformMouse customize its..." alt="" coords="612,55,835,80"/>
+</map>

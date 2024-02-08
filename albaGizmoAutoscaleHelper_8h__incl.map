@@ -1,0 +1,29 @@
+<map id="albaGizmoAutoscaleHelper.h" name="albaGizmoAutoscaleHelper.h">
+<area shape="rect" id="node1" title=" " alt="" coords="220,5,411,31"/>
+<area shape="rect" id="node2" href="$albaTransformBase_8h.html" title=" " alt="" coords="243,79,387,104"/>
+<area shape="rect" id="node3" href="$albaReferenceCounted_8h.html" title=" " alt="" coords="699,225,862,251"/>
+<area shape="rect" id="node12" href="$albaMTime_8h.html" title=" " alt="" coords="114,372,210,397"/>
+<area shape="rect" id="node14" href="$albaMutexLock_8h.html" title=" " alt="" coords="5,299,127,324"/>
+<area shape="rect" id="node15" href="$albaMatrix_8h.html" title=" " alt="" coords="479,152,573,177"/>
+<area shape="rect" id="node16" href="$albaSmartPointer_8h.html" title=" " alt="" coords="190,592,323,617"/>
+<area shape="rect" id="node17" href="$albaEventBroadcaster_8h.html" title=" " alt="" coords="296,152,455,177"/>
+<area shape="rect" id="node4" href="$albaObject_8h.html" title=" " alt="" coords="745,519,840,544"/>
+<area shape="rect" id="node5" href="$albaDefines_8h.html" title=" " alt="" coords="623,665,723,691"/>
+<area shape="rect" id="node6" title=" " alt="" coords="161,739,272,764"/>
+<area shape="rect" id="node7" href="$albaIncludeWX_8h.html" title=" " alt="" coords="732,739,851,764"/>
+<area shape="rect" id="node8" title=" " alt="" coords="465,739,531,764"/>
+<area shape="rect" id="node9" title=" " alt="" coords="875,739,942,764"/>
+<area shape="rect" id="node10" title=" " alt="" coords="555,739,614,764"/>
+<area shape="rect" id="node11" title=" " alt="" coords="638,739,707,764"/>
+<area shape="rect" id="node13" href="$albaBase_8h.html" title=" " alt="" coords="132,665,219,691"/>
+<area shape="rect" id="node18" href="$albaEventSender_8h.html" title=" " alt="" coords="545,225,675,251"/>
+<area shape="rect" id="node25" title=" " alt="" coords="347,592,403,617"/>
+<area shape="rect" id="node27" title=" " alt="" coords="413,225,452,251"/>
+<area shape="rect" id="node19" href="$albaObserver_8h.html" title=" " alt="" coords="559,299,667,324"/>
+<area shape="rect" id="node26" href="$albaEventBase_8h.html" title=" " alt="" coords="651,445,769,471"/>
+<area shape="rect" id="node20" href="$albaEvent_8h.html" title=" " alt="" coords="568,372,657,397"/>
+<area shape="rect" id="node21" href="$albaDecl_8h.html" title=" " alt="" coords="525,519,607,544"/>
+<area shape="rect" id="node22" title=" " alt="" coords="543,592,635,617"/>
+<area shape="rect" id="node23" href="$albaString_8h.html" title=" " alt="" coords="427,592,518,617"/>
+<area shape="rect" id="node24" title=" " alt="" coords="375,665,461,691"/>
+</map>

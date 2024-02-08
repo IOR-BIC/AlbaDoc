@@ -1,0 +1,4 @@
+<map id="albaMatrixVector::GetNumberOfMatrices" name="albaMatrixVector::GetNumberOfMatrices">
+<area shape="rect" id="node1" title="Return the number of matrixes stored in this object." alt="" coords="5,5,200,45"/>
+<area shape="rect" id="node2" href="$classalbaTimeMap.html#a212f305d26ef206bb1a874e2fbb6fd85" title="Return the number of ITEMS stored in this object." alt="" coords="248,5,435,45"/>
+</map>

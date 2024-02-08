@@ -1,0 +1,5 @@
+<map id="albaGUILutEditor" name="albaGUILutEditor">
+<area shape="rect" id="node1" title="albaGUILutEditor : vtkLookupTable Editor" alt="" coords="34,79,154,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,76,31"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="100,5,197,31"/>
+</map>

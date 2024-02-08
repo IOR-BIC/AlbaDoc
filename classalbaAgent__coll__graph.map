@@ -1,0 +1,10 @@
+<map id="albaAgent" name="albaAgent">
+<area shape="rect" id="node1" title="An agent is a computational object with a default I/O interface." alt="" coords="191,256,271,281"/>
+<area shape="rect" id="node2" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="5,168,157,193"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="39,93,123,119"/>
+<area shape="rect" id="node4" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="167,5,265,31"/>
+<area shape="rect" id="node6" href="$classalbaEventSender.html" title="class acting as an interface for objects using ALBA hierarchical event communication model This objec..." alt="" coords="237,93,355,119"/>
+<area shape="rect" id="node5" href="$classalbaEventBroadcaster.html" title="This class inerith form albaEventSender and extends albaEventSender with the capacity of send events ..." alt="" coords="233,168,381,193"/>
+<area shape="rect" id="node7" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="405,168,485,193"/>
+<area shape="rect" id="node8" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="407,93,483,119"/>
+</map>

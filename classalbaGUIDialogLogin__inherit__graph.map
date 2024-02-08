@@ -1,0 +1,7 @@
+<map id="albaGUIDialogLogin" name="albaGUIDialogLogin">
+<area shape="rect" id="node1" title="albaGUIDialogLogin &#45; a dialog widget with a find VME GUI." alt="" coords="86,152,221,177"/>
+<area shape="rect" id="node2" href="$classalbaGUIDialog.html" title="albaGUIDialog is the base class for albaDialogs." alt="" coords="101,79,205,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,80,31"/>
+<area shape="rect" id="node4" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="105,5,202,31"/>
+<area shape="rect" id="node5" title=" " alt="" coords="226,5,347,31"/>
+</map>

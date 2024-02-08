@@ -1,0 +1,10 @@
+<map id="albaOpImporterMotionData::OpDo" name="albaOpImporterMotionData::OpDo">
+<area shape="rect" id="node1" title="Execute the operation." alt="" coords="5,177,181,217"/>
+<area shape="rect" id="node2" href="$classalbaOpImporterMotionData.html#a9736f08bd4e74444a794e12d348b7eca" title="Get dictionary flag." alt="" coords="229,5,405,45"/>
+<area shape="rect" id="node3" href="$classalbaVME.html#a91d449e73a2705913e10106656aa54b9" title="return a pointer to the tag array attribute." alt="" coords="239,70,395,95"/>
+<area shape="rect" id="node4" href="$classalbaReferenceCounted.html#ae145f5405c49d89f065c8c362069431d" title="Increase the reference count (mark as used by another object)." alt="" coords="241,120,393,160"/>
+<area shape="rect" id="node5" href="$classalbaTagItem.html#a200575df7bbbf6390a059c7ab5a49417" title="Set/Get the name of this Tag." alt="" coords="240,185,395,210"/>
+<area shape="rect" id="node6" href="$classalbaVME.html#a177090294bd6572b20635ab3d7c71a0a" title="set node name" alt="" coords="249,234,386,259"/>
+<area shape="rect" id="node7" href="$classalbaTagArray.html#a81c4a0025dabf57b0fd4b9477569460c" title="This function searches for an item with same Tag name of the given one and if it doesn&#39;t exist append..." alt="" coords="244,283,391,309"/>
+<area shape="rect" id="node8" href="$classalbaTagItem.html#a549e3d81760b92179223f7ed8568e673" title="Set the Value of this Tag." alt="" coords="241,333,394,358"/>
+</map>

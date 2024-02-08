@@ -1,0 +1,6 @@
+<map id="albaMatrix::Transpose" name="albaMatrix::Transpose">
+<area shape="rect" id="node1" title="Transpose the matrix and put it into out." alt="" coords="5,55,156,80"/>
+<area shape="rect" id="node2" href="$classalbaMatrix.html#a19b165650db9aec213cf4d834dddd665" title="return pointer to elements matrix: returned type is a double [4][4] object" alt="" coords="204,5,371,31"/>
+<area shape="rect" id="node3" href="$classalbaMatrix.html#a7974981528c1ee1b92632b413ee387a7" title="update modification time stamp for this object" alt="" coords="218,55,357,80"/>
+<area shape="rect" id="node4" href="$classalbaMatrix.html#a35e7ac257b3aec6ec455a3bd8e5a7db1" title="Transpose the matrix and put it into out." alt="" coords="212,128,363,153"/>
+</map>

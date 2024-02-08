@@ -1,0 +1,18 @@
+<map id="albaVMEItemScalarMatrix" name="albaVMEItemScalarMatrix">
+<area shape="rect" id="node1" title="albaVMEItemScalarMatrix &#45; store time&#45;varying scalar information into a vnl_vector albaVMEItemScalarMa..." alt="" coords="1196,374,1369,399"/>
+<area shape="rect" id="node2" href="$classalbaVMEItem.html" title="albaVMEItem &#45; store the single dataset stored into a albaDataVector albaVMEItem is an object that sto..." alt="" coords="936,219,1036,244"/>
+<area shape="rect" id="node16" href="$classalbaVMEItemAsynchObserver.html" title="albaVMEItemAsynchObserver &#45; used by the albaVMEItem to synchronize the asynchronous loading data from..." alt="" coords="1185,219,1380,244"/>
+<area shape="rect" id="node3" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="139,44,291,70"/>
+<area shape="rect" id="node12" href="$classalbaAttribute.html" title="An abstract class for objects representing an attribute for albaVMEs." alt="" coords="416,286,511,311"/>
+<area shape="rect" id="node15" href="$classalbaMatrix.html" title="albaMatrix &#45; Time stamped 4x4 Matrix." alt="" coords="422,128,505,154"/>
+<area shape="rect" id="node4" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="5,44,89,70"/>
+<area shape="rect" id="node5" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="167,316,262,342"/>
+<area shape="rect" id="node6" href="$classalbaEventSender.html" title="class acting as an interface for objects using ALBA hierarchical event communication model This objec..." alt="" coords="695,34,813,59"/>
+<area shape="rect" id="node7" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="415,22,512,47"/>
+<area shape="rect" id="node8" href="$classalbaTimeStamped.html" title="class acting as an interface for timestamped objects This object simply defines few methods for manag..." alt="" coords="400,178,527,203"/>
+<area shape="rect" id="node14" href="$classalbaOBB.html" title="This class simply stores a Box boundary (i.e." alt="" coords="717,219,791,244"/>
+<area shape="rect" id="node9" href="$classalbaMTime.html" title="albaMTime &#45; record modification timestamp." alt="" coords="172,135,257,160"/>
+<area shape="rect" id="node10" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="9,235,85,260"/>
+<area shape="rect" id="node13" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="175,412,255,438"/>
+<area shape="rect" id="node11" href="$classalbaTagArray.html" title="An attribute used to store an associtive array of &lt;key,value&gt; pairs, where value is multi component." alt="" coords="705,268,803,294"/>
+</map>

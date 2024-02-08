@@ -1,0 +1,5 @@
+<map id="albaPlugAvatar::albaPlugAvatar" name="albaPlugAvatar::albaPlugAvatar">
+<area shape="rect" id="node1" title="Plug a new Avatar class into the Avatar factory." alt="" coords="5,37,172,77"/>
+<area shape="rect" id="node2" href="$classalbaInteractionFactory.html#a450c2bb391d1102caf20373a99a48cf4" title="return the instance pointer of the factory." alt="" coords="220,5,371,45"/>
+<area shape="rect" id="node3" href="$classalbaInteractionFactory.html#a63e5ba2589c3a8f03b89ed55aa539eec" title="This function can be used by Application code to register new Objects&#39;s to the mflCoreFactory." alt="" coords="220,69,371,109"/>
+</map>

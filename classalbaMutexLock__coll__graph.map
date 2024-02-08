@@ -1,0 +1,4 @@
+<map id="albaMutexLock" name="albaMutexLock">
+<area shape="rect" id="node1" title="Critical section locking class that can be allocated on the stack." alt="" coords="5,79,116,104"/>
+<area shape="rect" id="node2" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="23,5,99,31"/>
+</map>

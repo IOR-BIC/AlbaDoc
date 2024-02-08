@@ -1,0 +1,5 @@
+<map id="albaPlugPipe::albaPlugPipe" name="albaPlugPipe::albaPlugPipe">
+<area shape="rect" id="node1" title="Plug a new Pipe class into the Pipe factory." alt="" coords="5,35,188,60"/>
+<area shape="rect" id="node2" href="$classalbaPipeFactory.html#acc891b983bffc6e23dad81f0f6727ee6" title="return the instance pointer of the factory." alt="" coords="236,5,431,31"/>
+<area shape="rect" id="node3" href="$classalbaPipeFactory.html#a0e25248eae171d5e5d31f9995b353e0e" title="This function can be used by Application code to register new Objects&#39;s to the mflCoreFactory." alt="" coords="247,55,419,95"/>
+</map>

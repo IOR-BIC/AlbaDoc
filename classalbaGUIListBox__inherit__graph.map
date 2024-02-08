@@ -1,0 +1,5 @@
+<map id="albaGUIListBox" name="albaGUIListBox">
+<area shape="rect" id="node1" title="a ListBox that send albaEventNotification in the form albaEvent(this, widget_id, item_id,..." alt="" coords="5,152,117,177"/>
+<area shape="rect" id="node2" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="11,79,112,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="26,5,97,31"/>
+</map>

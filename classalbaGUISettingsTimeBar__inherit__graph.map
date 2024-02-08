@@ -1,0 +1,5 @@
+<map id="albaGUISettingsTimeBar" name="albaGUISettingsTimeBar">
+<area shape="rect" id="node1" title="class name: albaGUISettingsTimeBar Gui class for handling time bar properties inside application sett..." alt="" coords="5,152,169,177"/>
+<area shape="rect" id="node2" href="$classalbaGUISettings.html" title="class name: albaGUISettings base class for more complex specified classes regarding the setting of ap..." alt="" coords="29,79,145,104"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="39,5,136,31"/>
+</map>

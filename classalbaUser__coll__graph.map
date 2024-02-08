@@ -1,0 +1,5 @@
+<map id="albaUser" name="albaUser">
+<area shape="rect" id="node1" title="albaUser &#45; Used to manage username and password; store them and give basic function to check user&#39;s c..." alt="" coords="9,227,82,252"/>
+<area shape="rect" id="node2" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="5,80,85,105"/>
+<area shape="rect" id="node3" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="7,5,83,31"/>
+</map>

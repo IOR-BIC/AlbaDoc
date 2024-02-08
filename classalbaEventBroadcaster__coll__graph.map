@@ -1,0 +1,5 @@
+<map id="albaEventBroadcaster" name="albaEventBroadcaster">
+<area shape="rect" id="node1" title="This class inerith form albaEventSender and extends albaEventSender with the capacity of send events ..." alt="" coords="5,168,153,193"/>
+<area shape="rect" id="node2" href="$classalbaEventSender.html" title="class acting as an interface for objects using ALBA hierarchical event communication model This objec..." alt="" coords="20,93,139,119"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="31,5,128,31"/>
+</map>

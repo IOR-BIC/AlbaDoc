@@ -1,0 +1,16 @@
+<map id="albaGUISettingsDialog" name="albaGUISettingsDialog">
+<area shape="rect" id="node1" title="class name: albaGUISettingsDialog." alt="" coords="165,344,317,369"/>
+<area shape="rect" id="node2" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="5,168,103,193"/>
+<area shape="rect" id="node3" href="$classalbaGUIDialog.html" title="albaGUIDialog is the base class for albaDialogs." alt="" coords="118,256,222,281"/>
+<area shape="rect" id="node6" href="$classalbaGUITree.html" title="albaGUITree allows a simplified and lot easier use of a wxWindows tree widget." alt="" coords="265,256,358,281"/>
+<area shape="rect" id="node4" title=" " alt="" coords="133,168,207,193"/>
+<area shape="rect" id="node5" title=" " alt="" coords="237,168,359,193"/>
+<area shape="rect" id="node7" href="$classalbaGUINamedPanel.html" title="Class Name: albaGUINamedPanel." alt="" coords="383,168,525,193"/>
+<area shape="rect" id="node12" href="$classalbaGUIHolder.html" title="class name: albaGUIHolder Secialized panel in which a developer can put a albaGUI." alt="" coords="401,256,507,281"/>
+<area shape="rect" id="node8" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="425,80,526,105"/>
+<area shape="rect" id="node9" title=" " alt="" coords="440,5,511,31"/>
+<area shape="rect" id="node10" href="$classalbaGUILab.html" title="albaGUILab is a Label that notify user&#45;click using the normal wxEvents." alt="" coords="311,80,400,105"/>
+<area shape="rect" id="node11" title=" " alt="" coords="307,5,404,31"/>
+<area shape="rect" id="node13" href="$classalbaGUIScrolledPanel.html" title="albaGUIScrolledPanel is a Panel on which is possible to add child&#45;widget." alt="" coords="656,168,804,193"/>
+<area shape="rect" id="node14" title=" " alt="" coords="665,80,795,105"/>
+</map>

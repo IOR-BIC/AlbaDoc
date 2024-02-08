@@ -1,0 +1,6 @@
+<map id="albaOpMeshDeformation::SetNthControlCurve" name="albaOpMeshDeformation::SetNthControlCurve">
+<area shape="rect" id="node1" title="Specifies the n&#45;th control curve." alt="" coords="5,69,169,109"/>
+<area shape="rect" id="node2" href="$classalbaOpMeshDeformation.html#accc5d2974e34ccb0540f00ff6fd7edb4" title="Sets the correspondence between the n&#45;th original and deformed curve." alt="" coords="217,5,455,45"/>
+<area shape="rect" id="node3" href="$classalbaOpMeshDeformation.html#ac427f3462c919366a7841d2ce7163fbe" title="Specifies the n&#45;th control curve in its deformed state." alt="" coords="237,69,435,109"/>
+<area shape="rect" id="node4" href="$classalbaOpMeshDeformation.html#ae0540dbfc80965e3671966b787830bd4" title="Specifies the n&#45;th control curve in its original (undeformed) state." alt="" coords="243,133,429,173"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="albaColor.h" name="albaColor.h">
+<area shape="rect" id="node1" title=" " alt="" coords="153,5,240,31"/>
+<area shape="rect" id="node2" href="$albaGUIColorSwatch_8h.html" title=" " alt="" coords="65,79,217,104"/>
+<area shape="rect" id="node3" href="$albaGUIColorWidget_8h.html" title=" " alt="" coords="5,152,156,177"/>
+<area shape="rect" id="node6" href="$albaGUILutPreset_8h.html" title=" " alt="" coords="292,79,427,104"/>
+<area shape="rect" id="node7" href="$albaGUILutWidget_8h.html" title=" " alt="" coords="185,152,323,177"/>
+<area shape="rect" id="node4" href="$albaGUILutEditor_8h.html" title=" " alt="" coords="7,225,138,251"/>
+<area shape="rect" id="node5" href="$albaGUILutHistogramEditor_8h.html" title=" " alt="" coords="163,225,353,251"/>
+</map>

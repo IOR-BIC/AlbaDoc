@@ -1,0 +1,6 @@
+<map id="albaOldSubIdLink" name="albaOldSubIdLink">
+<area shape="rect" id="node1" title="data structure used to store a link VME and its Id" alt="" coords="5,168,128,193"/>
+<area shape="rect" id="node2" href="$classalbaUtility.html" title="albaUtility &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="6,80,85,105"/>
+<area shape="rect" id="node3" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="109,80,189,105"/>
+<area shape="rect" id="node4" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="111,5,187,31"/>
+</map>

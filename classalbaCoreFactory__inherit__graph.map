@@ -1,0 +1,6 @@
+<map id="albaCoreFactory" name="albaCoreFactory">
+<area shape="rect" id="node1" title="Object factory for objects in the ALBA library." alt="" coords="23,225,140,251"/>
+<area shape="rect" id="node2" href="$classalbaObjectFactory.html" title="Create instances of classes using an object factory." alt="" coords="17,152,145,177"/>
+<area shape="rect" id="node3" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="5,79,157,104"/>
+<area shape="rect" id="node4" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="39,5,123,31"/>
+</map>

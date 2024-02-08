@@ -1,0 +1,6 @@
+<map id="wxPaneInfo::Dockable" name="wxPaneInfo::Dockable">
+<area shape="rect" id="node1" title="set TopDockable BottomDockable LeftDockable RightDockable and retrieve this pointer" alt="" coords="5,55,156,80"/>
+<area shape="rect" id="node2" href="$classwxPaneInfo.html#a53a0edd996f48d222e0bcf47b9343ecc" title="set flag optionBottomDockable and retrieve this pointer" alt="" coords="204,5,396,31"/>
+<area shape="rect" id="node3" href="$classwxPaneInfo.html#aafde7189336065bd8050035adff0e1d5" title="set flag optionLeftDockable and retrieve this pointer" alt="" coords="215,55,385,80"/>
+<area shape="rect" id="node4" href="$classwxPaneInfo.html#ac69298ad640064f15245c5340b2df57a" title="set flag optionRightDockable and retrieve this pointer" alt="" coords="210,104,390,129"/>
+</map>

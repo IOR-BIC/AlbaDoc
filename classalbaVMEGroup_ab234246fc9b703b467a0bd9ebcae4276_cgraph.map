@@ -1,0 +1,4 @@
+<map id="albaVMEGroup::GetVTKOutput" name="albaVMEGroup::GetVTKOutput">
+<area shape="rect" id="node1" title="Return the right type of output." alt="" coords="5,5,208,31"/>
+<area shape="rect" id="node2" href="$classalbaVME.html#a2dc7f8f5dc7d45572ff8da038d219b15" title="return a pointer to the output data structure" alt="" coords="256,5,399,31"/>
+</map>

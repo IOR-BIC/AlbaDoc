@@ -1,0 +1,5 @@
+<map id="SparseMatrix::SetIdentity" name="SparseMatrix::SetIdentity">
+<area shape="rect" id="node1" title="set matrix as identity" alt="" coords="5,5,175,31"/>
+<area shape="rect" id="node2" href="$classSparseMatrix.html#a9e93dd1514d7b1dfa0f9d2b240ff7076" title="set elements to zero" alt="" coords="223,5,375,31"/>
+<area shape="rect" id="node3" href="$classSparseMatrix.html#a660294b02e0384c95f03568c46807c8a" title="resize the matrix" alt="" coords="423,5,569,31"/>
+</map>

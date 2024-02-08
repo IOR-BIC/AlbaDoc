@@ -1,0 +1,4 @@
+<map id="vtkALBAPolyDataDeformation_M2::GetPreviousCurveVertex" name="vtkALBAPolyDataDeformation_M2::GetPreviousCurveVertex">
+<area shape="rect" id="node1" title="Gets the previous vertex on the curve." alt="" coords="5,5,200,45"/>
+<area shape="rect" id="node2" href="$classvtkALBAPolyDataDeformation__M2_1_1CSkeletonVertex.html#abe6c61815228b104e6c2cf1292d71d03" title="Gets the degree of this vertex." alt="" coords="248,5,471,45"/>
+</map>

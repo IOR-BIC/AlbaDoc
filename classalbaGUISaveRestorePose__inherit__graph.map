@@ -1,0 +1,5 @@
+<map id="albaGUISaveRestorePose" name="albaGUISaveRestorePose">
+<area shape="rect" id="node1" title="Input VME ABS Matrix Store/Restore GUI Component." alt="" coords="7,152,178,177"/>
+<area shape="rect" id="node2" href="$classalbaGUITransformInterface.html" title="transform gui interface" alt="" coords="5,79,180,104"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="44,5,141,31"/>
+</map>

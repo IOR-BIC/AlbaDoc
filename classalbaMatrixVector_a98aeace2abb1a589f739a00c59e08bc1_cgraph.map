@@ -1,0 +1,4 @@
+<map id="albaMatrixVector::GetNearestMatrix" name="albaMatrixVector::GetNearestMatrix">
+<area shape="rect" id="node1" title="return the matrix with the timestamp nearest to t" alt="" coords="5,5,200,45"/>
+<area shape="rect" id="node2" href="$classalbaTimeMap.html#ab60590f64ae51ae37c92f2bf31a0f0b3" title="Return the pointer to the item with timestamp nearest the given one." alt="" coords="248,13,447,38"/>
+</map>

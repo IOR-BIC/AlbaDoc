@@ -1,0 +1,7 @@
+<map id="albaVMEOutputMeter" name="albaVMEOutputMeter">
+<area shape="rect" id="node1" title="NULL output for VME node with a VTK image output data." alt="" coords="12,299,159,324"/>
+<area shape="rect" id="node2" href="$classalbaVMEOutputPolyline.html" title="NULL output for VME node with a VTK image output data." alt="" coords="5,225,165,251"/>
+<area shape="rect" id="node3" href="$classalbaVMEOutputVTK.html" title="NULL output for VME node with a VTK output data." alt="" coords="16,152,155,177"/>
+<area shape="rect" id="node4" href="$classalbaVMEOutput.html" title="albaVMEOutput &#45; the output data structure of a VME node." alt="" coords="28,79,143,104"/>
+<area shape="rect" id="node5" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="43,5,127,31"/>
+</map>

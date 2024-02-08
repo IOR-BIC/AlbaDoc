@@ -1,0 +1,4 @@
+<map id="vtkALBAPolyDataDeformation_M2::CSkeletonEdge::IsInternal" name="vtkALBAPolyDataDeformation_M2::CSkeletonEdge::IsInternal">
+<area shape="rect" id="node1" title="Returns true, if the edge is internal." alt="" coords="5,5,211,45"/>
+<area shape="rect" id="node2" href="$classvtkALBAPolyDataDeformation__M2_1_1CSkeletonVertex.html#abe6c61815228b104e6c2cf1292d71d03" title="Gets the degree of this vertex." alt="" coords="259,5,481,45"/>
+</map>

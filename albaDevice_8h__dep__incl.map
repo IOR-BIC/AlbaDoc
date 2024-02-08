@@ -1,0 +1,10 @@
+<map id="albaDevice.h" name="albaDevice.h">
+<area shape="rect" id="node1" title=" " alt="" coords="255,5,350,31"/>
+<area shape="rect" id="node2" href="$albaDeviceButtonsPad_8h.html" title=" " alt="" coords="140,79,303,104"/>
+<area shape="rect" id="node8" href="$albaDeviceSet_8h.html" title=" " alt="" coords="327,79,441,104"/>
+<area shape="rect" id="node3" href="$albaDeviceButtonsPadMouse_8h.html" title=" " alt="" coords="5,152,208,177"/>
+<area shape="rect" id="node5" href="$albaDeviceButtonsPadTracker_8h.html" title=" " alt="" coords="233,152,439,177"/>
+<area shape="rect" id="node4" href="$albaDeviceButtonsPadMouseDialog_8h.html" title=" " alt="" coords="11,225,202,265"/>
+<area shape="rect" id="node6" href="$albaDeviceButtonsPadTrackerP5Glove_8h.html" title=" " alt="" coords="232,225,427,265"/>
+<area shape="rect" id="node7" href="$albaDeviceTrackerWIIMote_8h.html" title=" " alt="" coords="451,233,637,258"/>
+</map>

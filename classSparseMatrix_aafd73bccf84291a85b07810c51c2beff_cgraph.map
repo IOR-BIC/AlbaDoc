@@ -1,0 +1,11 @@
+<map id="SparseMatrix::SolveSymmetric" name="SparseMatrix::SolveSymmetric">
+<area shape="rect" id="node1" title="reduced as symmetric sparse matrix and solve" alt="" coords="5,179,207,204"/>
+<area shape="rect" id="node2" href="$classVector.html#a648179f595f62d64b509ba93f668fc15" title="return the result of a sum of scaled vectors" alt="" coords="288,5,379,31"/>
+<area shape="rect" id="node3" href="$classVector.html#a4c38b13c3fa0030fe605c764c45794e0" title="add a scaled vector" alt="" coords="268,55,399,80"/>
+<area shape="rect" id="node4" href="$classVector.html#a37b741f8d7c4c5b4b2fb50c604a80252" title="return dimension of vector" alt="" coords="265,104,401,129"/>
+<area shape="rect" id="node5" href="$classVector.html#a3d1af8e7bde6a9796d89019b39cf723b" title="define dot product" alt="" coords="289,153,377,179"/>
+<area shape="rect" id="node6" href="$classSparseMatrix.html#aefbe8f77ca4e76c23bdf457183f3a118" title="multiplication with another sparse matrix" alt="" coords="257,203,409,228"/>
+<area shape="rect" id="node7" href="$classVector.html#a334ce3a9cf757abfd7a755d05d9f6a33" title="resize vector" alt="" coords="279,252,387,277"/>
+<area shape="rect" id="node8" href="$classVector.html#ab40f160390b9faf03e047daa17179079" title="set elements to zero" alt="" coords="277,301,390,327"/>
+<area shape="rect" id="node9" href="$classVector.html#a512b29656a545e2971a6336473f1d05d" title="subtract a scaled vector" alt="" coords="255,351,412,376"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="albaOBB::ApplyTransform" name="albaOBB::ApplyTransform">
+<area shape="rect" id="node1" title="Apply the internally stored transform to the bounding box, recompute the internally stored bounding b..." alt="" coords="5,29,177,55"/>
+</map>

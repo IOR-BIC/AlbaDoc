@@ -1,0 +1,4 @@
+<map id="albaAutoPointer::~albaAutoPointer" name="albaAutoPointer::~albaAutoPointer">
+<area shape="rect" id="node1" title="Destroy smart pointer and remove the reference to its object." alt="" coords="5,5,187,45"/>
+<area shape="rect" id="node2" href="$classalbaAutoPointer.html#a422db51485350917405cca77bd88ee07" title="used to force releasing of internal object, specifying the owner" alt="" coords="235,13,421,38"/>
+</map>

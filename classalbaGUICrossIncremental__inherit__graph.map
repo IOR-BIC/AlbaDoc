@@ -1,0 +1,6 @@
+<map id="albaGUICrossIncremental" name="albaGUICrossIncremental">
+<area shape="rect" id="node1" title="Class that represent a widget with 4 buttons and a text array disposed like a cross It can use two ac..." alt="" coords="33,152,202,177"/>
+<area shape="rect" id="node2" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="5,79,107,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="21,5,91,31"/>
+<area shape="rect" id="node4" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="131,79,229,104"/>
+</map>

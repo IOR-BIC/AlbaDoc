@@ -1,0 +1,5 @@
+<map id="albaStorableMaterialLibrary" name="albaStorableMaterialLibrary">
+<area shape="rect" id="node1" title=" " alt="" coords="14,79,193,104"/>
+<area shape="rect" id="node2" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="5,5,89,31"/>
+<area shape="rect" id="node3" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="113,5,208,31"/>
+</map>

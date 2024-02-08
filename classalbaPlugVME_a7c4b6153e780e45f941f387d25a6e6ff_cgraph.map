@@ -1,0 +1,8 @@
+<map id="albaPlugVME::albaPlugVME" name="albaPlugVME::albaPlugVME">
+<area shape="rect" id="node1" title="Plug a new Node class into the Node factory." alt="" coords="5,127,193,153"/>
+<area shape="rect" id="node2" href="$classalbaPictureFactory.html#abd4ddff4f852ec0d775ef5d1bcfdb58f" title="add a vme&#45;picture to the factory." alt="" coords="275,5,405,45"/>
+<area shape="rect" id="node3" href="$classalbaVMEFactory.html#a2afad1dd41a271c94a3b5265a95c543f" title="return the instance pointer of the factory." alt="" coords="241,70,439,95"/>
+<area shape="rect" id="node4" href="$classalbaPictureFactory.html#a17f92659d0ceae9fb9ba54d1b08bdb09" title=" " alt="" coords="275,120,405,160"/>
+<area shape="rect" id="node5" href="$classalbaPictureFactory.html#ab195dfdc5eafe53ff4a48b7752165d6f" title=" " alt="" coords="272,184,408,224"/>
+<area shape="rect" id="node6" href="$classalbaVMEFactory.html#a59e9440d67cc25566ff193b0a3422834" title="This function can be used by Application code to register new Objects&#39;s to the mflCoreFactory." alt="" coords="253,248,427,288"/>
+</map>

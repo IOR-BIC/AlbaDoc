@@ -1,0 +1,5 @@
+<map id="albaOBB" name="albaOBB">
+<area shape="rect" id="node1" title="This class simply stores a Box boundary (i.e." alt="" coords="69,79,143,104"/>
+<area shape="rect" id="node2" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="5,5,81,31"/>
+<area shape="rect" id="node3" href="$classalbaTimeStamped.html" title="class acting as an interface for timestamped objects This object simply defines few methods for manag..." alt="" coords="105,5,232,31"/>
+</map>

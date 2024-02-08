@@ -1,0 +1,10 @@
+<map id="albaGUISettingsTimeBar" name="albaGUISettingsTimeBar">
+<area shape="rect" id="node1" title="class name: albaGUISettingsTimeBar Gui class for handling time bar properties inside application sett..." alt="" coords="5,331,169,356"/>
+<area shape="rect" id="node2" href="$classalbaGUISettings.html" title="class name: albaGUISettings base class for more complex specified classes regarding the setting of ap..." alt="" coords="29,256,145,281"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="12,80,109,105"/>
+<area shape="rect" id="node4" href="$classalbaGUI.html" title="albaGUI is a panel with function to easily create GUI." alt="" coords="139,168,207,193"/>
+<area shape="rect" id="node5" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="147,80,249,105"/>
+<area shape="rect" id="node6" title=" " alt="" coords="163,5,233,31"/>
+<area shape="rect" id="node7" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="325,168,405,193"/>
+<area shape="rect" id="node8" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="380,80,456,105"/>
+</map>

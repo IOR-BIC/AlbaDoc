@@ -1,0 +1,4 @@
+<map id="albaVMEManager" name="albaVMEManager">
+<area shape="rect" id="node1" title="albaVMEManager : Class managing VMEs inside a ALBA application." alt="" coords="5,79,131,104"/>
+<area shape="rect" id="node2" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="19,5,117,31"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="albaOpImporterAnsysCommon" name="albaOpImporterAnsysCommon">
+<area shape="rect" id="node1" title="Importer for Ansys Input files." alt="" coords="113,152,311,177"/>
+<area shape="rect" id="node7" href="$classalbaOpImporterAnsysCDBFile.html" title="Importer for Ansys CDB Input files." alt="" coords="5,225,200,251"/>
+<area shape="rect" id="node8" href="$classalbaOpImporterAnsysInputFile.html" title=" " alt="" coords="225,225,421,251"/>
+<area shape="rect" id="node2" title=" " alt="" coords="56,79,227,104"/>
+<area shape="rect" id="node3" href="$classalbaOp.html" title=" " alt="" coords="251,79,314,104"/>
+<area shape="rect" id="node4" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="119,5,217,31"/>
+<area shape="rect" id="node5" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="241,5,325,31"/>
+<area shape="rect" id="node6" title=" " alt="" coords="349,5,470,31"/>
+</map>

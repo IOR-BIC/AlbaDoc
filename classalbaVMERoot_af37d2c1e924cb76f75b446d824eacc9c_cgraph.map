@@ -1,0 +1,4 @@
+<map id="albaVMERoot::GetNextItemId" name="albaVMERoot::GetNextItemId">
+<area shape="rect" id="node1" title="Return next available ItemId and increment the internal counter." alt="" coords="5,5,199,31"/>
+<area shape="rect" id="node2" href="$classalbaTimeStamped.html#a8e90deb832826ded9380e27a87d27bd2" title="Update this objects modification time." alt="" coords="247,5,429,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Triangulation::FlipMinimize" name="Triangulation::FlipMinimize">
+<area shape="rect" id="node1" title="flip edges in order to minimize the area of the triangle" alt="" coords="5,55,181,80"/>
+<area shape="rect" id="node2" href="$classTriangulation.html#a6659e3563af998968c548ef1d0e97b30" title="calculate total area of triangles" alt="" coords="234,29,365,55"/>
+<area shape="rect" id="node3" href="$classTriangulation.html#af10ea6c272ff40a085bf00897c68d3bf" title="return 0 or 1 , modifying triangle points coordinate" alt="" coords="229,79,369,104"/>
+</map>

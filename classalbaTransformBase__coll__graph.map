@@ -1,0 +1,14 @@
+<map id="albaTransformBase" name="albaTransformBase">
+<area shape="rect" id="node1" title="Superclass for Homogeneous transformations." alt="" coords="1056,159,1189,185"/>
+<area shape="rect" id="node2" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="139,246,291,271"/>
+<area shape="rect" id="node9" href="$classalbaMatrix.html" title="albaMatrix &#45; Time stamped 4x4 Matrix." alt="" coords="502,159,585,185"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="5,246,89,271"/>
+<area shape="rect" id="node4" href="$classalbaEventBroadcaster.html" title="This class inerith form albaEventSender and extends albaEventSender with the capacity of send events ..." alt="" coords="776,323,924,349"/>
+<area shape="rect" id="node5" href="$classalbaEventSender.html" title="class acting as an interface for objects using ALBA hierarchical event communication model This objec..." alt="" coords="484,323,603,349"/>
+<area shape="rect" id="node6" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="166,323,263,349"/>
+<area shape="rect" id="node7" href="$classalbaAutoPointer.html" title=" " alt="" coords="751,159,949,185"/>
+<area shape="rect" id="node8" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="9,75,85,101"/>
+<area shape="rect" id="node10" href="$classalbaMTime.html" title="albaMTime &#45; record modification timestamp." alt="" coords="172,109,257,134"/>
+<area shape="rect" id="node11" href="$classalbaAutoPointer.html" title="Hold a reference to a T instance." alt="" coords="315,199,460,225"/>
+<area shape="rect" id="node12" href="$classalbaMutexLock.html" title="Critical section locking class that can be allocated on the stack." alt="" coords="332,7,443,33"/>
+</map>

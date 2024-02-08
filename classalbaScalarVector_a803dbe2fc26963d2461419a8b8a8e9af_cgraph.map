@@ -1,0 +1,4 @@
+<map id="albaScalarVector::GetScalar" name="albaScalarVector::GetScalar">
+<area shape="rect" id="node1" title="return the scalar with the timestamp == t." alt="" coords="5,13,192,38"/>
+<area shape="rect" id="node2" href="$classalbaTimeMapScalar.html#a73fd2e5749db0cd7690f9aab26ca9fa0" title="find and return item corresponding to timestamp t." alt="" coords="240,5,384,45"/>
+</map>

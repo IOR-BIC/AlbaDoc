@@ -1,0 +1,4 @@
+<map id="albaMatrixVector::GetMatrixBefore" name="albaMatrixVector::GetMatrixBefore">
+<area shape="rect" id="node1" title="return the matrix with timestamp &lt;=t" alt="" coords="5,5,191,45"/>
+<area shape="rect" id="node2" href="$classalbaTimeMap.html#ad6dec8d5c64985d7c17c3f01f429bcaf" title="Return the pointer to the item with timestamp nearest the given one." alt="" coords="239,13,429,38"/>
+</map>

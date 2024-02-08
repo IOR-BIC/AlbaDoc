@@ -1,0 +1,5 @@
+<map id="albaMatrix3x3" name="albaMatrix3x3">
+<area shape="rect" id="node1" title="albaMatrix3x3 &#45; Simple 3x3 Matrix." alt="" coords="60,79,163,104"/>
+<area shape="rect" id="node2" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="5,5,89,31"/>
+<area shape="rect" id="node3" href="$classalbaTimeStamped.html" title="class acting as an interface for timestamped objects This object simply defines few methods for manag..." alt="" coords="113,5,240,31"/>
+</map>

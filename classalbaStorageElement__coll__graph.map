@@ -1,0 +1,8 @@
+<map id="albaStorageElement" name="albaStorageElement">
+<area shape="rect" id="node1" title="Abstract class representing the interface for the unit of information stored in the storage." alt="" coords="5,80,144,105"/>
+<area shape="rect" id="node2" href="$classalbaStorage.html" title="Abstract class for an abject mastering the storing/restoring of objects This is an abstract class pro..." alt="" coords="264,197,355,223"/>
+<area shape="rect" id="node3" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="261,80,345,105"/>
+<area shape="rect" id="node4" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="369,80,463,105"/>
+<area shape="rect" id="node5" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="488,80,568,105"/>
+<area shape="rect" id="node6" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="490,5,566,31"/>
+</map>

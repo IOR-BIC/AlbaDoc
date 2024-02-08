@@ -1,0 +1,5 @@
+<map id="albaRelationalDatabaseAbstractConnector" name="albaRelationalDatabaseAbstractConnector">
+<area shape="rect" id="node1" title="class name : albaRelationalDatabaseAbstractConnector class that handle all the process of connection,..." alt="" coords="5,168,212,208"/>
+<area shape="rect" id="node2" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="61,5,145,31"/>
+<area shape="rect" id="node3" href="$classalbaResultQueryAbstractHandler.html" title="class name: albaResultQueryAbstractHandler Interface for handle results from a query to a database" alt="" coords="125,80,335,105"/>
+</map>

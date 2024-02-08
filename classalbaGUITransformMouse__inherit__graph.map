@@ -1,0 +1,6 @@
+<map id="albaGUITransformMouse" name="albaGUITransformMouse">
+<area shape="rect" id="node1" title="transform gui" alt="" coords="35,152,199,177"/>
+<area shape="rect" id="node4" href="$classalbaGUITransformMouseFloatVME.html" title="Class name: albaGUITransformMouseFloatVME This class derived from albaGUITransformMouse customize its..." alt="" coords="5,225,228,251"/>
+<area shape="rect" id="node2" href="$classalbaGUITransformInterface.html" title="transform gui interface" alt="" coords="29,79,204,104"/>
+<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="68,5,165,31"/>
+</map>

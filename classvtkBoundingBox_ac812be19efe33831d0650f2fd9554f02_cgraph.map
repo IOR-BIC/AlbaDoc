@@ -1,0 +1,3 @@
+<map id="vtkBoundingBox::ContainsPoint" name="vtkBoundingBox::ContainsPoint">
+<area shape="rect" id="node1" title="Returns 1 if the point is contained in the box else 0;." alt="" coords="5,29,180,69"/>
+</map>

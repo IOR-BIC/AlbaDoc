@@ -1,0 +1,12 @@
+<map id="albaXMLElement" name="albaXMLElement">
+<area shape="rect" id="node1" title="concrete implementation of albaStorageElement as an XML&#45;DOM element This class represent a concrete i..." alt="" coords="649,197,768,223"/>
+<area shape="rect" id="node2" href="$classalbaStorageElement.html" title="Abstract class representing the interface for the unit of information stored in the storage." alt="" coords="407,80,546,105"/>
+<area shape="rect" id="node3" href="$classalbaStorage.html" title="Abstract class for an abject mastering the storing/restoring of objects This is an abstract class pro..." alt="" coords="227,197,318,223"/>
+<area shape="rect" id="node4" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="5,80,89,105"/>
+<area shape="rect" id="node5" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="113,80,208,105"/>
+<area shape="rect" id="node6" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="233,80,313,105"/>
+<area shape="rect" id="node7" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="235,5,311,31"/>
+<area shape="rect" id="node8" href="$classmmuXMLDOMElement.html" title="mmuXMLDOMElement utility class for PIMPL of XML DOMElement types." alt="" coords="786,80,941,105"/>
+<area shape="rect" id="node9" href="$classalbaUtility.html" title="albaUtility &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="824,5,903,31"/>
+<area shape="rect" id="node10" href="$classalbaXMLString.html" title="string type for converting const char * to and from XMLString types This is an internal string type t..." alt="" coords="656,80,761,105"/>
+</map>

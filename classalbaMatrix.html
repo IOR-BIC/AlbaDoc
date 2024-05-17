@@ -124,8 +124,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a31db292b100198f770992fcd6fd2d985"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a18d07281dc927bd6036356015e373582"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaMatrix.html#a18d07281dc927bd6036356015e373582">IsIdentity</a> ()</td></tr>
 <tr class="separator:a18d07281dc927bd6036356015e373582"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a741192fc2b3b179e32aa930bbafcb64c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaMatrix.html#a741192fc2b3b179e32aa930bbafcb64c">Invert</a> ()</td></tr>
-<tr class="separator:a741192fc2b3b179e32aa930bbafcb64c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ea567cb1f939d402e2bc138ce4c4a38"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classalbaMatrix.html">albaMatrix</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaMatrix.html#a3ea567cb1f939d402e2bc138ce4c4a38">Invert</a> ()</td></tr>
+<tr class="separator:a3ea567cb1f939d402e2bc138ce4c4a38"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a86783498e3b31ccc7edc00e1b07e6f40"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaMatrix.html#a86783498e3b31ccc7edc00e1b07e6f40">Determinant</a> () const</td></tr>
 <tr class="separator:a86783498e3b31ccc7edc00e1b07e6f40"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a064b3bdb93af31053aca1a573a63f9d9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaMatrix.html#a064b3bdb93af31053aca1a573a63f9d9">Adjoint</a> (const <a class="el" href="classalbaMatrix.html">albaMatrix</a> &amp;inMat, <a class="el" href="classalbaMatrix.html">albaMatrix</a> &amp;outMat)</td></tr>
@@ -142,6 +142,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af08e1f079c38379aa2d55a347d99c9bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a82e79aa9baf49bbd0c26477857addb9d"><td class="memItemLeft" align="right" valign="top">const double *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaMatrix.html#a82e79aa9baf49bbd0c26477857addb9d">operator[]</a> (unsigned int i) const</td></tr>
 <tr class="separator:a82e79aa9baf49bbd0c26477857addb9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add288fb9b4c37cd12aa891e1a8c31aff"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaMatrix.html#add288fb9b4c37cd12aa891e1a8c31aff">operator vtkMatrix4x4 *</a> () const</td></tr>
+<tr class="separator:add288fb9b4c37cd12aa891e1a8c31aff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a21a89c4441303ed1696f5630f3307b7a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaMatrix.html#a21a89c4441303ed1696f5630f3307b7a">SetFromDirectionCosines</a> (const double orientation[6])</td></tr>
 <tr class="separator:a21a89c4441303ed1696f5630f3307b7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classalbaReferenceCounted"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classalbaReferenceCounted')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classalbaReferenceCounted.html">albaReferenceCounted</a></td></tr>
@@ -1061,15 +1063,15 @@ Here is the call graph for this function:</div>
 <map name="aclassalbaMatrix_a899f5d457d057aef5fba4a1710369590_cgraph" id="aclassalbaMatrix_a899f5d457d057aef5fba4a1710369590_cgraph">
 <area shape="rect" title="Matrix Inversion (adapted from Richard Carling in &quot;Graphics Gems,&quot; Academic Press,..." alt="" coords="5,79,125,104"/>
 <area shape="rect" href="classalbaMatrix.html#a19b165650db9aec213cf4d834dddd665" title="return pointer to elements matrix: returned type is a double [4][4] object" alt="" coords="173,5,340,31"/>
-<area shape="rect" href="classalbaMatrix.html#a741192fc2b3b179e32aa930bbafcb64c" title="Matrix Inversion (adapted from Richard Carling in &quot;Graphics Gems,&quot; Academic Press,..." alt="" coords="197,79,317,104"/>
+<area shape="rect" href="classalbaMatrix.html#a3ea567cb1f939d402e2bc138ce4c4a38" title="Matrix Inversion (adapted from Richard Carling in &quot;Graphics Gems,&quot; Academic Press,..." alt="" coords="197,79,317,104"/>
 <area shape="rect" href="classalbaMatrix.html#a7974981528c1ee1b92632b413ee387a7" title="update modification time stamp for this object" alt="" coords="187,128,326,153"/>
 </map>
 </div>
 
 </div>
 </div>
-<a id="a741192fc2b3b179e32aa930bbafcb64c" name="a741192fc2b3b179e32aa930bbafcb64c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a741192fc2b3b179e32aa930bbafcb64c">&#9670;&#160;</a></span>Invert() <span class="overload">[2/3]</span></h2>
+<a id="a3ea567cb1f939d402e2bc138ce4c4a38" name="a3ea567cb1f939d402e2bc138ce4c4a38"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3ea567cb1f939d402e2bc138ce4c4a38">&#9670;&#160;</a></span>Invert() <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1078,7 +1080,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void albaMatrix::Invert </td>
+          <td class="memname"><a class="el" href="classalbaMatrix.html">albaMatrix</a> * albaMatrix::Invert </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1101,8 +1103,8 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="classalbaMatrix_a741192fc2b3b179e32aa930bbafcb64c_cgraph.png" border="0" usemap="#aclassalbaMatrix_a741192fc2b3b179e32aa930bbafcb64c_cgraph" alt=""/></div>
-<map name="aclassalbaMatrix_a741192fc2b3b179e32aa930bbafcb64c_cgraph" id="aclassalbaMatrix_a741192fc2b3b179e32aa930bbafcb64c_cgraph">
+<div class="center"><img src="classalbaMatrix_a3ea567cb1f939d402e2bc138ce4c4a38_cgraph.png" border="0" usemap="#aclassalbaMatrix_a3ea567cb1f939d402e2bc138ce4c4a38_cgraph" alt=""/></div>
+<map name="aclassalbaMatrix_a3ea567cb1f939d402e2bc138ce4c4a38_cgraph" id="aclassalbaMatrix_a3ea567cb1f939d402e2bc138ce4c4a38_cgraph">
 <area shape="rect" title="Matrix Inversion (adapted from Richard Carling in &quot;Graphics Gems,&quot; Academic Press,..." alt="" coords="5,29,125,55"/>
 </map>
 </div>
@@ -1762,6 +1764,33 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
+<a id="add288fb9b4c37cd12aa891e1a8c31aff" name="add288fb9b4c37cd12aa891e1a8c31aff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#add288fb9b4c37cd12aa891e1a8c31aff">&#9670;&#160;</a></span>operator vtkMatrix4x4 *()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">albaMatrix::operator vtkMatrix4x4 * </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00186">186</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+
+</div>
+</div>
 <a id="a5318298363ef1cfe90862d5949674889" name="a5318298363ef1cfe90862d5949674889"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5318298363ef1cfe90862d5949674889">&#9670;&#160;</a></span>PointMultiply() <span class="overload">[1/2]</span></h2>
 
@@ -1891,7 +1920,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00200">200</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00205">205</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 </div>
 </div>
@@ -1917,7 +1946,7 @@ Here is the call graph for this function:</div>
 
 <p>has its own internal representation </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00205">205</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00210">210</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 </div>
 </div>
@@ -1941,7 +1970,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00206">206</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00211">211</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 </div>
 </div>

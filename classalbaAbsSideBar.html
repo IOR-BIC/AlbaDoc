@@ -81,6 +81,12 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a06c7ec31bed829a741e75ec502f56c5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9a4db93fc787f9e2363d967f7bf64fe4"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a9a4db93fc787f9e2363d967f7bf64fe4">VmeSelected</a> (<a class="el" href="classalbaVME.html">albaVME</a> *vme)=0</td></tr>
 <tr class="separator:a9a4db93fc787f9e2363d967f7bf64fe4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afe9a1c7b2e4c5229cae99a7e1248a769"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#afe9a1c7b2e4c5229cae99a7e1248a769">IsVMEExpanded</a> (<a class="el" href="classalbaVME.html">albaVME</a> *vme)=0</td></tr>
+<tr class="separator:afe9a1c7b2e4c5229cae99a7e1248a769"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89d57b5c9d520b330d313196bc9e229a"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a89d57b5c9d520b330d313196bc9e229a">CollapseVME</a> (<a class="el" href="classalbaVME.html">albaVME</a> *vme)=0</td></tr>
+<tr class="separator:a89d57b5c9d520b330d313196bc9e229a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a65c1a46fe7ab16dc88eba949c651a2d6"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a65c1a46fe7ab16dc88eba949c651a2d6">ExpandVME</a> (<a class="el" href="classalbaVME.html">albaVME</a> *vme)=0</td></tr>
+<tr class="separator:a65c1a46fe7ab16dc88eba949c651a2d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6709bcef31f61e776ea3b4c43d44d0d8"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a6709bcef31f61e776ea3b4c43d44d0d8">OpShowGui</a> (bool push_gui, <a class="el" href="classalbaGUIPanel.html">albaGUIPanel</a> *panel)=0</td></tr>
 <tr class="separator:a6709bcef31f61e776ea3b4c43d44d0d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a805160ddf945b22803c43f32f59f2044"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a805160ddf945b22803c43f32f59f2044">OpHideGui</a> (bool view_closed)=0</td></tr>
@@ -185,7 +191,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#a129d5b61bac36aed273ce27eed67fb8e">albaSideBar</a>.</p>
+<p>Add a new vme into the tree. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a98c0d0ed51ea14c0b4c60a72f8bcd286">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -213,7 +221,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#a12cc966eb2766f21860e4df8fcdb9fdf">albaSideBar</a>.</p>
+<p>Remove a vme from the tree. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a1f5829e129da4ad18165c0402e6b6dff">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -241,7 +251,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#acc4e4b0b614b6902ddf80ea7bb0a0d69">albaSideBar</a>.</p>
+<p>Notify to the tree that a vme is modified. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a478ee9f3dcc38e6b45ab6d93c430ddcd">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -279,7 +291,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#acb2e86479f0329a2c4d3bd607a74aac8">albaSideBar</a>.</p>
+<p>Notify to the tree the visibility of the vme. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#ae5e116c24768357a1b77f59049e349dd">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -307,7 +321,100 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#ab48f2e9d7cc52da17a8808e82f90149a">albaSideBar</a>.</p>
+<p>Notify to the tree that the vme has been selected. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#ada883ef7a5244f5af9c9cd93fbd2e3f0">albaSideBar</a>.</p>
+
+</div>
+</div>
+<a id="afe9a1c7b2e4c5229cae99a7e1248a769" name="afe9a1c7b2e4c5229cae99a7e1248a769"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afe9a1c7b2e4c5229cae99a7e1248a769">&#9670;&#160;</a></span>IsVMEExpanded()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool albaAbsSideBar::IsVMEExpanded </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classalbaVME.html">albaVME</a> *&#160;</td>
+          <td class="paramname"><em>vme</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Return True if the VME is Expanded on Tree. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a39693bf7e777b0ed5e0a0aadae4360f3">albaSideBar</a>.</p>
+
+</div>
+</div>
+<a id="a89d57b5c9d520b330d313196bc9e229a" name="a89d57b5c9d520b330d313196bc9e229a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a89d57b5c9d520b330d313196bc9e229a">&#9670;&#160;</a></span>CollapseVME()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void albaAbsSideBar::CollapseVME </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classalbaVME.html">albaVME</a> *&#160;</td>
+          <td class="paramname"><em>vme</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Collapse the VME on the Tree. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a528b2412fe1fa0267101a0586ad16ce8">albaSideBar</a>.</p>
+
+</div>
+</div>
+<a id="a65c1a46fe7ab16dc88eba949c651a2d6" name="a65c1a46fe7ab16dc88eba949c651a2d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65c1a46fe7ab16dc88eba949c651a2d6">&#9670;&#160;</a></span>ExpandVME()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void albaAbsSideBar::ExpandVME </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classalbaVME.html">albaVME</a> *&#160;</td>
+          <td class="paramname"><em>vme</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Expand the VME on the Tree <br  />
+ </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a1491de886798cfcf85c89a32de913fc5">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -345,7 +452,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#ae21655baed5eec007cc9a7a4514738c6">albaSideBar</a>.</p>
+<p>Show the operation's parameters gui on the tabbed panel. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a12ef7a44b125e1c4776e703365cb8dfb">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -373,7 +482,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#ae37c322bd8c3b69332c33356d8ed93fe">albaSideBar</a>.</p>
+<p>Hide the view/operation's gui from the tabbed panel. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a0f39a09ef2e3dc56039913ac6875343e">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -401,7 +512,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#a183fa19f2195878eb58bdfc2bc440b8f">albaSideBar</a>.</p>
+<p>Plug the view settings on the tabbed panel. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a4fd702c5f6b11f180b1db5edafb6d56b">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -429,7 +542,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#a87836d55b128c7ed8c0dd7297efee7a0">albaSideBar</a>.</p>
+<p>Notify to the tree that a view has been deleted. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#aacbb1cbe01524a1492bddfeab0e9be62">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -457,7 +572,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#ac546ed5921470926633a74d918437068">albaSideBar</a>.</p>
+<p>Enable/Disable the vme selection when an operation ends/start. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a434b8103d1817721192325cbd6a5c889">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -484,7 +601,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#a13f54c809f1dd8585d9d7d5f26f11e30">albaSideBar</a>.</p>
+<p>Switch the visibility of the panel. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a826ac5d0c16d547446a5177475e572bf">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -511,7 +630,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#a808fadc93d326e1f77fb1c0442f4ffaa">albaSideBar</a>.</p>
+<p>Return true if the panel is showed. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#abca508c0302814fa8d19f0cfa7d8bb7c">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -539,7 +660,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#ae609b0a0d1171203ddcc6de3b501705f">albaSideBar</a>.</p>
+<p>Sets the visibility of the panel. </p>
+
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a7ba15c4f866a728e83fcbd7934174530">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -594,11 +717,11 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+<ul>
+<li>Respond to a VME_CHOOSE evt. Build a dialog containing the vme tree and return the vme choosed from the user. </li>
+</ul>
 
-<p>Respond to a VME_CHOOSE evt. </p>
-<p >Build a dialog containing the vme tree and return the vme choosed from the user. </p>
-
-<p>Implemented in <a class="el" href="classalbaSideBar.html#a4e81becd48952621bf95b1bb967a46da">albaSideBar</a>.</p>
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a36678fbc5ab60b95c240826b3213fe7e">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -627,7 +750,7 @@ Public Member Functions</h2></td></tr>
 
 <p>Open a Find VME dialog. </p>
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#a4c3c144ea678f7dd8cdd91b3d40bc3e8">albaSideBar</a>.</p>
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a40a3d4656327bdcbd7a6ee397f76d3d3">albaSideBar</a>.</p>
 
 </div>
 </div>

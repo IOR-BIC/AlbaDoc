@@ -1,5 +1,6 @@
 <map id="albaTextFileReaderHelper" name="albaTextFileReaderHelper">
-<area shape="rect" id="node1" title=" " alt="" coords="5,181,176,207"/>
-<area shape="rect" id="node2" href="$classalbaProgressBarHelper.html" title="albaProgressBarHelper Is an helper for manage progress bar advance" alt="" coords="13,93,168,119"/>
-<area shape="rect" id="node3" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="42,5,139,31"/>
+<area shape="rect" id="node1" title=" " alt="" coords="45,181,215,207"/>
+<area shape="rect" id="node2" href="$classalbaProgressBarHelper.html" title="albaProgressBarHelper Is an helper for manage progress bar advance" alt="" coords="53,93,207,119"/>
+<area shape="rect" id="node3" href="$classalbaGUIBusyInfo.html" title=" " alt="" coords="5,5,124,31"/>
+<area shape="rect" id="node4" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="148,5,245,31"/>
 </map>

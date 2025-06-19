@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classwxDockInfo.html" title="class name: wxDockInfo This class define properties of a dock." alt="" coords="5,5,93,31"/>
+<area shape="rect" id="node1" href="$classwxDockArt.html" title="class name: wxDockArt dock art provider code &#45; a dock provider provides all drawing functionality to ..." alt="" coords="5,5,91,31"/>
+<area shape="rect" id="node2" href="$classwxDefaultDockArt.html" title="class name: wxDefaultDockArt this is the default art provider for wxFrameManager." alt="" coords="139,5,264,31"/>
 </map>

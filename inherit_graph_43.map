@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classalbaTextFileReaderHelper.html" title=" " alt="" coords="5,5,176,31"/>
+<area shape="rect" id="node1" href="$classalbaStorageElement.html" title="Abstract class representing the interface for the unit of information stored in the storage." alt="" coords="5,5,144,31"/>
+<area shape="rect" id="node2" href="$classalbaXMLElement.html" title="concrete implementation of albaStorageElement as an XML&#45;DOM element This class represent a concrete i..." alt="" coords="192,5,311,31"/>
 </map>

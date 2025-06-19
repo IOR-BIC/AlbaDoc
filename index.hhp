@@ -108,6 +108,8 @@ albaGUIAboutDialog_8h.html
 albaGUIAboutDialog_8h_source.html
 albaGUIApplicationSettings_8h.html
 albaGUIApplicationSettings_8h_source.html
+albaGUIBusyInfo_8h.html
+albaGUIBusyInfo_8h_source.html
 albaGUIButton_8h.html
 albaGUIButton_8h_source.html
 albaGUICheckListBox_8h.html
@@ -706,6 +708,8 @@ classalbaGUIAboutDialog-members.html
 classalbaGUIAboutDialog.html
 classalbaGUIApplicationSettings-members.html
 classalbaGUIApplicationSettings.html
+classalbaGUIBusyInfo-members.html
+classalbaGUIBusyInfo.html
 classalbaGUIButton-members.html
 classalbaGUIButton.html
 classalbaGUICheckListBox-members.html
@@ -2859,6 +2863,7 @@ inherit_graph_88.png
 inherit_graph_89.png
 inherit_graph_9.png
 inherit_graph_90.png
+inherit_graph_91.png
 mmaApplicationLayout_8h__incl.png
 mmaMaterial_8h__incl.png
 mmaVolumeMaterial_8h__incl.png

@@ -99,7 +99,8 @@ Public Types</h2></td></tr>
 , <a class="el" href="classalbaGUIDicomSettings.html#a9c0bdb15304fe9fb6e19d3838730fb8aa4919f39d57842ccd8d2e76efb922b847">ID_AUTORESAMPLE_OUTPUT</a>
 , <a class="el" href="classalbaGUIDicomSettings.html#a9c0bdb15304fe9fb6e19d3838730fb8aab066b3ba6d98f428a5bbe5d9e2078cb4">ID_DCM_POSITION_PATIENT_CHOICE</a>
 , <br />
-&#160;&#160;<a class="el" href="classalbaGUIDicomSettings.html#a9c0bdb15304fe9fb6e19d3838730fb8aa5f0f2807d5e85f07c941bb9db5cd250e">ID_SKIP_CROP</a>
+&#160;&#160;<a class="el" href="classalbaGUIDicomSettings.html#a9c0bdb15304fe9fb6e19d3838730fb8aac2c9fe9d970c3da3e60295c7f49d0638">ID_ACQUISITION_NUMBER_STRATEGY_CHOICE</a>
+, <a class="el" href="classalbaGUIDicomSettings.html#a9c0bdb15304fe9fb6e19d3838730fb8aa5f0f2807d5e85f07c941bb9db5cd250e">ID_SKIP_CROP</a>
 , <a class="el" href="classalbaGUIDicomSettings.html#a9c0bdb15304fe9fb6e19d3838730fb8aa3684006de683d8321b5e2326a1ca79ab">ID_SKIP_NAMING</a>
 <br />
  }</td></tr>
@@ -116,6 +117,7 @@ Public Types</h2></td></tr>
 <tr class="separator:ad3f06d2bf150439219bb8d3715e9f44d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4bfc9db1d56b8af290944137b74ea7a3"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDicomSettings.html#a4bfc9db1d56b8af290944137b74ea7a3">POSITION_EXEPTION_HANDLING</a> { <a class="el" href="classalbaGUIDicomSettings.html#a4bfc9db1d56b8af290944137b74ea7a3af2d50abf83e10d2725f08f07fc41c37d">SKIP_ALL</a>
 , <a class="el" href="classalbaGUIDicomSettings.html#a4bfc9db1d56b8af290944137b74ea7a3a034dc94cc5a5e3c9ac4c314fccd257df">APPLY_DEFAULT_POSITION</a>
+, <a class="el" href="classalbaGUIDicomSettings.html#a4bfc9db1d56b8af290944137b74ea7a3a14ab00d396a3e70f8bd0769b5762672c">ASK_USER_FOR_POSITION_HANDLING</a>
  }</td></tr>
 <tr class="separator:a4bfc9db1d56b8af290944137b74ea7a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a17ef2ef2e638cf8b2ed44103ce8cd407"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDicomSettings.html#a17ef2ef2e638cf8b2ed44103ce8cd407">OUTPUT_TYPES</a> { <a class="el" href="classalbaGUIDicomSettings.html#a17ef2ef2e638cf8b2ed44103ce8cd407a27fc2863a4a9d3051ca105119821d19b">VOLUME_TYPE</a>
@@ -132,6 +134,11 @@ Public Types</h2></td></tr>
 <br />
  }</td></tr>
 <tr class="separator:a98c39b72e2d9ff7fdc038e8fdbd143e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a174c5312ea918d408c7bb67764f6d032"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDicomSettings.html#a174c5312ea918d408c7bb67764f6d032">ACQUISITION_NUMBER</a> { <a class="el" href="classalbaGUIDicomSettings.html#a174c5312ea918d408c7bb67764f6d032a16b7c25acc597e66a64a89d2e9a827cc">MERGE_DIFFERNT_ACQUISITION_NUMBER</a>
+, <a class="el" href="classalbaGUIDicomSettings.html#a174c5312ea918d408c7bb67764f6d032a69361d6d9fa91d812d668a088cf6ef77">SPLIT_DIFFERNT_ACQUISITION_NUMBER</a>
+, <a class="el" href="classalbaGUIDicomSettings.html#a174c5312ea918d408c7bb67764f6d032a392a6589f312168df253941937a1d6d4">ASK_STRATEGY_TO_THE_USER</a>
+ }</td></tr>
+<tr class="separator:a174c5312ea918d408c7bb67764f6d032"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -149,6 +156,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ad5630ea24dadba473d2681019ca2a2af"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af49aef51d53ced5ae17120279fa5c971"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDicomSettings.html#af49aef51d53ced5ae17120279fa5c971">GetEnabledCustomName</a> (enum <a class="el" href="classalbaGUIDicomSettings.html#a98c39b72e2d9ff7fdc038e8fdbd143e9">NAME_COMPOSITOR</a> type)</td></tr>
 <tr class="separator:af49aef51d53ced5ae17120279fa5c971"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d4f2ddd8b17a743a51524ff4a947429"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDicomSettings.html#a8d4f2ddd8b17a743a51524ff4a947429">GetAcquisitionNumberStrategy</a> ()</td></tr>
+<tr class="separator:a8d4f2ddd8b17a743a51524ff4a947429"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a732d63150f655bc3fae47c921e60a6c5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDicomSettings.html#a732d63150f655bc3fae47c921e60a6c5">SetAcquisitionNumberStrategy</a> (int strategy)</td></tr>
+<tr class="separator:a732d63150f655bc3fae47c921e60a6c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adc977ba3945eb294681d6972e94cbf6a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDicomSettings.html#adc977ba3945eb294681d6972e94cbf6a">GetDCMImagePositionPatientExceptionHandling</a> ()</td></tr>
 <tr class="separator:adc977ba3945eb294681d6972e94cbf6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5d0d9870fec3cdf748dc42bd18b41cff"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDicomSettings.html#a5d0d9870fec3cdf748dc42bd18b41cff">SetDCMImagePositionPatientExceptionHandling</a> (int choice)</td></tr>
@@ -223,6 +234,8 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a533dc317df886bd9c7979ba10a30b4e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2d5ad8d2ba0a3c0b058b87fc8f4dce6e"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDicomSettings.html#a2d5ad8d2ba0a3c0b058b87fc8f4dce6e">m_DCM_ImagePositionPatientchoice</a></td></tr>
 <tr class="separator:a2d5ad8d2ba0a3c0b058b87fc8f4dce6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8962af1d2461d0311d02971902327fa"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDicomSettings.html#ab8962af1d2461d0311d02971902327fa">m_AcquisitionNumberStrategy</a></td></tr>
+<tr class="separator:ab8962af1d2461d0311d02971902327fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_attribs_classalbaGUISettings"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_classalbaGUISettings')"><img src="closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="classalbaGUISettings.html">albaGUISettings</a></td></tr>
 <tr class="memitem:a1d0e021bf9d630ec38780000766ea824 inherit pro_attribs_classalbaGUISettings"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classalbaGUI.html">albaGUI</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUISettings.html#a1d0e021bf9d630ec38780000766ea824">m_Gui</a></td></tr>
 <tr class="separator:a1d0e021bf9d630ec38780000766ea824 inherit pro_attribs_classalbaGUISettings"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -274,6 +287,7 @@ Friends</h2></td></tr>
 <tr><td class="fieldname"><a id="a9c0bdb15304fe9fb6e19d3838730fb8aa00a57a639e718d961c87b59d5e80b99a" name="a9c0bdb15304fe9fb6e19d3838730fb8aa00a57a639e718d961c87b59d5e80b99a"></a>ID_SETTING_VME_TYPE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a9c0bdb15304fe9fb6e19d3838730fb8aa4919f39d57842ccd8d2e76efb922b847" name="a9c0bdb15304fe9fb6e19d3838730fb8aa4919f39d57842ccd8d2e76efb922b847"></a>ID_AUTORESAMPLE_OUTPUT&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a9c0bdb15304fe9fb6e19d3838730fb8aab066b3ba6d98f428a5bbe5d9e2078cb4" name="a9c0bdb15304fe9fb6e19d3838730fb8aab066b3ba6d98f428a5bbe5d9e2078cb4"></a>ID_DCM_POSITION_PATIENT_CHOICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9c0bdb15304fe9fb6e19d3838730fb8aac2c9fe9d970c3da3e60295c7f49d0638" name="a9c0bdb15304fe9fb6e19d3838730fb8aac2c9fe9d970c3da3e60295c7f49d0638"></a>ID_ACQUISITION_NUMBER_STRATEGY_CHOICE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a9c0bdb15304fe9fb6e19d3838730fb8aa5f0f2807d5e85f07c941bb9db5cd250e" name="a9c0bdb15304fe9fb6e19d3838730fb8aa5f0f2807d5e85f07c941bb9db5cd250e"></a>ID_SKIP_CROP&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a9c0bdb15304fe9fb6e19d3838730fb8aa3684006de683d8321b5e2326a1ca79ab" name="a9c0bdb15304fe9fb6e19d3838730fb8aa3684006de683d8321b5e2326a1ca79ab"></a>ID_SKIP_NAMING&#160;</td><td class="fielddoc"></td></tr>
 </table>
@@ -302,7 +316,7 @@ Friends</h2></td></tr>
 <tr><td class="fieldname"><a id="a9b68e22eab676396e4670c4a511e43b8a6eb85e97132274acaa6d9c0746b5913a" name="a9b68e22eab676396e4670c4a511e43b8a6eb85e97132274acaa6d9c0746b5913a"></a>ID_4X&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00067">67</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00068">68</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -324,7 +338,7 @@ Friends</h2></td></tr>
 <tr><td class="fieldname"><a id="ad3f06d2bf150439219bb8d3715e9f44da4d2a6428935566f051b8c1a4e58ebcbe" name="ad3f06d2bf150439219bb8d3715e9f44da4d2a6428935566f051b8c1a4e58ebcbe"></a>mm2m&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00076">76</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00077">77</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -342,9 +356,10 @@ Friends</h2></td></tr>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4bfc9db1d56b8af290944137b74ea7a3af2d50abf83e10d2725f08f07fc41c37d" name="a4bfc9db1d56b8af290944137b74ea7a3af2d50abf83e10d2725f08f07fc41c37d"></a>SKIP_ALL&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a4bfc9db1d56b8af290944137b74ea7a3a034dc94cc5a5e3c9ac4c314fccd257df" name="a4bfc9db1d56b8af290944137b74ea7a3a034dc94cc5a5e3c9ac4c314fccd257df"></a>APPLY_DEFAULT_POSITION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4bfc9db1d56b8af290944137b74ea7a3a14ab00d396a3e70f8bd0769b5762672c" name="a4bfc9db1d56b8af290944137b74ea7a3a14ab00d396a3e70f8bd0769b5762672c"></a>ASK_USER_FOR_POSITION_HANDLING&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00082">82</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00083">83</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -364,7 +379,7 @@ Friends</h2></td></tr>
 <tr><td class="fieldname"><a id="a17ef2ef2e638cf8b2ed44103ce8cd407aa2e0f757181c33f60e09a9a107472bee" name="a17ef2ef2e638cf8b2ed44103ce8cd407aa2e0f757181c33f60e09a9a107472bee"></a>IMAGE_TYPE&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00088">88</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00090">90</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -387,7 +402,28 @@ Friends</h2></td></tr>
 <tr><td class="fieldname"><a id="a98c39b72e2d9ff7fdc038e8fdbd143e9ae4df229ffe70f3603830be321bf20ac5" name="a98c39b72e2d9ff7fdc038e8fdbd143e9ae4df229ffe70f3603830be321bf20ac5"></a>ID_SERIES&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00094">94</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00096">96</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+
+</div>
+</div>
+<a id="a174c5312ea918d408c7bb67764f6d032" name="a174c5312ea918d408c7bb67764f6d032"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a174c5312ea918d408c7bb67764f6d032">&#9670;&#160;</a></span>ACQUISITION_NUMBER</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="classalbaGUIDicomSettings.html#a174c5312ea918d408c7bb67764f6d032">albaGUIDicomSettings::ACQUISITION_NUMBER</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a174c5312ea918d408c7bb67764f6d032a16b7c25acc597e66a64a89d2e9a827cc" name="a174c5312ea918d408c7bb67764f6d032a16b7c25acc597e66a64a89d2e9a827cc"></a>MERGE_DIFFERNT_ACQUISITION_NUMBER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a174c5312ea918d408c7bb67764f6d032a69361d6d9fa91d812d668a088cf6ef77" name="a174c5312ea918d408c7bb67764f6d032a69361d6d9fa91d812d668a088cf6ef77"></a>SPLIT_DIFFERNT_ACQUISITION_NUMBER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a174c5312ea918d408c7bb67764f6d032a392a6589f312168df253941937a1d6d4" name="a174c5312ea918d408c7bb67764f6d032a392a6589f312168df253941937a1d6d4"></a>ASK_STRATEGY_TO_THE_USER&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00105">105</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -497,7 +533,7 @@ Friends</h2></td></tr>
 
 <p>Retrieve the build step. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00107">107</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00116">116</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -545,7 +581,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00112">112</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00121">121</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -569,8 +605,27 @@ Friends</h2></td></tr>
 
 </div>
 </div>
-<a id="adc977ba3945eb294681d6972e94cbf6a" name="adc977ba3945eb294681d6972e94cbf6a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adc977ba3945eb294681d6972e94cbf6a">&#9670;&#160;</a></span>GetDCMImagePositionPatientExceptionHandling()</h2>
+<a id="a8d4f2ddd8b17a743a51524ff4a947429" name="a8d4f2ddd8b17a743a51524ff4a947429"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8d4f2ddd8b17a743a51524ff4a947429">&#9670;&#160;</a></span>GetAcquisitionNumberStrategy()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int albaGUIDicomSettings::GetAcquisitionNumberStrategy </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Return the merge/split strategy for series with the same series ID and different acquisition number. </p>
+
+</div>
+</div>
+<a id="a732d63150f655bc3fae47c921e60a6c5" name="a732d63150f655bc3fae47c921e60a6c5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a732d63150f655bc3fae47c921e60a6c5">&#9670;&#160;</a></span>SetAcquisitionNumberStrategy()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -579,9 +634,10 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">int albaGUIDicomSettings::GetDCMImagePositionPatientExceptionHandling </td>
+          <td class="memname">void albaGUIDicomSettings::SetAcquisitionNumberStrategy </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>strategy</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -592,9 +648,28 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Return the DCM_ImagePositionPatient choice. </p>
+<p>Return the merge/split strategy for series with the same series ID and different acquisition number. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00118">118</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00130">130</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+
+</div>
+</div>
+<a id="adc977ba3945eb294681d6972e94cbf6a" name="adc977ba3945eb294681d6972e94cbf6a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc977ba3945eb294681d6972e94cbf6a">&#9670;&#160;</a></span>GetDCMImagePositionPatientExceptionHandling()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int albaGUIDicomSettings::GetDCMImagePositionPatientExceptionHandling </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Return the DCM_ImagePositionPatient choice. </p>
 
 </div>
 </div>
@@ -624,7 +699,7 @@ Friends</h2></td></tr>
 
 <p>Sets the DCM_ImagePositionPatient choice. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00121">121</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00136">136</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -653,7 +728,7 @@ Friends</h2></td></tr>
 
 <p>Returns SkipCrop. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00124">124</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00139">139</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -683,7 +758,7 @@ Friends</h2></td></tr>
 
 <p>Sets SkipCrop. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00127">127</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00142">142</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -712,7 +787,7 @@ Friends</h2></td></tr>
 
 <p>Returns AutoVMEType. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00130">130</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00145">145</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -742,7 +817,7 @@ Friends</h2></td></tr>
 
 <p>Sets AutoVMEType. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00133">133</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00148">148</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -771,7 +846,7 @@ Friends</h2></td></tr>
 
 <p>Returns AutoVMEType. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00136">136</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00151">151</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -801,7 +876,7 @@ Friends</h2></td></tr>
 
 <p>Sets AutoVMEType. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00139">139</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00154">154</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -830,7 +905,7 @@ Friends</h2></td></tr>
 
 <p>Returns OutputType. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00142">142</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00157">157</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -860,7 +935,7 @@ Friends</h2></td></tr>
 
 <p>Sets OutputType. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00145">145</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00160">160</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -970,7 +1045,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00171">171</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00187">187</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -995,7 +1070,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00158">158</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00173">173</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -1019,7 +1094,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00160">160</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00175">175</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -1043,7 +1118,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00162">162</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00177">177</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -1067,7 +1142,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00164">164</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00179">179</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -1091,7 +1166,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00165">165</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00180">180</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -1115,7 +1190,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00166">166</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00181">181</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -1139,7 +1214,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00167">167</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00182">182</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -1163,7 +1238,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00168">168</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00183">183</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>
@@ -1187,7 +1262,31 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00169">169</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00184">184</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
+
+</div>
+</div>
+<a id="ab8962af1d2461d0311d02971902327fa" name="ab8962af1d2461d0311d02971902327fa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8962af1d2461d0311d02971902327fa">&#9670;&#160;</a></span>m_AcquisitionNumberStrategy</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int albaGUIDicomSettings::m_AcquisitionNumberStrategy</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="albaGUIDicomSettings_8h_source.html#l00185">185</a> of file <a class="el" href="albaGUIDicomSettings_8h_source.html">albaGUIDicomSettings.h</a>.</p>
 
 </div>
 </div>

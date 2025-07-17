@@ -128,6 +128,8 @@ albaGUICrossIncremental_8h.html
 albaGUICrossIncremental_8h_source.html
 albaGUICrossSplitter_8h.html
 albaGUICrossSplitter_8h_source.html
+albaGUIDialogAskAndRemember_8h.html
+albaGUIDialogAskAndRemember_8h_source.html
 albaGUIDialogFindVme_8h.html
 albaGUIDialogFindVme_8h_source.html
 albaGUIDialogLogin_8h.html
@@ -730,6 +732,8 @@ classalbaGUICrossSplitter-members.html
 classalbaGUICrossSplitter.html
 classalbaGUIDialog-members.html
 classalbaGUIDialog.html
+classalbaGUIDialogAskAndRemember-members.html
+classalbaGUIDialogAskAndRemember.html
 classalbaGUIDialogFindVme-members.html
 classalbaGUIDialogFindVme.html
 classalbaGUIDialogLogin-members.html
@@ -1667,6 +1671,7 @@ albaGUIComboBox_8h__incl.png
 albaGUIContextualMenu_8h__incl.png
 albaGUICrossIncremental_8h__incl.png
 albaGUICrossSplitter_8h__incl.png
+albaGUIDialogAskAndRemember_8h__incl.png
 albaGUIDialogFindVme_8h__incl.png
 albaGUIDialogLogin_8h__incl.png
 albaGUIDialogPreview_8h__incl.png
@@ -2123,6 +2128,8 @@ classalbaGUICrossIncremental__coll__graph.png
 classalbaGUICrossIncremental__inherit__graph.png
 classalbaGUICrossSplitter__coll__graph.png
 classalbaGUICrossSplitter__inherit__graph.png
+classalbaGUIDialogAskAndRemember__coll__graph.png
+classalbaGUIDialogAskAndRemember__inherit__graph.png
 classalbaGUIDialogFindVme__coll__graph.png
 classalbaGUIDialogFindVme__inherit__graph.png
 classalbaGUIDialogLogin__coll__graph.png

@@ -93,8 +93,6 @@ Classes</h2></td></tr>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:ab44ec80b346a10bd953c4179bd6bdf04"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaObjectFactory.html#ab44ec80b346a10bd953c4179bd6bdf04">albaAbstractTypeMacro</a> (<a class="el" href="classalbaObjectFactory.html">albaObjectFactory</a>, <a class="el" href="classalbaReferenceCounted.html">albaReferenceCounted</a>)</td></tr>
 <tr class="separator:ab44ec80b346a10bd953c4179bd6bdf04"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0c91ea4d44121f15b4b3e951ecc48919"><td class="memItemLeft" align="right" valign="top">virtual const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaObjectFactory.html#a0c91ea4d44121f15b4b3e951ecc48919">GetALBASourceVersion</a> (void) const =0</td></tr>
-<tr class="separator:a0c91ea4d44121f15b4b3e951ecc48919"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a255ec26a461b78013e3d987af0440aaa"><td class="memItemLeft" align="right" valign="top">virtual const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaObjectFactory.html#a255ec26a461b78013e3d987af0440aaa">GetDescription</a> (void) const =0</td></tr>
 <tr class="separator:a255ec26a461b78013e3d987af0440aaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a735cd17fa32a16dcdeaa2c4a0c97307c"><td class="memItemLeft" align="right" valign="top">virtual std::list&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaObjectFactory.html#a735cd17fa32a16dcdeaa2c4a0c97307c">GetClassOverrideNames</a> ()</td></tr>
@@ -246,7 +244,7 @@ Protected Attributes</h2></td></tr>
 <p>albaStringOverMap - Internal implementation class for ObjectFactorBase. </p>
 <p >Create a sub class to shrink the size of the symbols Also, so a forward reference can be put in <a class="el" href="albaObjectFactory_8h.html">albaObjectFactory.h</a> and a pointer member can be used. This avoids other classes including &lt;map&gt; and getting long symbol warnings. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaObjectFactory_8h_source.html#l00180">180</a> of file <a class="el" href="albaObjectFactory_8h_source.html">albaObjectFactory.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaObjectFactory_8h_source.html#l00173">173</a> of file <a class="el" href="albaObjectFactory_8h_source.html">albaObjectFactory.h</a>.</p>
 
 </div>
 </div>
@@ -518,37 +516,6 @@ Protected Attributes</h2></td></tr>
 
 <p>Return the list of all registered factories. </p>
 <p >This is NOT a copy, do not remove items from this list! </p>
-
-</div>
-</div>
-<a id="a0c91ea4d44121f15b4b3e951ecc48919" name="a0c91ea4d44121f15b4b3e951ecc48919"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0c91ea4d44121f15b4b3e951ecc48919">&#9670;&#160;</a></span>GetALBASourceVersion()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual const char * albaObjectFactory::GetALBASourceVersion </td>
-          <td>(</td>
-          <td class="paramtype">void&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>All sub-classes of <a class="el" href="classalbaObjectFactory.html" title="Create instances of classes using an object factory.">albaObjectFactory</a> should must return the version of ALBA they were built with. </p>
-<p >This should be implemented with the macro ALBA_SOURCE_VERSION and NOT a call to Version::GetALBASourceVersion. As the version needs to be compiled into the file as a string constant. This is critical to determine possible incompatible dynamic factory loads. </p>
-
-<p>Implemented in <a class="el" href="classalbaCoreFactory.html#aae897e7bc055b8998595a18ba0bc2f0c">albaCoreFactory</a>, <a class="el" href="classalbaPipeFactory.html#a91b3fe503b8f144dd5ef8d81f98d799a">albaPipeFactory</a>, and <a class="el" href="classalbaInteractionFactory.html#abf532296f332f61196cb4609663de8da">albaInteractionFactory</a>.</p>
 
 </div>
 </div>
@@ -880,7 +847,7 @@ Protected Attributes</h2></td></tr>
 
 <p>This function can be used by Application code to register new Objects's to the <a class="el" href="classalbaCoreFactory.html" title="Object factory for objects in the ALBA library.">albaCoreFactory</a>. </p>
 
-<p class="reference">Referenced by <a class="el" href="albaCoreFactory_8h_source.html#l00054">albaPlugObject&lt; T &gt;::albaPlugObject()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaCoreFactory_8h_source.html#l00053">albaPlugObject&lt; T &gt;::albaPlugObject()</a>.</p>
 
 </div>
 </div>
@@ -1076,7 +1043,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaObjectFactory_8h_source.html#l00182">182</a> of file <a class="el" href="albaObjectFactory_8h_source.html">albaObjectFactory.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaObjectFactory_8h_source.html#l00175">175</a> of file <a class="el" href="albaObjectFactory_8h_source.html">albaObjectFactory.h</a>.</p>
 
 </div>
 </div>

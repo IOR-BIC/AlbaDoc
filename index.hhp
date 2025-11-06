@@ -570,8 +570,6 @@ albaVect3d_8h.html
 albaVect3d_8h_source.html
 albaVector_8h.html
 albaVector_8h_source.html
-albaVersion_8h.html
-albaVersion_8h_source.html
 albaViewCompound_8h.html
 albaViewCompound_8h_source.html
 albaViewHTML_8h.html
@@ -1209,8 +1207,6 @@ classalbaVect3d-members.html
 classalbaVect3d.html
 classalbaVector-members.html
 classalbaVector.html
-classalbaVersion-members.html
-classalbaVersion.html
 classalbaView-members.html
 classalbaView.html
 classalbaViewCompound-members.html
@@ -1979,7 +1975,6 @@ albaVect3d_8h__dep__incl.png
 albaVect3d_8h__incl.png
 albaVector_8h__dep__incl.png
 albaVector_8h__incl.png
-albaVersion_8h__incl.png
 albaViewCompound_8h__dep__incl.png
 albaViewCompound_8h__incl.png
 albaViewHTML_8h__incl.png
@@ -2662,8 +2657,6 @@ classalbaVTKLog__coll__graph.png
 classalbaVTKLog__inherit__graph.png
 classalbaVector__coll__graph.png
 classalbaVector__inherit__graph.png
-classalbaVersion__coll__graph.png
-classalbaVersion__inherit__graph.png
 classalbaViewCompound__coll__graph.png
 classalbaViewCompound__inherit__graph.png
 classalbaViewHTML__coll__graph.png

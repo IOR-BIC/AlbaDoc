@@ -1,8 +1,8 @@
 <map id="albaGUIGizmoRotate.h" name="albaGUIGizmoRotate.h">
-<area shape="rect" id="node1" title=" " alt="" coords="404,5,559,31"/>
+<area shape="rect" id="node1" title=" " alt="" coords="441,5,596,31"/>
 <area shape="rect" id="node2" href="$albaEvent_8h.html" title=" " alt="" coords="387,152,477,177"/>
 <area shape="rect" id="node18" href="$albaObserver_8h.html" title=" " alt="" coords="515,225,623,251"/>
-<area shape="rect" id="node19" href="$albaGUIGizmoInterface_8h.html" title=" " alt="" coords="398,79,565,104"/>
+<area shape="rect" id="node19" href="$albaGUIGizmoInterface_8h.html" title=" " alt="" coords="314,79,481,104"/>
 <area shape="rect" id="node3" href="$albaDefines_8h.html" title=" " alt="" coords="278,445,378,471"/>
 <area shape="rect" id="node10" href="$albaDecl_8h.html" title=" " alt="" coords="343,299,425,324"/>
 <area shape="rect" id="node16" href="$albaEventBase_8h.html" title=" " alt="" coords="373,225,491,251"/>

@@ -212,6 +212,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ace6c0b25265a27a81960c81e43f651b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a54672e1b06e2214da3264cd192f161e3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaOpManager.html#a54672e1b06e2214da3264cd192f161e3">SetBuildNum</a> (<a class="el" href="classalbaString.html">albaString</a> val)</td></tr>
 <tr class="separator:a54672e1b06e2214da3264cd192f161e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae19a159969210da69ac11a5b0725fbf9"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaOpManager.html#ae19a159969210da69ac11a5b0725fbf9">ImportFile</a> (<a class="el" href="classalbaString.html">albaString</a> filename)</td></tr>
+<tr class="separator:ae19a159969210da69ac11a5b0725fbf9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classalbaObserver"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classalbaObserver')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classalbaObserver.html">albaObserver</a></td></tr>
 <tr class="memitem:a40b13c1b4db21e454766fe04c0ccd926 inherit pub_methods_classalbaObserver"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaObserver.html#a40b13c1b4db21e454766fe04c0ccd926">albaObserver</a> ()</td></tr>
 <tr class="separator:a40b13c1b4db21e454766fe04c0ccd926 inherit pub_methods_classalbaObserver"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -263,6 +265,8 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a621b14d14f06bb039a6a11d335a1229f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1ff2f04e350ee335b3dbe1094ce739d7"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="classalbaOp.html">albaOp</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaOpManager.html#a1ff2f04e350ee335b3dbe1094ce739d7">m_OpList</a></td></tr>
 <tr class="separator:a1ff2f04e350ee335b3dbe1094ce739d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aedc43fe9f04a07637d103089a46a6311"><td class="memItemLeft" align="right" valign="top">std::vector&lt; albaOpImporterFile * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaOpManager.html#aedc43fe9f04a07637d103089a46a6311">m_OpImporterFileList</a></td></tr>
+<tr class="separator:aedc43fe9f04a07637d103089a46a6311"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae2c11325bd8e441e7120efead968d36c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaOpManager.html#ae2c11325bd8e441e7120efead968d36c">m_NumOp</a></td></tr>
 <tr class="separator:ae2c11325bd8e441e7120efead968d36c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae8c5f3d10f8071e0aaafe07b022fb9b7"><td class="memItemLeft" align="right" valign="top">wxAcceleratorEntry&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaOpManager.html#ae8c5f3d10f8071e0aaafe07b022fb9b7">m_OpAccelEntries</a> [<a class="el" href="albaDecl_8h.html#a03bc506bfa8ccfa5989167b6eb1fa19b">MAXOP</a>]</td></tr>
@@ -303,7 +307,7 @@ Friends</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00061">61</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00062">62</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="af163828d1ae79dd269272621e14e8fe8" name="af163828d1ae79dd269272621e14e8fe8"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#af163828d1ae79dd269272621e14e8fe8">&#9670;&#160;</a></span>albaOpManager()</h2>
@@ -372,7 +376,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00066">66</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00067">67</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -954,7 +958,7 @@ Friends</h2></td></tr>
 
 <p>Set the flag for warning the user if the operation is undoable. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00120">120</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00121">121</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -984,7 +988,7 @@ Friends</h2></td></tr>
 
 <p>Set a reference to the main toolbar. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00123">123</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00124">124</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1014,7 +1018,7 @@ Friends</h2></td></tr>
 
 <p>Set a reference to the main men. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00126">126</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00127">127</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1043,7 +1047,7 @@ Friends</h2></td></tr>
 
 <p>return true if there is a running operation. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00129">129</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00130">130</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1313,7 +1317,7 @@ Friends</h2></td></tr>
 
 <p>Return the current alba user. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00162">162</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00163">163</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1370,7 +1374,7 @@ Friends</h2></td></tr>
 
 <p>Set Build Num. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00169">169</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00170">170</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1400,7 +1404,25 @@ Friends</h2></td></tr>
 
 <p>Get Build Num. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00172">172</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00173">173</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+
+</div>
+</div>
+<a id="ae19a159969210da69ac11a5b0725fbf9" name="ae19a159969210da69ac11a5b0725fbf9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae19a159969210da69ac11a5b0725fbf9">&#9670;&#160;</a></span>ImportFile()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int albaOpManager::ImportFile </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classalbaString.html">albaString</a>&#160;</td>
+          <td class="paramname"><em>filename</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -1729,7 +1751,7 @@ Friends</h2></td></tr>
 
 <p>test friend </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00236">236</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00240">240</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1756,7 +1778,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the mouse devices. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00204">204</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00207">207</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1782,7 +1804,7 @@ Friends</h2></td></tr>
 
 <p>Flag to warn the user when an operation that can not undo is starting. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00205">205</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00208">208</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1806,7 +1828,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00206">206</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00209">209</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1832,7 +1854,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the current running operation. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00207">207</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00210">210</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1858,7 +1880,7 @@ Friends</h2></td></tr>
 
 <p>Array of pointers to the menu 'Operations', 'Importer' and 'Exporter'. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00208">208</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00211">211</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1884,7 +1906,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the current selected node. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00209">209</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00212">212</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1910,7 +1932,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the NATURAL node on which is running a non-input preserving operation. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00210">210</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00213">213</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1936,7 +1958,7 @@ Friends</h2></td></tr>
 
 <p>User credentials. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00212">212</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00215">215</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1962,7 +1984,33 @@ Friends</h2></td></tr>
 
 <p>List of pointer of plugged operations. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00214">214</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00217">217</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+
+</div>
+</div>
+<a id="aedc43fe9f04a07637d103089a46a6311" name="aedc43fe9f04a07637d103089a46a6311"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aedc43fe9f04a07637d103089a46a6311">&#9670;&#160;</a></span>m_OpImporterFileList</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;albaOpImporterFile *&gt; albaOpManager::m_OpImporterFileList</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>List of pointer of plugged importer file operations. </p>
+
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00218">218</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -1988,7 +2036,7 @@ Friends</h2></td></tr>
 
 <p>Number of plugged operations. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00215">215</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00219">219</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2014,7 +2062,7 @@ Friends</h2></td></tr>
 
 <p>List of Accelerators for menu items. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00216">216</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00220">220</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2038,7 +2086,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00217">217</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00221">221</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2064,7 +2112,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the operation's parameter list. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00219">219</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00223">223</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2090,7 +2138,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the (always available) operation for selecting VMEs. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00221">221</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00225">225</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2116,7 +2164,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the (always available) operation for cutting VMEs. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00222">222</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00226">226</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2142,7 +2190,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the (always available) operation for copying VMEs. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00223">223</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00227">227</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2168,7 +2216,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the (always available) operation for pasting VMEs. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00224">224</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00228">228</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2194,7 +2242,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the (always available) operation for reparenting VMEs. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00225">225</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00229">229</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2220,7 +2268,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the (always available) operation for reparenting VMEs. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00226">226</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00230">230</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2246,7 +2294,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the (always available) operation for Adding Group VMEs. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00227">227</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00231">231</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2270,7 +2318,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00228">228</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00232">232</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2296,7 +2344,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the Application's main menù. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00229">229</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00233">233</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2322,7 +2370,7 @@ Friends</h2></td></tr>
 
 <p>Pointer to the application's Toolbal. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00230">230</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00234">234</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2346,7 +2394,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00231">231</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00235">235</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>
@@ -2370,7 +2418,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00233">233</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaOpManager_8h_source.html#l00237">237</a> of file <a class="el" href="albaOpManager_8h_source.html">albaOpManager.h</a>.</p>
 
 </div>
 </div>

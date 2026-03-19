@@ -72,11 +72,13 @@ Collaboration diagram for albaLicenceManager:</div>
 <div class="dyncontent">
 <div class="center"><img src="classalbaLicenceManager__coll__graph.png" border="0" usemap="#aalbaLicenceManager_coll__map" alt="Collaboration graph"/></div>
 <map name="aalbaLicenceManager_coll__map" id="aalbaLicenceManager_coll__map">
-<area shape="rect" title=" " alt="" coords="5,196,147,221"/>
-<area shape="rect" href="classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="45,5,142,31"/>
-<area shape="rect" href="classalbaGUIDialog.html" title="albaGUIDialog is the base class for albaDialogs." alt="" coords="169,93,273,119"/>
-<area shape="rect" title=" " alt="" coords="205,5,280,31"/>
-<area shape="rect" title=" " alt="" coords="305,5,426,31"/>
+<area shape="rect" title=" " alt="" coords="260,196,401,221"/>
+<area shape="rect" href="classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="282,5,379,31"/>
+<area shape="rect" href="classalbaGUIDialog.html" title="albaGUIDialog is the base class for albaDialogs." alt="" coords="236,93,340,119"/>
+<area shape="rect" href="classalbaGUIButton.html" title="albaGUIButton inherit from wxButton." alt="" coords="513,93,620,119"/>
+<area shape="rect" title=" " alt="" coords="5,5,80,31"/>
+<area shape="rect" title=" " alt="" coords="105,5,226,31"/>
+<area shape="rect" title=" " alt="" coords="529,5,605,31"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -107,9 +109,17 @@ Public Types</h2></td></tr>
 , <a class="el" href="classalbaLicenceManager.html#abdcfe7ed1d0cadce12ecddff88c0147fa3ad60d2aead39139eca41f0b1f8b9df1">LICENCE_CREATED</a>
  }</td></tr>
 <tr class="separator:abdcfe7ed1d0cadce12ecddff88c0147f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a197c0b47b4092cf21a36200d92bc06d8"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#a197c0b47b4092cf21a36200d92bc06d8">LicenceManagerEventId</a> { <a class="el" href="classalbaLicenceManager.html#a197c0b47b4092cf21a36200d92bc06d8af967ed095b57100fec619cd63f1eef96">ID_COPY_KEY</a> = MINID
+<tr class="memitem:a197c0b47b4092cf21a36200d92bc06d8"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#a197c0b47b4092cf21a36200d92bc06d8">LicenceManagerEventId</a> { <br />
+&#160;&#160;<a class="el" href="classalbaLicenceManager.html#a197c0b47b4092cf21a36200d92bc06d8af967ed095b57100fec619cd63f1eef96">ID_COPY_KEY</a> = MINID
 , <a class="el" href="classalbaLicenceManager.html#a197c0b47b4092cf21a36200d92bc06d8ad0b18ea244af3ca0067ed6cd7082e4fb">ID_VERIFY_KEY</a>
 , <a class="el" href="classalbaLicenceManager.html#a197c0b47b4092cf21a36200d92bc06d8ab5e7a565ac13705cc26d0b850431a026">ID_GENERATE_KEY</a>
+, <a class="el" href="classalbaLicenceManager.html#a197c0b47b4092cf21a36200d92bc06d8a9aedca6e267b99a25ef805a0dd3dc15c">ID_NAME_FIELD</a>
+, <br />
+&#160;&#160;<a class="el" href="classalbaLicenceManager.html#a197c0b47b4092cf21a36200d92bc06d8a9e692497a460902b5c70255b3ba432ae">ID_SURNAME_FIELD</a>
+, <a class="el" href="classalbaLicenceManager.html#a197c0b47b4092cf21a36200d92bc06d8af50138797b5d0f7eb45e6ecf44028893">ID_AFFILIATION_FIELD</a>
+, <a class="el" href="classalbaLicenceManager.html#a197c0b47b4092cf21a36200d92bc06d8aad161b01cac46398a7de3417622b6504">ID_INTENDED_USE_FIELD</a>
+, <a class="el" href="classalbaLicenceManager.html#a197c0b47b4092cf21a36200d92bc06d8a23477eb9f2e00190b86c112cf3c12c9d">ID_GENERATE_REGISTRATION</a>
+<br />
  }</td></tr>
 <tr class="separator:a197c0b47b4092cf21a36200d92bc06d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -147,6 +157,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ae769e899e3b269c10c81e8ef393d0b5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abcf6aab83c25864b25f42a98433954e3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#abcf6aab83c25864b25f42a98433954e3">SetLicScope</a> (<a class="el" href="classalbaLicenceManager.html#a5a39a9b5a42bdc6602fc091185b56c3c">albaLicenceManager::licenceScope</a> scope)</td></tr>
 <tr class="separator:abcf6aab83c25864b25f42a98433954e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8402e5fbd8a5912577e6fe3347aa484"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#aa8402e5fbd8a5912577e6fe3347aa484">SetReadUserData</a> (bool val)</td></tr>
+<tr class="separator:aa8402e5fbd8a5912577e6fe3347aa484"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classalbaObserver"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classalbaObserver')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classalbaObserver.html">albaObserver</a></td></tr>
 <tr class="memitem:a40b13c1b4db21e454766fe04c0ccd926 inherit pub_methods_classalbaObserver"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaObserver.html#a40b13c1b4db21e454766fe04c0ccd926">albaObserver</a> ()</td></tr>
 <tr class="separator:a40b13c1b4db21e454766fe04c0ccd926 inherit pub_methods_classalbaObserver"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -173,6 +185,8 @@ Protected Member Functions</h2></td></tr>
 <tr class="separator:a9eae9feb94e20f6da47df0485eebcda2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2076e9e433231658640c529a6c783e6d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#a2076e9e433231658640c529a6c783e6d">AddBinaryLicence</a> ()</td></tr>
 <tr class="separator:a2076e9e433231658640c529a6c783e6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6752445acb911ebb316e61968004d3f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#ac6752445acb911ebb316e61968004d3f">OnTextFieldChanged</a> (wxEvent &amp;event)</td></tr>
+<tr class="separator:ac6752445acb911ebb316e61968004d3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac7d28b1fd6d789600940025eaa69b23c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#ac7d28b1fd6d789600940025eaa69b23c">ToClipboard</a> (HWND hwnd, const std::string &amp;s)</td></tr>
 <tr class="separator:ac7d28b1fd6d789600940025eaa69b23c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -196,6 +210,8 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a36ec96086f9f702f83382ee81ca0b051"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a55208395a2362e6e9128194635f563a6"><td class="memItemLeft" align="right" valign="top">wxString&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#a55208395a2362e6e9128194635f563a6">m_SecondKey</a></td></tr>
 <tr class="separator:a55208395a2362e6e9128194635f563a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a244913110af0e67f095674caa4b73b93"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#a244913110af0e67f095674caa4b73b93">m_ReadUserData</a></td></tr>
+<tr class="separator:a244913110af0e67f095674caa4b73b93"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a091c93ef100fdd4ced42bd5191f9ea29"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classalbaGUIDialog.html">albaGUIDialog</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#a091c93ef100fdd4ced42bd5191f9ea29">m_RegistrationDialog</a></td></tr>
 <tr class="separator:a091c93ef100fdd4ced42bd5191f9ea29"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a526ff8474b48f1aef55f2e09ab7e0a49"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classalbaGUIDialog.html">albaGUIDialog</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#a526ff8474b48f1aef55f2e09ab7e0a49">m_GenerateLicenceDialog</a></td></tr>
@@ -208,6 +224,16 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a39249ac7a072ca327f44b3aeb5f14975"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2d734071015d8f5dc24736bbda340bc4"><td class="memItemLeft" align="right" valign="top">wxCalendarCtrl *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#a2d734071015d8f5dc24736bbda340bc4">m_CalendarCtrl</a></td></tr>
 <tr class="separator:a2d734071015d8f5dc24736bbda340bc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f78d2a6272ea210df87e5867c74098c"><td class="memItemLeft" align="right" valign="top">wxTextCtrl *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#a0f78d2a6272ea210df87e5867c74098c">m_Name_textCtrl</a></td></tr>
+<tr class="separator:a0f78d2a6272ea210df87e5867c74098c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b7450da1a766f7f23b20ec31b71bd61"><td class="memItemLeft" align="right" valign="top">wxTextCtrl *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#a1b7450da1a766f7f23b20ec31b71bd61">m_Surname_textCtrl</a></td></tr>
+<tr class="separator:a1b7450da1a766f7f23b20ec31b71bd61"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef4bc39bc3775cc5e05f1ccd505fdc38"><td class="memItemLeft" align="right" valign="top">wxTextCtrl *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#aef4bc39bc3775cc5e05f1ccd505fdc38">m_Affiliation_textCtrl</a></td></tr>
+<tr class="separator:aef4bc39bc3775cc5e05f1ccd505fdc38"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a54add78278d8ea8003f9d226c014084a"><td class="memItemLeft" align="right" valign="top">wxTextCtrl *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#a54add78278d8ea8003f9d226c014084a">m_IntendedUse_textCtrl</a></td></tr>
+<tr class="separator:a54add78278d8ea8003f9d226c014084a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa263f8ba8e66b2d8deb8f0e047f6c156"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classalbaGUIButton.html">albaGUIButton</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#aa263f8ba8e66b2d8deb8f0e047f6c156">m_GenerateRegistration_Button</a></td></tr>
+<tr class="separator:aa263f8ba8e66b2d8deb8f0e047f6c156"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae95a790dbf5946e99a3d2480a17865d3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classalbaLicenceManager.html#a37443e4e77a6d2dff3fa18f3ba268311">licenceModalities</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaLicenceManager.html#ae95a790dbf5946e99a3d2480a17865d3">m_LicModality</a></td></tr>
 <tr class="separator:ae95a790dbf5946e99a3d2480a17865d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -335,6 +361,11 @@ Protected Attributes</h2></td></tr>
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a197c0b47b4092cf21a36200d92bc06d8af967ed095b57100fec619cd63f1eef96" name="a197c0b47b4092cf21a36200d92bc06d8af967ed095b57100fec619cd63f1eef96"></a>ID_COPY_KEY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a197c0b47b4092cf21a36200d92bc06d8ad0b18ea244af3ca0067ed6cd7082e4fb" name="a197c0b47b4092cf21a36200d92bc06d8ad0b18ea244af3ca0067ed6cd7082e4fb"></a>ID_VERIFY_KEY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a197c0b47b4092cf21a36200d92bc06d8ab5e7a565ac13705cc26d0b850431a026" name="a197c0b47b4092cf21a36200d92bc06d8ab5e7a565ac13705cc26d0b850431a026"></a>ID_GENERATE_KEY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a197c0b47b4092cf21a36200d92bc06d8a9aedca6e267b99a25ef805a0dd3dc15c" name="a197c0b47b4092cf21a36200d92bc06d8a9aedca6e267b99a25ef805a0dd3dc15c"></a>ID_NAME_FIELD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a197c0b47b4092cf21a36200d92bc06d8a9e692497a460902b5c70255b3ba432ae" name="a197c0b47b4092cf21a36200d92bc06d8a9e692497a460902b5c70255b3ba432ae"></a>ID_SURNAME_FIELD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a197c0b47b4092cf21a36200d92bc06d8af50138797b5d0f7eb45e6ecf44028893" name="a197c0b47b4092cf21a36200d92bc06d8af50138797b5d0f7eb45e6ecf44028893"></a>ID_AFFILIATION_FIELD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a197c0b47b4092cf21a36200d92bc06d8aad161b01cac46398a7de3417622b6504" name="a197c0b47b4092cf21a36200d92bc06d8aad161b01cac46398a7de3417622b6504"></a>ID_INTENDED_USE_FIELD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a197c0b47b4092cf21a36200d92bc06d8a23477eb9f2e00190b86c112cf3c12c9d" name="a197c0b47b4092cf21a36200d92bc06d8a23477eb9f2e00190b86c112cf3c12c9d"></a>ID_GENERATE_REGISTRATION&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
 <p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00068">68</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
@@ -543,7 +574,7 @@ Protected Attributes</h2></td></tr>
 
 <p>sets the listener </p>
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00097">97</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00102">102</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -573,7 +604,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Sets CryptKey, if not set the alba default key will be used for enc/decryption. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00100">100</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00105">105</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -601,7 +632,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00103">103</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00108">108</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -629,7 +660,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00106">106</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00111">111</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -658,7 +689,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Returns LicModality. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00110">110</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00115">115</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -688,7 +719,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Sets LicModality. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00113">113</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00118">118</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -707,6 +738,36 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa8402e5fbd8a5912577e6fe3347aa484" name="aa8402e5fbd8a5912577e6fe3347aa484"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa8402e5fbd8a5912577e6fe3347aa484">&#9670;&#160;</a></span>SetReadUserData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void albaLicenceManager::SetReadUserData </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Sets Read User Data, if true a. </p>
+
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00123">123</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -958,6 +1019,34 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="ac6752445acb911ebb316e61968004d3f" name="ac6752445acb911ebb316e61968004d3f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac6752445acb911ebb316e61968004d3f">&#9670;&#160;</a></span>OnTextFieldChanged()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void albaLicenceManager::OnTextFieldChanged </td>
+          <td>(</td>
+          <td class="paramtype">wxEvent &amp;&#160;</td>
+          <td class="paramname"><em>event</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>handle text field changes </p>
+
+</div>
+</div>
 <a id="ac7d28b1fd6d789600940025eaa69b23c" name="ac7d28b1fd6d789600940025eaa69b23c"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ac7d28b1fd6d789600940025eaa69b23c">&#9670;&#160;</a></span>ToClipboard()</h2>
 
@@ -1015,7 +1104,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00145">145</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00155">155</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1039,7 +1128,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00146">146</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00156">156</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1063,7 +1152,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00147">147</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00157">157</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1087,7 +1176,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00148">148</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00158">158</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1111,7 +1200,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00149">149</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00159">159</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1135,7 +1224,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00151">151</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00161">161</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1159,7 +1248,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00155">155</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00165">165</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1183,7 +1272,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00160">160</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00170">170</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1207,7 +1296,31 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00161">161</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00171">171</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+
+</div>
+</div>
+<a id="a244913110af0e67f095674caa4b73b93" name="a244913110af0e67f095674caa4b73b93"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a244913110af0e67f095674caa4b73b93">&#9670;&#160;</a></span>m_ReadUserData</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool albaLicenceManager::m_ReadUserData</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00173">173</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1231,7 +1344,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00163">163</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00175">175</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1255,7 +1368,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00164">164</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00176">176</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1279,7 +1392,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00166">166</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00178">178</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1303,7 +1416,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00168">168</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00180">180</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1327,7 +1440,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00169">169</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00181">181</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1351,7 +1464,127 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00170">170</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00182">182</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+
+</div>
+</div>
+<a id="a0f78d2a6272ea210df87e5867c74098c" name="a0f78d2a6272ea210df87e5867c74098c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f78d2a6272ea210df87e5867c74098c">&#9670;&#160;</a></span>m_Name_textCtrl</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">wxTextCtrl* albaLicenceManager::m_Name_textCtrl</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00185">185</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+
+</div>
+</div>
+<a id="a1b7450da1a766f7f23b20ec31b71bd61" name="a1b7450da1a766f7f23b20ec31b71bd61"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1b7450da1a766f7f23b20ec31b71bd61">&#9670;&#160;</a></span>m_Surname_textCtrl</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">wxTextCtrl* albaLicenceManager::m_Surname_textCtrl</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00186">186</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+
+</div>
+</div>
+<a id="aef4bc39bc3775cc5e05f1ccd505fdc38" name="aef4bc39bc3775cc5e05f1ccd505fdc38"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef4bc39bc3775cc5e05f1ccd505fdc38">&#9670;&#160;</a></span>m_Affiliation_textCtrl</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">wxTextCtrl* albaLicenceManager::m_Affiliation_textCtrl</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00187">187</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+
+</div>
+</div>
+<a id="a54add78278d8ea8003f9d226c014084a" name="a54add78278d8ea8003f9d226c014084a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a54add78278d8ea8003f9d226c014084a">&#9670;&#160;</a></span>m_IntendedUse_textCtrl</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">wxTextCtrl* albaLicenceManager::m_IntendedUse_textCtrl</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00188">188</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+
+</div>
+</div>
+<a id="aa263f8ba8e66b2d8deb8f0e047f6c156" name="aa263f8ba8e66b2d8deb8f0e047f6c156"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa263f8ba8e66b2d8deb8f0e047f6c156">&#9670;&#160;</a></span>m_GenerateRegistration_Button</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classalbaGUIButton.html">albaGUIButton</a>* albaLicenceManager::m_GenerateRegistration_Button</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00189">189</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>
@@ -1375,7 +1608,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00172">172</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaLicenceManager_8h_source.html#l00191">191</a> of file <a class="el" href="albaLicenceManager_8h_source.html">albaLicenceManager.h</a>.</p>
 
 </div>
 </div>

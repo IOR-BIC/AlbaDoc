@@ -56,6 +56,8 @@ albaCoreFactory_8h.html
 albaCoreFactory_8h_source.html
 albaCurlUtility_8h.html
 albaCurlUtility_8h_source.html
+albaCursor_8h.html
+albaCursor_8h_source.html
 albaCurvilinearAbscissaOnSkeletonHelper_8h.html
 albaCurvilinearAbscissaOnSkeletonHelper_8h_source.html
 albaDataChecksum_8h.html
@@ -362,6 +364,8 @@ albaInteractor2DMeasure__CenterPoint_8h.html
 albaInteractor2DMeasure__CenterPoint_8h_source.html
 albaInteractor2DMeasure__Distance_8h.html
 albaInteractor2DMeasure__Distance_8h_source.html
+albaInteractor2DMeasure__Ellipse_8h.html
+albaInteractor2DMeasure__Ellipse_8h_source.html
 albaInteractor2DMeasure__LineDistance_8h.html
 albaInteractor2DMeasure__LineDistance_8h_source.html
 albaInteractor2DMeasure__Line_8h.html
@@ -664,6 +668,8 @@ classalbaColor-members.html
 classalbaColor.html
 classalbaCoreFactory-members.html
 classalbaCoreFactory.html
+classalbaCursor-members.html
+classalbaCursor.html
 classalbaCurvilinearAbscissaOnSkeletonHelper-members.html
 classalbaCurvilinearAbscissaOnSkeletonHelper.html
 classalbaDataChecksum-members.html
@@ -964,6 +970,8 @@ classalbaInteractor2DMeasure__CenterPoint-members.html
 classalbaInteractor2DMeasure__CenterPoint.html
 classalbaInteractor2DMeasure__Distance-members.html
 classalbaInteractor2DMeasure__Distance.html
+classalbaInteractor2DMeasure__Ellipse-members.html
+classalbaInteractor2DMeasure__Ellipse.html
 classalbaInteractor2DMeasure__Line-members.html
 classalbaInteractor2DMeasure__Line.html
 classalbaInteractor2DMeasure__LineDistance-members.html
@@ -1470,6 +1478,7 @@ globals_func.html
 globals_g.html
 globals_h.html
 globals_i.html
+globals_k.html
 globals_l.html
 globals_m.html
 globals_n.html
@@ -1491,6 +1500,7 @@ globals_vars_f.html
 globals_vars_g.html
 globals_vars_h.html
 globals_vars_i.html
+globals_vars_k.html
 globals_vars_l.html
 globals_vars_m.html
 globals_vars_n.html
@@ -1625,6 +1635,7 @@ albaBase_8h__incl.png
 albaCameraTransform_8h__incl.png
 albaColor_8h__dep__incl.png
 albaCoreFactory_8h__incl.png
+albaCursor_8h__incl.png
 albaCurvilinearAbscissaOnSkeletonHelper_8h__dep__incl.png
 albaCurvilinearAbscissaOnSkeletonHelper_8h__incl.png
 albaDataPipe_8h__dep__incl.png
@@ -1815,6 +1826,7 @@ albaInteractor2DMeasure__Angle_8h__incl.png
 albaInteractor2DMeasure__CenterPoint_8h__incl.png
 albaInteractor2DMeasure__Distance_8h__dep__incl.png
 albaInteractor2DMeasure__Distance_8h__incl.png
+albaInteractor2DMeasure__Ellipse_8h__incl.png
 albaInteractor2DMeasure__LineDistance_8h__incl.png
 albaInteractor2DMeasure__Line_8h__incl.png
 albaInteractor2DMeasure__MidPoint_8h__incl.png
@@ -2370,6 +2382,8 @@ classalbaInteractor2DMeasure__CenterPoint__coll__graph.png
 classalbaInteractor2DMeasure__CenterPoint__inherit__graph.png
 classalbaInteractor2DMeasure__Distance__coll__graph.png
 classalbaInteractor2DMeasure__Distance__inherit__graph.png
+classalbaInteractor2DMeasure__Ellipse__coll__graph.png
+classalbaInteractor2DMeasure__Ellipse__inherit__graph.png
 classalbaInteractor2DMeasure__LineDistance__coll__graph.png
 classalbaInteractor2DMeasure__LineDistance__inherit__graph.png
 classalbaInteractor2DMeasure__Line__coll__graph.png
@@ -2871,6 +2885,7 @@ inherit_graph_89.png
 inherit_graph_9.png
 inherit_graph_90.png
 inherit_graph_91.png
+inherit_graph_92.png
 mmaApplicationLayout_8h__incl.png
 mmaMaterial_8h__incl.png
 mmaVolumeMaterial_8h__incl.png

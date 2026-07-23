@@ -203,6 +203,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a6c73924cd89429a5caa1c3d58cad0a42"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a479aa2aad609afde5efb23aa26416311"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="classalbaRWIBase.html">albaRWIBase</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaViewCompound.html#a479aa2aad609afde5efb23aa26416311">GetRWI</a> ()</td></tr>
 <tr class="separator:a479aa2aad609afde5efb23aa26416311"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8daec656a3c8f6e856250c84db7d2785"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="classalbaPipe.html">albaPipe</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaViewCompound.html#a8daec656a3c8f6e856250c84db7d2785">GetNodePipe</a> (<a class="el" href="classalbaVME.html">albaVME</a> *vme)</td></tr>
+<tr class="separator:a8daec656a3c8f6e856250c84db7d2785"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a06e7eae19052aa7d32b954e081f8ea06"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaViewCompound.html#a06e7eae19052aa7d32b954e081f8ea06">GetImage</a> (wxBitmap &amp;bmp, int magnification=1)</td></tr>
 <tr class="separator:a06e7eae19052aa7d32b954e081f8ea06"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a17b17a28bc6222d0f91b87f87889b521"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaViewCompound.html#a17b17a28bc6222d0f91b87f87889b521">FindPokedVme</a> (<a class="el" href="classalbaDevice.html">albaDevice</a> *device, <a class="el" href="classalbaMatrix.html">albaMatrix</a> &amp;point_pose, vtkProp3D *&amp;picked_prop, <a class="el" href="classalbaVME.html">albaVME</a> *&amp;picked_vme, <a class="el" href="classalbaInteractor.html">albaInteractor</a> *&amp;picked_behavior)</td></tr>
@@ -1269,6 +1271,36 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="a8daec656a3c8f6e856250c84db7d2785" name="a8daec656a3c8f6e856250c84db7d2785"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8daec656a3c8f6e856250c84db7d2785">&#9670;&#160;</a></span>GetNodePipe()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual <a class="el" href="classalbaPipe.html">albaPipe</a> * albaViewCompound::GetNodePipe </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classalbaVME.html">albaVME</a> *&#160;</td>
+          <td class="paramname"><em>vme</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>return the current pipe for the specified vme from the first sub-view (if any exist at this moment) </p>
+
+<p>Reimplemented from <a class="el" href="classalbaView.html#acf9bf874a692102136e150880e083c9d">albaView</a>.</p>
+
+</div>
+</div>
 <a id="a06e7eae19052aa7d32b954e081f8ea06" name="a06e7eae19052aa7d32b954e081f8ea06"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a06e7eae19052aa7d32b954e081f8ea06">&#9670;&#160;</a></span>GetImage()</h2>
 
@@ -1581,7 +1613,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Return the number of child view. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00174">174</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00177">177</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -1648,7 +1680,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Return true is one of the plugged view is maximized. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00182">182</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00185">185</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -1780,7 +1812,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Returns LayoutConfiguration. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00194">194</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00197">197</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -1903,7 +1935,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>number of rows to divide the compound view </p>
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00212">212</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00215">215</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -1929,7 +1961,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>number of cols to divide the compound view </p>
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00213">213</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00216">216</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -1955,7 +1987,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>number of plugged children view </p>
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00214">214</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00217">217</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -1981,7 +2013,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>number of child view (is equal or greater then m_NumOfPluggedChildren) </p>
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00215">215</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00218">218</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -2007,7 +2039,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Arrange the subviews on different layout configuration. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00217">217</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00220">220</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -2031,7 +2063,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00218">218</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00221">221</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -2057,7 +2089,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>contain the id of the sub-view to be maximized. -1 means that all sub-views are in normal size </p>
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00220">220</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00223">223</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -2081,7 +2113,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00221">221</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00224">224</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -2107,7 +2139,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>size of the compound view </p>
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00223">223</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00226">226</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -2131,7 +2163,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00224">224</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00227">227</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -2155,7 +2187,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00225">225</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00228">228</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -2179,7 +2211,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00226">226</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00229">229</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -2205,7 +2237,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Child views vector. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00229">229</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00232">232</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>
@@ -2231,7 +2263,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Plugged Child views vector. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00230">230</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaViewCompound_8h_source.html#l00233">233</a> of file <a class="el" href="albaViewCompound_8h_source.html">albaViewCompound.h</a>.</p>
 
 </div>
 </div>

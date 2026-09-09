@@ -45,7 +45,7 @@
   </div>
 <div id="nav-path" class="navpath">
   <ul>
-<li class="navelem"><a class="el" href="dir_f23556727828d3aed65588d77508c217.html">Alba_Release</a></li><li class="navelem"><a class="el" href="dir_2a603cc36d0081cd02f75d6c54c09a88.html">Source</a></li><li class="navelem"><a class="el" href="dir_559d9f9007950dc750eb78d9f8156305.html">Gui</a></li>  </ul>
+<li class="navelem"><a class="el" href="dir_5a9d651195e8933793f3a2a6723db1da.html">Alba_Rel</a></li><li class="navelem"><a class="el" href="dir_35638eb97788c30d6ec2f8cec79db6ba.html">Src</a></li><li class="navelem"><a class="el" href="dir_89c5ce21b265c94ceaeeecbcfadf92c4.html">Gui</a></li>  </ul>
 </div>
 </div><!-- top -->
 <div class="header">
@@ -57,42 +57,44 @@
 <div class="textblock"><code>#include &quot;<a class="el" href="albaGUIDialog_8h_source.html">albaGUIDialog.h</a>&quot;</code><br />
 <code>#include &quot;vtkProp.h&quot;</code><br />
 <code>#include &quot;vtkALBATransferFunction2D.h&quot;</code><br />
+<code>#include &lt;mutex&gt;</code><br />
 <code>#include &quot;vtkInteractorStyleImage.h&quot;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for albaGUIDialogTransferFunction2D.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="albaGUIDialogTransferFunction2D_8h__incl.png" border="0" usemap="#aalbaGUIDialogTransferFunction2D_8h" alt=""/></div>
 <map name="aalbaGUIDialogTransferFunction2D_8h" id="aalbaGUIDialogTransferFunction2D_8h">
-<area shape="rect" title=" " alt="" coords="707,5,933,31"/>
-<area shape="rect" href="albaGUIDialog_8h.html" title=" " alt="" coords="563,79,677,104"/>
-<area shape="rect" title=" " alt="" coords="702,79,778,104"/>
-<area shape="rect" title=" " alt="" coords="803,79,997,104"/>
-<area shape="rect" title=" " alt="" coords="1021,79,1189,104"/>
-<area shape="rect" title=" " alt="" coords="257,152,343,177"/>
-<area shape="rect" href="albaEvent_8h.html" title=" " alt="" coords="475,225,565,251"/>
-<area shape="rect" href="albaObserver_8h.html" title=" " alt="" coords="609,299,717,324"/>
-<area shape="rect" href="albaGUI_8h.html" title=" " alt="" coords="367,152,446,177"/>
-<area shape="rect" title=" " alt="" coords="691,152,823,177"/>
-<area shape="rect" title=" " alt="" coords="847,152,1009,177"/>
-<area shape="rect" href="albaDefines_8h.html" title=" " alt="" coords="463,519,563,544"/>
-<area shape="rect" href="albaDecl_8h.html" title=" " alt="" coords="331,372,413,397"/>
-<area shape="rect" href="albaEventBase_8h.html" title=" " alt="" coords="414,299,533,324"/>
-<area shape="rect" title=" " alt="" coords="305,592,415,617"/>
-<area shape="rect" href="albaIncludeWX_8h.html" title=" " alt="" coords="439,592,558,617"/>
-<area shape="rect" title=" " alt="" coords="201,592,266,617"/>
-<area shape="rect" title=" " alt="" coords="583,592,649,617"/>
-<area shape="rect" title=" " alt="" coords="673,592,732,617"/>
-<area shape="rect" title=" " alt="" coords="756,592,825,617"/>
-<area shape="rect" title=" " alt="" coords="138,445,230,471"/>
-<area shape="rect" href="albaString_8h.html" title=" " alt="" coords="335,445,425,471"/>
-<area shape="rect" title=" " alt="" coords="255,445,311,471"/>
-<area shape="rect" href="albaBase_8h.html" title=" " alt="" coords="353,519,439,544"/>
-<area shape="rect" title=" " alt="" coords="243,519,328,544"/>
-<area shape="rect" href="albaObject_8h.html" title=" " alt="" coords="438,372,533,397"/>
-<area shape="rect" title=" " alt="" coords="213,225,288,251"/>
-<area shape="rect" title=" " alt="" coords="363,225,451,251"/>
-<area shape="rect" href="albaGUIPanel_8h.html" title=" " alt="" coords="5,225,117,251"/>
-<area shape="rect" title=" " alt="" coords="142,225,189,251"/>
+<area shape="rect" title=" " alt="" coords="408,5,635,31"/>
+<area shape="rect" href="albaGUIDialog_8h.html" title=" " alt="" coords="344,79,459,104"/>
+<area shape="rect" title=" " alt="" coords="5,592,64,617"/>
+<area shape="rect" title=" " alt="" coords="483,79,559,104"/>
+<area shape="rect" title=" " alt="" coords="584,79,779,104"/>
+<area shape="rect" title=" " alt="" coords="803,79,971,104"/>
+<area shape="rect" title=" " alt="" coords="506,152,593,177"/>
+<area shape="rect" href="albaEvent_8h.html" title=" " alt="" coords="355,225,445,251"/>
+<area shape="rect" href="albaObserver_8h.html" title=" " alt="" coords="626,299,734,324"/>
+<area shape="rect" href="albaGUI_8h.html" title=" " alt="" coords="617,152,695,177"/>
+<area shape="rect" title=" " alt="" coords="165,152,297,177"/>
+<area shape="rect" title=" " alt="" coords="321,152,482,177"/>
+<area shape="rect" href="albaDefines_8h.html" title=" " alt="" coords="379,519,479,544"/>
+<area shape="rect" href="albaDecl_8h.html" title=" " alt="" coords="276,372,359,397"/>
+<area shape="rect" href="albaEventBase_8h.html" title=" " alt="" coords="483,299,602,324"/>
+<area shape="rect" title=" " alt="" coords="89,592,154,617"/>
+<area shape="rect" title=" " alt="" coords="313,592,380,617"/>
+<area shape="rect" title=" " alt="" coords="404,592,463,617"/>
+<area shape="rect" title=" " alt="" coords="487,592,556,617"/>
+<area shape="rect" title=" " alt="" coords="178,592,289,617"/>
+<area shape="rect" href="albaIncludeWX_8h.html" title=" " alt="" coords="581,592,699,617"/>
+<area shape="rect" title=" " alt="" coords="271,445,363,471"/>
+<area shape="rect" href="albaString_8h.html" title=" " alt="" coords="156,445,247,471"/>
+<area shape="rect" title=" " alt="" coords="76,445,132,471"/>
+<area shape="rect" href="albaBase_8h.html" title=" " alt="" coords="158,519,245,544"/>
+<area shape="rect" title=" " alt="" coords="269,519,355,544"/>
+<area shape="rect" href="albaObject_8h.html" title=" " alt="" coords="495,372,590,397"/>
+<area shape="rect" title=" " alt="" coords="469,225,544,251"/>
+<area shape="rect" title=" " alt="" coords="568,225,656,251"/>
+<area shape="rect" href="albaGUIPanel_8h.html" title=" " alt="" coords="731,225,843,251"/>
+<area shape="rect" title=" " alt="" coords="867,225,914,251"/>
 </map>
 </div>
 </div>

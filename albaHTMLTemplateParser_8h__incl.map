@@ -1,12 +1,13 @@
 <map id="albaHTMLTemplateParser.h" name="albaHTMLTemplateParser.h">
-<area shape="rect" id="node1" title=" " alt="" coords="320,5,503,31"/>
-<area shape="rect" id="node2" href="$albaDefines_8h.html" title=" " alt="" coords="311,152,411,177"/>
-<area shape="rect" id="node9" href="$albaHTMLTemplateParserBlock_8h.html" title=" " alt="" coords="377,79,592,104"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,225,116,251"/>
-<area shape="rect" id="node4" href="$albaIncludeWX_8h.html" title=" " alt="" coords="140,225,259,251"/>
-<area shape="rect" id="node5" title=" " alt="" coords="283,225,348,251"/>
-<area shape="rect" id="node6" title=" " alt="" coords="373,225,439,251"/>
-<area shape="rect" id="node7" title=" " alt="" coords="463,225,522,251"/>
-<area shape="rect" id="node8" title=" " alt="" coords="546,225,615,251"/>
-<area shape="rect" id="node10" title=" " alt="" coords="457,152,513,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="258,5,441,31"/>
+<area shape="rect" id="node2" href="$albaDefines_8h.html" title=" " alt="" coords="249,152,349,177"/>
+<area shape="rect" id="node10" href="$albaHTMLTemplateParserBlock_8h.html" title=" " alt="" coords="315,79,530,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,225,64,251"/>
+<area shape="rect" id="node4" title=" " alt="" coords="89,225,154,251"/>
+<area shape="rect" id="node5" title=" " alt="" coords="179,225,245,251"/>
+<area shape="rect" id="node6" title=" " alt="" coords="269,225,328,251"/>
+<area shape="rect" id="node7" title=" " alt="" coords="352,225,421,251"/>
+<area shape="rect" id="node8" title=" " alt="" coords="446,225,557,251"/>
+<area shape="rect" id="node9" href="$albaIncludeWX_8h.html" title=" " alt="" coords="581,225,699,251"/>
+<area shape="rect" id="node11" title=" " alt="" coords="395,152,451,177"/>
 </map>

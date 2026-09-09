@@ -106,8 +106,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ae63cc078b0b882b412fae364b8ad095e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a32c57b248d7d01400de865cb4ccbed83"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaMatrix.html#a32c57b248d7d01400de865cb4ccbed83">GetElement</a> (const int i, const int j) const</td></tr>
 <tr class="separator:a32c57b248d7d01400de865cb4ccbed83"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0b27e3441033a4ed6fcb5a2b8c4cf8fc"><td class="memItemLeft" align="right" valign="top">unsigned long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaMatrix.html#a0b27e3441033a4ed6fcb5a2b8c4cf8fc">GetMTime</a> () const</td></tr>
-<tr class="separator:a0b27e3441033a4ed6fcb5a2b8c4cf8fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a21eac1083be41dce4f846310f86431cd"><td class="memItemLeft" align="right" valign="top">vtkMTimeType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaMatrix.html#a21eac1083be41dce4f846310f86431cd">GetMTime</a> () const</td></tr>
+<tr class="separator:a21eac1083be41dce4f846310f86431cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7974981528c1ee1b92632b413ee387a7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaMatrix.html#a7974981528c1ee1b92632b413ee387a7">Modified</a> ()</td></tr>
 <tr class="separator:a7974981528c1ee1b92632b413ee387a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4d0985aeb51409287d07fc57bb4eab10"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaMatrix.html#a4d0985aeb51409287d07fc57bb4eab10">SetTimeStamp</a> (<a class="el" href="albaDefines_8h.html#aff3d034c74c2941ae89090edca0c9718">albaTimeStamp</a> t)</td></tr>
@@ -248,7 +248,7 @@ Protected Attributes</h2></td></tr>
 <div class="textblock"><p ><a class="el" href="classalbaMatrix.html" title="albaMatrix - Time stamped 4x4 Matrix.">albaMatrix</a> - Time stamped 4x4 Matrix. </p>
 <p >This class defines a TimeStamped 4x4 Matrix class. If ALBA has been compiled with VTK support, this class can be used wherever a vtkMatrix4x4 is requested, and indeed the internal representation is a vtkMatrix4x4. Also GetVTKMatrix() explicitly return a vtkMatrix4x4 pointer. Also <a class="el" href="classalbaMatrix.html" title="albaMatrix - Time stamped 4x4 Matrix.">albaMatrix</a> can reference a vtkMatrix4x4, i.e. register it and share the same Elements vector, with SetVTKMatrix. </p><dl class="section see"><dt>See also</dt><dd><a class="el" href="classalbaReferenceCounted.html" title="albaReferenceCounted - abstract base class for ALBA objects with reference counting.">albaReferenceCounted</a> vtkMatrix4x4 </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00043">43</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00044">44</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a4d8d41e2763d2cba2c26d315ac72ba17" name="a4d8d41e2763d2cba2c26d315ac72ba17"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a4d8d41e2763d2cba2c26d315ac72ba17">&#9670;&#160;</a></span>albaMatrix() <span class="overload">[1/2]</span></h2>
@@ -457,7 +457,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00060">60</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00061">61</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 </div>
 </div>
@@ -478,7 +478,7 @@ Protected Attributes</h2></td></tr>
 
 <p>return pointer to elements matrix: returned type is a double [4][4] object </p>
 
-<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00144">Adjoint()</a>, <a class="el" href="albaMatrix_8h_source.html#l00128">Invert()</a>, <a class="el" href="albaMatrix_8h_source.html#l00173">Multiply4x4()</a>, and <a class="el" href="albaMatrix_8h_source.html#l00148">Transpose()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00145">Adjoint()</a>, <a class="el" href="albaMatrix_8h_source.html#l00129">Invert()</a>, <a class="el" href="albaMatrix_8h_source.html#l00174">Multiply4x4()</a>, and <a class="el" href="albaMatrix_8h_source.html#l00149">Transpose()</a>.</p>
 
 </div>
 </div>
@@ -525,7 +525,7 @@ Protected Attributes</h2></td></tr>
 <p>Sets the element i,j in the matrix. </p>
 <p >Remember to call explicitly Modified when using this function. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00088">88</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00089">89</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 </div>
 </div>
@@ -565,18 +565,18 @@ Protected Attributes</h2></td></tr>
 
 <p>Returns the element i,j from the matrix. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00091">91</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00092">92</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 </div>
 </div>
-<a id="a0b27e3441033a4ed6fcb5a2b8c4cf8fc" name="a0b27e3441033a4ed6fcb5a2b8c4cf8fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0b27e3441033a4ed6fcb5a2b8c4cf8fc">&#9670;&#160;</a></span>GetMTime()</h2>
+<a id="a21eac1083be41dce4f846310f86431cd" name="a21eac1083be41dce4f846310f86431cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a21eac1083be41dce4f846310f86431cd">&#9670;&#160;</a></span>GetMTime()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">unsigned long albaMatrix::GetMTime </td>
+          <td class="memname">vtkMTimeType albaMatrix::GetMTime </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -605,7 +605,7 @@ Protected Attributes</h2></td></tr>
 
 <p>update modification time stamp for this object </p>
 
-<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00144">Adjoint()</a>, <a class="el" href="albaMatrix_8h_source.html#l00128">Invert()</a>, <a class="el" href="albaMatrix_8h_source.html#l00173">Multiply4x4()</a>, and <a class="el" href="albaMatrix_8h_source.html#l00148">Transpose()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00145">Adjoint()</a>, <a class="el" href="albaMatrix_8h_source.html#l00129">Invert()</a>, <a class="el" href="albaMatrix_8h_source.html#l00174">Multiply4x4()</a>, and <a class="el" href="albaMatrix_8h_source.html#l00149">Transpose()</a>.</p>
 
 </div>
 </div>
@@ -635,7 +635,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Set the TimeStamp for this matrix. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00100">100</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00101">101</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 <p class="reference">References <a class="el" href="albaDefines_8h.html#ace4d1c777eece6500b9083771c9e55b8">albaEquals()</a>.</p>
 <div class="dynheader">
@@ -673,7 +673,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00101">101</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00102">102</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="albaTransform_8h_source.html#l00084">albaTransform::SetMatrix()</a>.</p>
 
@@ -762,11 +762,11 @@ Here is the call graph for this function:</div>
 
 <p>Get the given matrix versor. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00106">106</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00107">107</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
-<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00106">GetVersor()</a>.</p>
+<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00107">GetVersor()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00106">GetVersor()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00107">GetVersor()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -804,11 +804,11 @@ Here is the call graph for this function:</div>
 
 <p>Copy the 3x3 rotation matrix from another 4x4 matrix. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00109">109</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00110">110</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
-<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00109">CopyRotation()</a>.</p>
+<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00110">CopyRotation()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00109">CopyRotation()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00110">CopyRotation()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -886,11 +886,11 @@ Here is the call graph for this function:</div>
 <p>Set all of the elements to zero. </p>
 <p >Static version. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00114">114</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00115">115</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
-<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00114">Zero()</a>.</p>
+<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00115">Zero()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00114">Zero()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00115">Zero()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -955,11 +955,11 @@ Here is the call graph for this function:</div>
 
 <p>Set equal to Identity matrix. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00119">119</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00120">120</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
-<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00119">Identity()</a>.</p>
+<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00120">Identity()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00119">Identity()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00120">Identity()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1053,9 +1053,9 @@ Here is the call graph for this function:</div>
 <p>Matrix Inversion (adapted from Richard Carling in "Graphics Gems," Academic Press, 1990). </p>
 <p >static version. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00128">128</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00129">129</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
-<p class="reference">References <a class="el" href="classalbaMatrix.html#a19b165650db9aec213cf4d834dddd665">GetElements()</a>, <a class="el" href="albaMatrix_8h_source.html#l00132">Invert()</a>, and <a class="el" href="classalbaMatrix.html#a7974981528c1ee1b92632b413ee387a7">Modified()</a>.</p>
+<p class="reference">References <a class="el" href="classalbaMatrix.html#a19b165650db9aec213cf4d834dddd665">GetElements()</a>, <a class="el" href="albaMatrix_8h_source.html#l00133">Invert()</a>, and <a class="el" href="classalbaMatrix.html#a7974981528c1ee1b92632b413ee387a7">Modified()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1095,11 +1095,11 @@ Here is the call graph for this function:</div>
 
 <p>Matrix Inversion (adapted from Richard Carling in "Graphics Gems," Academic Press, 1990). </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00132">132</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00133">133</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
-<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00132">Invert()</a>.</p>
+<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00133">Invert()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00128">Invert()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00129">Invert()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1201,11 +1201,11 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00140">140</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00141">141</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
-<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00140">Determinant()</a>.</p>
+<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00141">Determinant()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00140">Determinant()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00141">Determinant()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1289,11 +1289,11 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00144">144</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00145">145</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
-<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00144">Adjoint()</a>, <a class="el" href="classalbaMatrix.html#a19b165650db9aec213cf4d834dddd665">GetElements()</a>, and <a class="el" href="classalbaMatrix.html#a7974981528c1ee1b92632b413ee387a7">Modified()</a>.</p>
+<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00145">Adjoint()</a>, <a class="el" href="classalbaMatrix.html#a19b165650db9aec213cf4d834dddd665">GetElements()</a>, and <a class="el" href="classalbaMatrix.html#a7974981528c1ee1b92632b413ee387a7">Modified()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00144">Adjoint()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00145">Adjoint()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1330,11 +1330,11 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00145">145</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00146">146</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
-<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00145">Adjoint()</a>.</p>
+<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00146">Adjoint()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00145">Adjoint()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00146">Adjoint()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1383,9 +1383,9 @@ Here is the call graph for this function:</div>
 <p>Transpose the matrix and put it into out. </p>
 <p >static version. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00148">148</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00149">149</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
-<p class="reference">References <a class="el" href="classalbaMatrix.html#a19b165650db9aec213cf4d834dddd665">GetElements()</a>, <a class="el" href="classalbaMatrix.html#a7974981528c1ee1b92632b413ee387a7">Modified()</a>, and <a class="el" href="albaMatrix_8h_source.html#l00151">Transpose()</a>.</p>
+<p class="reference">References <a class="el" href="classalbaMatrix.html#a19b165650db9aec213cf4d834dddd665">GetElements()</a>, <a class="el" href="classalbaMatrix.html#a7974981528c1ee1b92632b413ee387a7">Modified()</a>, and <a class="el" href="albaMatrix_8h_source.html#l00152">Transpose()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1425,11 +1425,11 @@ Here is the call graph for this function:</div>
 
 <p>Transpose the matrix and put it into out. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00151">151</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00152">152</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
-<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00151">Transpose()</a>.</p>
+<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00152">Transpose()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00148">Transpose()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00149">Transpose()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1517,11 +1517,11 @@ Here is the call graph for this function:</div>
 <p>Multiply a homogeneous coordinate by this matrix, i.e. </p>
 <p >out = A*in. The in[4] and out[4] can be the same array. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00158">158</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00159">159</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
-<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00158">MultiplyPoint()</a>.</p>
+<p class="reference">References <a class="el" href="albaMatrix_8h_source.html#l00159">MultiplyPoint()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00158">MultiplyPoint()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00159">MultiplyPoint()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1641,11 +1641,11 @@ Here is the call graph for this function:</div>
 
 <p>Multiplies matrices a and b and stores the result in c. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00173">173</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00174">174</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
-<p class="reference">References <a class="el" href="classalbaMatrix.html#a19b165650db9aec213cf4d834dddd665">GetElements()</a>, <a class="el" href="classalbaMatrix.html#a7974981528c1ee1b92632b413ee387a7">Modified()</a>, and <a class="el" href="albaMatrix_8h_source.html#l00173">Multiply4x4()</a>.</p>
+<p class="reference">References <a class="el" href="classalbaMatrix.html#a19b165650db9aec213cf4d834dddd665">GetElements()</a>, <a class="el" href="classalbaMatrix.html#a7974981528c1ee1b92632b413ee387a7">Modified()</a>, and <a class="el" href="albaMatrix_8h_source.html#l00174">Multiply4x4()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00173">Multiply4x4()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaMatrix_8h_source.html#l00174">Multiply4x4()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1730,7 +1730,7 @@ Here is the call graph for this function:</div>
 
 <p>bracket operator to access &amp; write single elements </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00180">180</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00181">181</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 </div>
 </div>
@@ -1760,7 +1760,7 @@ Here is the call graph for this function:</div>
 
 <p>bracket operator to access single elements </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00183">183</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00184">184</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 </div>
 </div>
@@ -1787,7 +1787,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00186">186</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00187">187</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 </div>
 </div>
@@ -1920,7 +1920,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00205">205</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00206">206</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 </div>
 </div>
@@ -1946,7 +1946,7 @@ Here is the call graph for this function:</div>
 
 <p>has its own internal representation </p>
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00210">210</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00211">211</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 </div>
 </div>
@@ -1970,7 +1970,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00211">211</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaMatrix_8h_source.html#l00212">212</a> of file <a class="el" href="albaMatrix_8h_source.html">albaMatrix.h</a>.</p>
 
 </div>
 </div>

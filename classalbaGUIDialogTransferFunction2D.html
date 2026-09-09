@@ -263,8 +263,8 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a82356ec629b366e90b253d03b32827c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57e6aef3ca76d120ce0884b2751c85e6"><td class="memItemLeft" align="right" valign="top">vtkRenderWindow *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDialogTransferFunction2D.html#a57e6aef3ca76d120ce0884b2751c85e6">m_Window3D</a></td></tr>
 <tr class="separator:a57e6aef3ca76d120ce0884b2751c85e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad61baecca6358f844ed7770e8e2884a6"><td class="memItemLeft" align="right" valign="top">vtkALBAAdaptiveVolumeMapper *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDialogTransferFunction2D.html#ad61baecca6358f844ed7770e8e2884a6">m_Mapper3D</a></td></tr>
-<tr class="separator:ad61baecca6358f844ed7770e8e2884a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3aa05f05bcf404de97d3b85b86864899"><td class="memItemLeft" align="right" valign="top">vtkSmartVolumeMapper *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDialogTransferFunction2D.html#a3aa05f05bcf404de97d3b85b86864899">m_Mapper3D</a></td></tr>
+<tr class="separator:a3aa05f05bcf404de97d3b85b86864899"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a44ae566e7a09a48062bc7b13584bcb38"><td class="memItemLeft" align="right" valign="top">vtkVolume *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDialogTransferFunction2D.html#a44ae566e7a09a48062bc7b13584bcb38">m_Volume3D</a></td></tr>
 <tr class="separator:a44ae566e7a09a48062bc7b13584bcb38"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a50641a949a237d3ddb423f332988ce4c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classalbaRWIBase.html">albaRWIBase</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDialogTransferFunction2D.html#a50641a949a237d3ddb423f332988ce4c">m_GraphRwi</a></td></tr>
@@ -275,8 +275,8 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a53f003a495dce4395c48ca2e9b3d9755"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4ca4baac8a595b97d67307ef765b0c22"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classvtkWidgetActor.html">vtkWidgetActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDialogTransferFunction2D.html#a4ca4baac8a595b97d67307ef765b0c22">m_WidgetActor</a></td></tr>
 <tr class="separator:a4ca4baac8a595b97d67307ef765b0c22"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7c8e8bd45ec6953774d6bc81df236f8c"><td class="memItemLeft" align="right" valign="top">vtkCriticalSection *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDialogTransferFunction2D.html#a7c8e8bd45ec6953774d6bc81df236f8c">m_CriticalSection</a></td></tr>
-<tr class="separator:a7c8e8bd45ec6953774d6bc81df236f8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79e43bda17bd5984157ac4b092ca48f5"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDialogTransferFunction2D.html#a79e43bda17bd5984157ac4b092ca48f5">m_CriticalSection</a></td></tr>
+<tr class="separator:a79e43bda17bd5984157ac4b092ca48f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaedb0aa8872197880c4491bbe3b2cad6"><td class="memItemLeft" align="right" valign="top">tfWidget&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDialogTransferFunction2D.html#aaedb0aa8872197880c4491bbe3b2cad6">m_Widget</a></td></tr>
 <tr class="separator:aaedb0aa8872197880c4491bbe3b2cad6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7037802784b39539454cad2b89c605c0"><td class="memItemLeft" align="right" valign="top">wxListBox *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUIDialogTransferFunction2D.html#a7037802784b39539454cad2b89c605c0">m_WidgetList</a></td></tr>
@@ -341,7 +341,6 @@ Additional Inherited Members</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >This dialog is used to define a 2D transfer function to make a volume Ray Cast. </p>
-<dl class="section see"><dt>See also</dt><dd>vtkALBAAdaptiveVolumeRendering albaVisualPipeVolumeRayCasting </dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="albaGUIDialogTransferFunction2D_8h_source.html#l00062">62</a> of file <a class="el" href="albaGUIDialogTransferFunction2D_8h_source.html">albaGUIDialogTransferFunction2D.h</a>.</p>
 </div><h2 class="groupheader">Member Enumeration Documentation</h2>
@@ -1298,8 +1297,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="ad61baecca6358f844ed7770e8e2884a6" name="ad61baecca6358f844ed7770e8e2884a6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad61baecca6358f844ed7770e8e2884a6">&#9670;&#160;</a></span>m_Mapper3D</h2>
+<a id="a3aa05f05bcf404de97d3b85b86864899" name="a3aa05f05bcf404de97d3b85b86864899"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3aa05f05bcf404de97d3b85b86864899">&#9670;&#160;</a></span>m_Mapper3D</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1308,7 +1307,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">vtkALBAAdaptiveVolumeMapper* albaGUIDialogTransferFunction2D::m_Mapper3D</td>
+          <td class="memname">vtkSmartVolumeMapper* albaGUIDialogTransferFunction2D::m_Mapper3D</td>
         </tr>
       </table>
   </td>
@@ -1442,8 +1441,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a7c8e8bd45ec6953774d6bc81df236f8c" name="a7c8e8bd45ec6953774d6bc81df236f8c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7c8e8bd45ec6953774d6bc81df236f8c">&#9670;&#160;</a></span>m_CriticalSection</h2>
+<a id="a79e43bda17bd5984157ac4b092ca48f5" name="a79e43bda17bd5984157ac4b092ca48f5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79e43bda17bd5984157ac4b092ca48f5">&#9670;&#160;</a></span>m_CriticalSection</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1452,7 +1451,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">vtkCriticalSection* albaGUIDialogTransferFunction2D::m_CriticalSection</td>
+          <td class="memname">std::mutex albaGUIDialogTransferFunction2D::m_CriticalSection</td>
         </tr>
       </table>
   </td>

@@ -57,6 +57,15 @@
 
 <p><code>#include &lt;<a class="el" href="albaTextFileReaderHelper_8h_source.html">albaTextFileReaderHelper.h</a>&gt;</code></p>
 <div class="dynheader">
+Inheritance diagram for albaTextFileReaderHelper:</div>
+<div class="dyncontent">
+<div class="center"><img src="classalbaTextFileReaderHelper__inherit__graph.png" border="0" usemap="#aalbaTextFileReaderHelper_inherit__map" alt="Inheritance graph"/></div>
+<map name="aalbaTextFileReaderHelper_inherit__map" id="aalbaTextFileReaderHelper_inherit__map">
+<area shape="rect" title=" " alt="" coords="5,5,176,31"/>
+<area shape="rect" href="classalbaDynamicMatrix.html" title="albaDynamicMatrix &#45; Dynamic rectangular matrix of double values." alt="" coords="24,79,157,104"/>
+</map>
+<center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
+<div class="dynheader">
 Collaboration diagram for albaTextFileReaderHelper:</div>
 <div class="dyncontent">
 <div class="center"><img src="classalbaTextFileReaderHelper__coll__graph.png" border="0" usemap="#aalbaTextFileReaderHelper_coll__map" alt="Collaboration graph"/></div>
@@ -74,8 +83,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a4545d53ccdae01b31548ea3aa1cf9cd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5c7efbcb74341b80da792e47f7d2a028"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaTextFileReaderHelper.html#a5c7efbcb74341b80da792e47f7d2a028">~albaTextFileReaderHelper</a> ()</td></tr>
 <tr class="separator:a5c7efbcb74341b80da792e47f7d2a028"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa7dd4f1cb4f6006b8b263c28f004293e"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaTextFileReaderHelper.html#aa7dd4f1cb4f6006b8b263c28f004293e">GetLine</a> (bool toUpper=false)</td></tr>
-<tr class="separator:aa7dd4f1cb4f6006b8b263c28f004293e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93ecb7e51079d8a471b5d42b1a30a7e9"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaTextFileReaderHelper.html#a93ecb7e51079d8a471b5d42b1a30a7e9">GetLine</a> (bool toUpper=false, bool skipEmptyLines=false)</td></tr>
+<tr class="separator:a93ecb7e51079d8a471b5d42b1a30a7e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ada4e5e19e3f32907896e2933839b7d4f"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaTextFileReaderHelper.html#ada4e5e19e3f32907896e2933839b7d4f">ReplaceInString</a> (char *str, char from, char to)</td></tr>
 <tr class="separator:ada4e5e19e3f32907896e2933839b7d4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af831a8b18165232d7520b9079d13344a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaTextFileReaderHelper.html#af831a8b18165232d7520b9079d13344a">ReadInit</a> (<a class="el" href="classalbaString.html">albaString</a> &amp;fileName, int textMode, int showProgressBar, <a class="el" href="classalbaString.html">albaString</a> progressBarText, <a class="el" href="classalbaObserver.html">albaObserver</a> *listener)</td></tr>
@@ -93,8 +102,10 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a2effc0d787428af3f1ccc690a8b88b81"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a23bb1ffd8f37ce22a2f367dab0215883"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaTextFileReaderHelper.html#a23bb1ffd8f37ce22a2f367dab0215883">m_BufferPointer</a></td></tr>
 <tr class="separator:a23bb1ffd8f37ce22a2f367dab0215883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8a793bbf18753a41fadedfaf863ab7e0"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaTextFileReaderHelper.html#a8a793bbf18753a41fadedfaf863ab7e0">m_Line</a> [512]</td></tr>
-<tr class="separator:a8a793bbf18753a41fadedfaf863ab7e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39fd75d73880db7c9b41f892b5983fe3"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaTextFileReaderHelper.html#a39fd75d73880db7c9b41f892b5983fe3">m_Line</a></td></tr>
+<tr class="separator:a39fd75d73880db7c9b41f892b5983fe3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace6e77fcdb28d01bb6c1d00ecf657ce5"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaTextFileReaderHelper.html#ace6e77fcdb28d01bb6c1d00ecf657ce5">m_LineSize</a></td></tr>
+<tr class="separator:ace6e77fcdb28d01bb6c1d00ecf657ce5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8663a9be3e4f50a7c213025255f6ca50"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaTextFileReaderHelper.html#a8663a9be3e4f50a7c213025255f6ca50">m_CurrentLine</a></td></tr>
 <tr class="separator:a8663a9be3e4f50a7c213025255f6ca50"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1949489ca7df2a99f4c003cee0be8595"><td class="memItemLeft" align="right" valign="top">long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaTextFileReaderHelper.html#a1949489ca7df2a99f4c003cee0be8595">m_FileSize</a></td></tr>
@@ -143,8 +154,8 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="aa7dd4f1cb4f6006b8b263c28f004293e" name="aa7dd4f1cb4f6006b8b263c28f004293e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa7dd4f1cb4f6006b8b263c28f004293e">&#9670;&#160;</a></span>GetLine()</h2>
+<a id="a93ecb7e51079d8a471b5d42b1a30a7e9" name="a93ecb7e51079d8a471b5d42b1a30a7e9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93ecb7e51079d8a471b5d42b1a30a7e9">&#9670;&#160;</a></span>GetLine()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -153,8 +164,18 @@ Protected Attributes</h2></td></tr>
           <td class="memname">int albaTextFileReaderHelper::GetLine </td>
           <td>(</td>
           <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>toUpper</em> = <code>false</code></td><td>)</td>
+          <td class="paramname"><em>toUpper</em> = <code>false</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>skipEmptyLines</em> = <code>false</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -355,8 +376,8 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a8a793bbf18753a41fadedfaf863ab7e0" name="a8a793bbf18753a41fadedfaf863ab7e0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8a793bbf18753a41fadedfaf863ab7e0">&#9670;&#160;</a></span>m_Line</h2>
+<a id="a39fd75d73880db7c9b41f892b5983fe3" name="a39fd75d73880db7c9b41f892b5983fe3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a39fd75d73880db7c9b41f892b5983fe3">&#9670;&#160;</a></span>m_Line</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -365,7 +386,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">char albaTextFileReaderHelper::m_Line[512]</td>
+          <td class="memname">char* albaTextFileReaderHelper::m_Line</td>
         </tr>
       </table>
   </td>
@@ -376,6 +397,30 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="albaTextFileReaderHelper_8h_source.html#l00043">43</a> of file <a class="el" href="albaTextFileReaderHelper_8h_source.html">albaTextFileReaderHelper.h</a>.</p>
+
+</div>
+</div>
+<a id="ace6e77fcdb28d01bb6c1d00ecf657ce5" name="ace6e77fcdb28d01bb6c1d00ecf657ce5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace6e77fcdb28d01bb6c1d00ecf657ce5">&#9670;&#160;</a></span>m_LineSize</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">size_t albaTextFileReaderHelper::m_LineSize</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="albaTextFileReaderHelper_8h_source.html#l00044">44</a> of file <a class="el" href="albaTextFileReaderHelper_8h_source.html">albaTextFileReaderHelper.h</a>.</p>
 
 </div>
 </div>
@@ -399,7 +444,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaTextFileReaderHelper_8h_source.html#l00044">44</a> of file <a class="el" href="albaTextFileReaderHelper_8h_source.html">albaTextFileReaderHelper.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaTextFileReaderHelper_8h_source.html#l00045">45</a> of file <a class="el" href="albaTextFileReaderHelper_8h_source.html">albaTextFileReaderHelper.h</a>.</p>
 
 </div>
 </div>
@@ -423,7 +468,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaTextFileReaderHelper_8h_source.html#l00045">45</a> of file <a class="el" href="albaTextFileReaderHelper_8h_source.html">albaTextFileReaderHelper.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaTextFileReaderHelper_8h_source.html#l00046">46</a> of file <a class="el" href="albaTextFileReaderHelper_8h_source.html">albaTextFileReaderHelper.h</a>.</p>
 
 </div>
 </div>
@@ -447,7 +492,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaTextFileReaderHelper_8h_source.html#l00046">46</a> of file <a class="el" href="albaTextFileReaderHelper_8h_source.html">albaTextFileReaderHelper.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaTextFileReaderHelper_8h_source.html#l00047">47</a> of file <a class="el" href="albaTextFileReaderHelper_8h_source.html">albaTextFileReaderHelper.h</a>.</p>
 
 </div>
 </div>
@@ -471,7 +516,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaTextFileReaderHelper_8h_source.html#l00048">48</a> of file <a class="el" href="albaTextFileReaderHelper_8h_source.html">albaTextFileReaderHelper.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaTextFileReaderHelper_8h_source.html#l00049">49</a> of file <a class="el" href="albaTextFileReaderHelper_8h_source.html">albaTextFileReaderHelper.h</a>.</p>
 
 </div>
 </div>

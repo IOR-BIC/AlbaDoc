@@ -1642,7 +1642,7 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure.html#adca0c6ac3fa44ce44e414b73c1868193"><param name="Name" value="DistancePointToLine(double *point, double *lineP1, double *lineP2)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGeometryUtils.html#ab9abad9d30186989f795777548bbcae3"><param name="Name" value="DistancePointToLine(double *point, double *lineP1, double *lineP2, int plane=XY)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaQuaternion.html#a6b8803d09ea25531417e55e9949fe624"><param name="Name" value="Divide(double s)"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGUI.html#afeb05f047f3c307006df6a88abd44539"><param name="Name" value="Divider(long style=0)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGUI.html#abd7f190e824886e1b1a3c450d34c6a5f"><param name="Name" value="Divider(bool showLine=false)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGUIPanelStack.html#abfdd63607132d07607fd5db12bb46451"><param name="Name" value="DoLayout()"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGUIPanelStack.html#abfdd63607132d07607fd5db12bb46451"><param name="Name" value="albaGUIPanelStack"></OBJECT>
@@ -20940,7 +20940,7 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGUI.html"><param name="Name" value="albaGUI"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGUI.html#afeb05f047f3c307006df6a88abd44539"><param name="Name" value="Divider(long style=0)"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGUI.html#abd7f190e824886e1b1a3c450d34c6a5f"><param name="Name" value="Divider(bool showLine=false)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGUI.html"><param name="Name" value="albaGUI"></OBJECT>
   <UL>

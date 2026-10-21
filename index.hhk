@@ -441,13 +441,13 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaStorageElement.html#a2822a04f1c034a097962226e48446615"><param name="Name" value="AppendChild(const char *name)=0"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaXMLElement.html#a9048e93eb46bd7b01f45f89142c4a9df"><param name="Name" value="AppendChild(const char *name)"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a0837f06fac36f3a64a8b8337f29aa277"><param name="Name" value="AppendItem(T *m)"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a0837f06fac36f3a64a8b8337f29aa277"><param name="Name" value="albaTimeMap"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ac41b1ee3a32a60169b88371fc379e0d9"><param name="Name" value="AppendItem(T *m)"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ac41b1ee3a32a60169b88371fc379e0d9"><param name="Name" value="albaTimeMap"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a0837f06fac36f3a64a8b8337f29aa277"><param name="Name" value="AppendItem(T *m)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a0837f06fac36f3a64a8b8337f29aa277"><param name="Name" value="albaTimeMap"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ad9e74b9f5b4b8c12bbe42db08b1c4f4d"><param name="Name" value="AppendItem(albaTimeStamp t, T m)"></OBJECT>
   <UL>
@@ -2967,6 +2967,7 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classmmuTimeSet.html#a65262a8ddebf6e95ea7df803fa95d911"><param name="Name" value="GetConstTSet() const"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaPolylineGraph.html#ae4ba852e4baf2db0fd4ca5e4e57b84b0"><param name="Name" value="GetConstVertexPtr(vtkIdType i) const"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGizmoHandle.html#afae17e396deaf1b728f259d548d5be4a"><param name="Name" value="GetConstrainRefSys()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#ae42aa77dc11b916c7663dce332372924"><param name="Name" value="GetConstraint() const"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractorConstraint.html#ac6baf75f063d4740cebca4665b3d83ad"><param name="Name" value="GetConstraintAxis()"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGizmoCrossTranslate.html#ada041ac54c6b6eac44ba2001f9c1ec54"><param name="Name" value="GetConstraintModality()"></OBJECT>
   <UL>
@@ -5114,6 +5115,7 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGUIHistogramWidget.html#ae1601aa52ca97c2b90dbf983bb403e32"><param name="Name" value="HISTOGRAM_WIDGET_ID"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTransform.html#ae6778ebcb15a545a2d53d7aaee13c954"><param name="Name" value="HMatrix[4][4]"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractorSlider.html#a438d098fee9b4e3eb7438997d8bdbc87abf942ca6aea75a71444cd2b59d9f0f4d"><param name="Name" value="HORIZONTAL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960a6bd5a5c9626418a0d1683ee9b707f350"><param name="Name" value="HORIZONTAL_CONSTRAINT"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaColor.html#a321b474e93a7b67094c04d27262e7b7a"><param name="Name" value="HSLToRGB(int h, int s, int v, int *r, int *g, int *b)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaColor.html#acbc2948943251b87e0b049366fe8560d"><param name="Name" value="HSVToRGB()"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaColor.html#ae2209b2840529513d6f296c4a9b912c6"><param name="Name" value="HSVToRGB(int h, int s, int v, int *r, int *g, int *b)"></OBJECT>
@@ -5869,21 +5871,21 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractorPER.html#ae01b12a9c5808de2e069f4ca2c47e9b4"><param name="Name" value="InsertDevice(albaDevice *device, int button)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaPolylineGraph_1_1Branch.html#acbabdfb5be46065fe310e0e12e40c1be"><param name="Name" value="InsertEdgeId(int i, vtkIdType e)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classcodeproject_1_1sorted__vector.html#ab32b8f6009ca350a0ee6055e12cc706a"><param name="Name" value="InsertImpl_(iterator p, const value_type &amp;x)"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ae7b4ef612e75d52492e9c64680da32dc"><param name="Name" value="InsertItem(T *m)"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ae7b4ef612e75d52492e9c64680da32dc"><param name="Name" value="albaTimeMap"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ab40bd646012fb78ea1da7103658f2a5a"><param name="Name" value="InsertItem(T *m)"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ab40bd646012fb78ea1da7103658f2a5a"><param name="Name" value="albaTimeMap"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a1de1ec64ce895e4679b8c295073ed1ce"><param name="Name" value="InsertItem(albaTimeStamp t, T m)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ae7b4ef612e75d52492e9c64680da32dc"><param name="Name" value="InsertItem(T *m)"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a1de1ec64ce895e4679b8c295073ed1ce"><param name="Name" value="albaTimeMapScalar"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ae7b4ef612e75d52492e9c64680da32dc"><param name="Name" value="albaTimeMap"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ab93c14d8f01b52e3431676c55d87f2df"><param name="Name" value="InsertItem(albaTimeStamp t, T m)"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ab93c14d8f01b52e3431676c55d87f2df"><param name="Name" value="albaTimeMapScalar"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a1de1ec64ce895e4679b8c295073ed1ce"><param name="Name" value="InsertItem(albaTimeStamp t, T m)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a1de1ec64ce895e4679b8c295073ed1ce"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classwxFrameManager.html#adcbbcb2e7cab10026c10cb7893c06c49"><param name="Name" value="InsertPane(wxWindow *window, const wxPaneInfo &amp;pane_info, int insert_level=wxAUI_INSERT_PANE)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaPolylineGraph_1_1Branch.html#a268de2f7f10b72ea451230e6fd7d7503"><param name="Name" value="InsertVertexId(int i, vtkIdType v)"></OBJECT>
@@ -6670,6 +6672,7 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="albaDecl_8h.html#ac503d11021c5ac615f3ef2e7f0478801"><param name="Name" value="MCH_UP"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="albaDecl_8h.html#aaa4d32bbff34f0fa2f63c3008ec28220"><param name="Name" value="MCH_VTK"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure.html#a75b18e7967fc477092d69e5dd5557b6c"><param name="Name" value="MEASURE_ACTIONS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960"><param name="Name" value="MEASURE_CONSTRAINTS"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure.html#acded771cde81cfb3ecafa9474dd77557"><param name="Name" value="MEASURE_INTERACTIONS"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGUISettingsAdvanced.html#a27d00e121ff0d118d8a898962aa0de5c"><param name="Name" value="MEASURE_UNIT_WIDGET_ID"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="albaDecl_8h.html#a96ecec87dcf1331f5097e833181a137ba40edc54e596e15d2a1fbc9aa5ae7abab"><param name="Name" value="MED_EVT_USER_START"></OBJECT>
@@ -7070,6 +7073,7 @@
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGizmoTranslatePlane.html#ade10ed4e594a2a97cd32afac5afc966ca439bd707a4f581395169bcf5adfba808"><param name="Name" value="albaGizmoTranslatePlane"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="albaInteractorCompositorMouse_8h.html#ac306d9f7f033a5e73e4660ace4e89b2aaa137e53f121f4b8ec29013e2ce5331c4"><param name="Name" value="NO_BUTTON_PRESSED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960a92497330388001a626221b40f28aa1e7"><param name="Name" value="NO_CONSTRAINT"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaVME.html#adbb04ede1562f6e34015961c3b642278a65332d2e68f3a69a0d986e173fb84f65"><param name="Name" value="NO_DATA_VISUAL_MODE"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure.html#ae906a05bec089354f298a1d02a15e58ca8e2e21d67732ab19a1c8fc91f8d42262"><param name="Name" value="NO_POINT"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaAvatar3D.html#a16ab174662734f6df399ef0f028528e0af222ad37fb3b48c454c3920b901a6836"><param name="Name" value="NO_SCALE"></OBJECT>
@@ -9008,21 +9012,21 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaHTMLTemplateParserBlock.html#a780520177c39494c41cb020b8828cdb2"><param name="Name" value="PreParseTag(wxString *inputTemplate, int &amp;parsingPos)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractionManager.html#abb17b9eaa3bbf96bee5697791b670e1a"><param name="Name" value="PreResetCamera(vtkRenderer *ren)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classmmuTimeSet.html#aed8e936502477d7964b684132cc78eaa"><param name="Name" value="Prepend(albaTimeStamp t)"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#afaca783fae776b1ace7ea8e3b0ee6d6a"><param name="Name" value="PrependItem(T *m)"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#afaca783fae776b1ace7ea8e3b0ee6d6a"><param name="Name" value="albaTimeMap"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a19ba1ecb01abd0aa8de2c348c1f7e840"><param name="Name" value="PrependItem(T *m)"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a19ba1ecb01abd0aa8de2c348c1f7e840"><param name="Name" value="albaTimeMap"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a6c3c10e58acdd3cfd17984e8167c30a1"><param name="Name" value="PrependItem(albaTimeStamp t, T m)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#afaca783fae776b1ace7ea8e3b0ee6d6a"><param name="Name" value="PrependItem(T *m)"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a6c3c10e58acdd3cfd17984e8167c30a1"><param name="Name" value="albaTimeMapScalar"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#afaca783fae776b1ace7ea8e3b0ee6d6a"><param name="Name" value="albaTimeMap"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ac05f7958e6102a3af924d00bc8a42083"><param name="Name" value="PrependItem(albaTimeStamp t, T m)"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ac05f7958e6102a3af924d00bc8a42083"><param name="Name" value="albaTimeMapScalar"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a6c3c10e58acdd3cfd17984e8167c30a1"><param name="Name" value="PrependItem(albaTimeStamp t, T m)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a6c3c10e58acdd3cfd17984e8167c30a1"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaMatrix.html#a3084d91af13b4a9ff36837d9345485f1"><param name="Name" value="Print(std::ostream &amp;os, const int indent=0) const"></OBJECT>
   <UL>
@@ -9420,13 +9424,13 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ada1a2087d0ee6c904ccd40de335d5ca7"><param name="Name" value="albaTimeMap"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#adecac10b3b5fe0a981ba08eac749cedd"><param name="Name" value="RemoveAllItems()"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#adecac10b3b5fe0a981ba08eac749cedd"><param name="Name" value="albaTimeMapScalar"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ac01a3a06b165cf345b6f1e3f81c05c1f"><param name="Name" value="RemoveAllItems()"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ac01a3a06b165cf345b6f1e3f81c05c1f"><param name="Name" value="albaTimeMapScalar"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#adecac10b3b5fe0a981ba08eac749cedd"><param name="Name" value="RemoveAllItems()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#adecac10b3b5fe0a981ba08eac749cedd"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaVector.html#aa340f2f3f226fcf5d1e145ea3a4ef162"><param name="Name" value="RemoveAllItems()"></OBJECT>
   <UL>
@@ -9516,21 +9520,21 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGUIListBox.html#add0d3837886ceb43af1676a6ce98797d"><param name="Name" value="RemoveItem(long id)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGUIDictionaryWidget.html#ab5c77ccbcf0b2cf33a33261de4dc35bd"><param name="Name" value="RemoveItem(long itemId)"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a1aed61ba16311a47862b066c7cc9fa80"><param name="Name" value="RemoveItem(typename albaTimeMap&lt; T &gt;::TimeMap::iterator it)"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a1aed61ba16311a47862b066c7cc9fa80"><param name="Name" value="albaTimeMap"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#aaf58cbde650806c317bf03bbdc577ad7"><param name="Name" value="RemoveItem(typename albaTimeMap&lt; T &gt;::TimeMap::iterator it)"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#aaf58cbde650806c317bf03bbdc577ad7"><param name="Name" value="albaTimeMap"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a910e275aab1f70d28d45c9220b9bf88f"><param name="Name" value="RemoveItem(typename albaTimeMapScalar&lt; T &gt;::TimeMapScalars::iterator it)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a1aed61ba16311a47862b066c7cc9fa80"><param name="Name" value="RemoveItem(typename albaTimeMap&lt; T &gt;::TimeMap::iterator it)"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a910e275aab1f70d28d45c9220b9bf88f"><param name="Name" value="albaTimeMapScalar"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a1aed61ba16311a47862b066c7cc9fa80"><param name="Name" value="albaTimeMap"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ad3f4c854f0f5dbc8bfb454d6b8b9abd6"><param name="Name" value="RemoveItem(typename albaTimeMapScalar&lt; T &gt;::TimeMapScalars::iterator it)"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ad3f4c854f0f5dbc8bfb454d6b8b9abd6"><param name="Name" value="albaTimeMapScalar"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a910e275aab1f70d28d45c9220b9bf88f"><param name="Name" value="RemoveItem(typename albaTimeMapScalar&lt; T &gt;::TimeMapScalars::iterator it)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a910e275aab1f70d28d45c9220b9bf88f"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaLightKit.html#a69292c18ba38bff861ce392745c32491"><param name="Name" value="RemoveLight(int sel)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaVME.html#a5c2a7b44a5ab6d7144298169a1ce14d4"><param name="Name" value="RemoveLink(const char *name)"></OBJECT>
@@ -10583,6 +10587,7 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGizmoTranslatePlane.html#ae1b614addebc5de86982d5cddc7747f1"><param name="Name" value="albaGizmoTranslatePlane"></OBJECT>
   </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a99a788c8acea36626cf280ba09bed49b"><param name="Name" value="SetConstraint(int val)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGizmoCrossTranslateAxis.html#a42ee28c6f5b669aba19920130d534fe7"><param name="Name" value="SetConstraintModality(int axis, int constrainModality)"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGizmoCrossTranslateAxis.html#a42ee28c6f5b669aba19920130d534fe7"><param name="Name" value="albaGizmoCrossTranslateAxis"></OBJECT>
@@ -13502,6 +13507,7 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="albaGUICrossSplitter_8h.html#a86fd38c86c6ecd9b98bfa7887fd39e3ea2688c6a734c9dffc9f446f54878bae46"><param name="Name" value="VA_TWO_VERT"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="sorted__vector_8h.html#a383c70585ff0887bdd6914eb5b9c9a0a"><param name="Name" value="VERSION_SORTED_VECTOR_"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractorSlider.html#a438d098fee9b4e3eb7438997d8bdbc87aead2b7bb409bf25a59d0d5d8bf5cb0d6"><param name="Name" value="VERTICAL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960a1ed265f5ae472c4b925cecfc8c927242"><param name="Name" value="VERTICAL_CONSTRAINT"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaRefSys.html#a5a4af0aa424386332995c2d0f0f22735a8d66d3b50c051b75368d9a8230c5c377"><param name="Name" value="VIEW"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaRefSys.html#a5a4af0aa424386332995c2d0f0f22735a8d66d3b50c051b75368d9a8230c5c377"><param name="Name" value="albaRefSys"></OBJECT>
@@ -37652,6 +37658,10 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
   <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#ae42aa77dc11b916c7663dce332372924"><param name="Name" value="GetConstraint() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
+  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a11ff40d0272c72f83893c2810cf2e33a"><param name="Name" value="GetDistance(int index)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
@@ -37660,11 +37670,23 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
   <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960a6bd5a5c9626418a0d1683ee9b707f350"><param name="Name" value="HORIZONTAL_CONSTRAINT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
+  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a06d2f9e018f63044663793476130579b"><param name="Name" value="Load(albaVME *input, wxString tag)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
   <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960"><param name="Name" value="MEASURE_CONSTRAINTS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
+  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a2e986769ea144dd1bf8850fafdfc3d0a"><param name="Name" value="MoveMeasure(int index, double *point)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960a92497330388001a626221b40f28aa1e7"><param name="Name" value="NO_CONSTRAINT"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
   <UL>
@@ -37677,6 +37699,10 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#af49657f28a0dffb428f1964724433fef"><param name="Name" value="SelectMeasure(int index)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a99a788c8acea36626cf280ba09bed49b"><param name="Name" value="SetConstraint(int val)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
   <UL>
@@ -37712,6 +37738,10 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
   <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960a1ed265f5ae472c4b925cecfc8c927242"><param name="Name" value="VERTICAL_CONSTRAINT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
+  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#aaa8aea45f5a3f1bd31498fd8cf2eafe8"><param name="Name" value="albaInteractor2DMeasure_Distance()"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
@@ -37721,6 +37751,10 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#af58c1c6dce5827c5ca6182a0e9e3f370"><param name="Name" value="albaTypeMacro(albaInteractor2DMeasure_Distance, albaInteractor2DMeasure)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a2bbd558ce04a2ec12fd45d1fb9c04f8a"><param name="Name" value="m_Constraint"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="Name" value="albaInteractor2DMeasure_Distance"></OBJECT>
   <UL>
@@ -48930,11 +48964,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ab40bd646012fb78ea1da7103658f2a5a"><param name="Name" value="InsertItem(T *m)"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ae7b4ef612e75d52492e9c64680da32dc"><param name="Name" value="InsertItem(T *m)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ae7b4ef612e75d52492e9c64680da32dc"><param name="Name" value="InsertItem(T *m)"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ab40bd646012fb78ea1da7103658f2a5a"><param name="Name" value="InsertItem(T *m)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
@@ -48942,11 +48976,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#afaca783fae776b1ace7ea8e3b0ee6d6a"><param name="Name" value="PrependItem(T *m)"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a19ba1ecb01abd0aa8de2c348c1f7e840"><param name="Name" value="PrependItem(T *m)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a19ba1ecb01abd0aa8de2c348c1f7e840"><param name="Name" value="PrependItem(T *m)"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#afaca783fae776b1ace7ea8e3b0ee6d6a"><param name="Name" value="PrependItem(T *m)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
@@ -48958,11 +48992,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ada1a2087d0ee6c904ccd40de335d5ca7"><param name="Name" value="RemoveAllItems()"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a068d63091112e2c112e3a6682b85d02d"><param name="Name" value="RemoveAllItems()"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a068d63091112e2c112e3a6682b85d02d"><param name="Name" value="RemoveAllItems()"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#ada1a2087d0ee6c904ccd40de335d5ca7"><param name="Name" value="RemoveAllItems()"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
@@ -48970,11 +49004,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a1aed61ba16311a47862b066c7cc9fa80"><param name="Name" value="RemoveItem(typename albaTimeMap&lt; T &gt;::TimeMap::iterator it)"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#aaf58cbde650806c317bf03bbdc577ad7"><param name="Name" value="RemoveItem(typename albaTimeMap&lt; T &gt;::TimeMap::iterator it)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#aaf58cbde650806c317bf03bbdc577ad7"><param name="Name" value="RemoveItem(typename albaTimeMap&lt; T &gt;::TimeMap::iterator it)"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a1aed61ba16311a47862b066c7cc9fa80"><param name="Name" value="RemoveItem(typename albaTimeMap&lt; T &gt;::TimeMap::iterator it)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
@@ -49010,22 +49044,22 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#afe7095fd276734c6cdc9346471ac33dd"><param name="Name" value="~albaTimeMap()"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a91c1fbc58cb5da860dd34136b804060b"><param name="Name" value="~albaTimeMap()"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html"><param name="Name" value="albaTimeMap"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a91c1fbc58cb5da860dd34136b804060b"><param name="Name" value="~albaTimeMap()"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#afe7095fd276734c6cdc9346471ac33dd"><param name="Name" value="~albaTimeMap()"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a8653cea26f6445b259bf265f98d3ffcb"><param name="Name" value="albaTimeMapScalar()"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ad8ea726178b54c0a9f05aac8173a010e"><param name="Name" value="albaTimeMapScalar(const albaTimeMapScalar&lt; T &gt; &amp;)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a4efd6e5a60db15c734c3626eccb10cb7"><param name="Name" value="AppendItem(albaTimeStamp t, T m)"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ad9e74b9f5b4b8c12bbe42db08b1c4f4d"><param name="Name" value="AppendItem(albaTimeStamp t, T m)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ad9e74b9f5b4b8c12bbe42db08b1c4f4d"><param name="Name" value="AppendItem(albaTimeStamp t, T m)"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a4efd6e5a60db15c734c3626eccb10cb7"><param name="Name" value="AppendItem(albaTimeStamp t, T m)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   <UL>
@@ -49117,19 +49151,19 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a6c3c10e58acdd3cfd17984e8167c30a1"><param name="Name" value="PrependItem(albaTimeStamp t, T m)"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html"><param name="Name" value="albaTimeMapScalar"></OBJECT>
-  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ac05f7958e6102a3af924d00bc8a42083"><param name="Name" value="PrependItem(albaTimeStamp t, T m)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a01c74234e35aa8a0f1e80716d43df505"><param name="Name" value="Print(std::ostream &amp;os, const int tabs=0) const"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a6c3c10e58acdd3cfd17984e8167c30a1"><param name="Name" value="PrependItem(albaTimeStamp t, T m)"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a7ceb3e41384040739abd5ff26887bd9b"><param name="Name" value="Print(std::ostream &amp;os, const int tabs=0) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html"><param name="Name" value="albaTimeMapScalar"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#a01c74234e35aa8a0f1e80716d43df505"><param name="Name" value="Print(std::ostream &amp;os, const int tabs=0) const"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   <UL>
@@ -49185,11 +49219,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#acafacb7eb9cacf671a6a73aa411cc871"><param name="Name" value="~albaTimeMapScalar()"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ab6b725171ecba1e0f4f20c492a6bbf56"><param name="Name" value="~albaTimeMapScalar()"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ab6b725171ecba1e0f4f20c492a6bbf56"><param name="Name" value="~albaTimeMapScalar()"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#acafacb7eb9cacf671a6a73aa411cc871"><param name="Name" value="~albaTimeMapScalar()"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="albaTimeMapScalarUX_8h.html"><param name="Name" value="albaTimeMapScalarUX.h"></OBJECT>
   <UL>
@@ -55778,6 +55812,7 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Point.html#a65a038dab96d16440a1da007ae7dc36e"><param name="Name" value="m_ConstrLineP2[3]"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractorGenericMouse.html#a08bf5e2d38d5a0df7d0b5f16d4bf656e"><param name="Name" value="m_ConstrainRefSys"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGizmoCrossTranslate.html#ae427dc699334dc5251e4edcb95543a30"><param name="Name" value="m_ConstrainTranslationToInputVMEBounds"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a2bbd558ce04a2ec12fd45d1fb9c04f8a"><param name="Name" value="m_Constraint"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGizmoCrossTranslate.html#a38e7d743908c704edd0b0c3a88f843c2"><param name="Name" value="m_ConstraintModality"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaGizmoCrossTranslate.html#a38e7d743908c704edd0b0c3a88f843c2"><param name="Name" value="albaGizmoCrossTranslate"></OBJECT>
@@ -63895,13 +63930,13 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMap.html#a91c1fbc58cb5da860dd34136b804060b"><param name="Name" value="albaTimeMap"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ab6b725171ecba1e0f4f20c492a6bbf56"><param name="Name" value="~albaTimeMapScalar()"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ab6b725171ecba1e0f4f20c492a6bbf56"><param name="Name" value="albaTimeMapScalar"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#acafacb7eb9cacf671a6a73aa411cc871"><param name="Name" value="~albaTimeMapScalar()"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#acafacb7eb9cacf671a6a73aa411cc871"><param name="Name" value="albaTimeMapScalar"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ab6b725171ecba1e0f4f20c492a6bbf56"><param name="Name" value="~albaTimeMapScalar()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTimeMapScalar.html#ab6b725171ecba1e0f4f20c492a6bbf56"><param name="Name" value="albaTimeMapScalar"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTransform.html#aee54e9a31ca4175f65dbfea284e9428b"><param name="Name" value="~albaTransform()"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classalbaTransformBase.html#a8a89fc2128bbd8a926fe955335b79d7b"><param name="Name" value="~albaTransformBase()"></OBJECT>

@@ -5945,6 +5945,12 @@
       </UL>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="albaInteractor2DMeasure_Distance"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="ImageNumber" value="1"></OBJECT>
       <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MEASURE_CONSTRAINTS"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NO_CONSTRAINT"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960a92497330388001a626221b40f28aa1e7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HORIZONTAL_CONSTRAINT"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960a6bd5a5c9626418a0d1683ee9b707f350"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="VERTICAL_CONSTRAINT"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960a1ed265f5ae472c4b925cecfc8c927242"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="albaInteractor2DMeasure_Distance"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#aaa8aea45f5a3f1bd31498fd8cf2eafe8"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaInteractor2DMeasure_Distance"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a3a9b5458c14bde3ab72443175740f90c"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="albaTypeMacro"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#af58c1c6dce5827c5ca6182a0e9e3f370"><param name="ImageNumber" value="11"></OBJECT>
@@ -5961,6 +5967,8 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="GetDistance"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a11ff40d0272c72f83893c2810cf2e33a"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="Load"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a06d2f9e018f63044663793476130579b"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="Save"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#aafb84f490971af3daa0fd74c845f1060"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GetConstraint"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#ae42aa77dc11b916c7663dce332372924"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SetConstraint"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a99a788c8acea36626cf280ba09bed49b"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveMeasure"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a2e986769ea144dd1bf8850fafdfc3d0a"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="DrawNewMeasure"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#afbdfcb5a154d4380d95f55e404ca3838"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateLineActors"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a296579a2f093607498c9b3fb3d451147"><param name="ImageNumber" value="11"></OBJECT>
@@ -5974,6 +5982,7 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MinDistance"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a4d87608bd247b5294a7219226f5dc80f"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_LineTickWidth"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a12b1ffc82fd26c20c33a0cfe832317c4"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TickLenght"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a43721aafa8bf02c5ee3dc97bdde9c903"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Constraint"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a2bbd558ce04a2ec12fd45d1fb9c04f8a"><param name="ImageNumber" value="11"></OBJECT>
       </UL>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="albaInteractor2DMeasure_Ellipse"><param name="Local" value="classalbaInteractor2DMeasure__Ellipse.html"><param name="ImageNumber" value="1"></OBJECT>
       <UL>
@@ -24012,6 +24021,12 @@
             <UL>
             <LI><OBJECT type="text/sitemap"><param name="Name" value="albaInteractor2DMeasure_Distance"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html"><param name="ImageNumber" value="1"></OBJECT>
               <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="MEASURE_CONSTRAINTS"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="NO_CONSTRAINT"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960a92497330388001a626221b40f28aa1e7"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="HORIZONTAL_CONSTRAINT"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960a6bd5a5c9626418a0d1683ee9b707f350"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="VERTICAL_CONSTRAINT"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a7f4adab86e7d8c0a0522d5618a445960a1ed265f5ae472c4b925cecfc8c927242"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="albaInteractor2DMeasure_Distance"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#aaa8aea45f5a3f1bd31498fd8cf2eafe8"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaInteractor2DMeasure_Distance"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a3a9b5458c14bde3ab72443175740f90c"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="albaTypeMacro"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#af58c1c6dce5827c5ca6182a0e9e3f370"><param name="ImageNumber" value="11"></OBJECT>
@@ -24028,6 +24043,8 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="GetDistance"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a11ff40d0272c72f83893c2810cf2e33a"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="Load"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a06d2f9e018f63044663793476130579b"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="Save"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#aafb84f490971af3daa0fd74c845f1060"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="GetConstraint"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#ae42aa77dc11b916c7663dce332372924"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SetConstraint"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a99a788c8acea36626cf280ba09bed49b"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveMeasure"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a2e986769ea144dd1bf8850fafdfc3d0a"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="DrawNewMeasure"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#afbdfcb5a154d4380d95f55e404ca3838"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateLineActors"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a296579a2f093607498c9b3fb3d451147"><param name="ImageNumber" value="11"></OBJECT>
@@ -24041,6 +24058,7 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MinDistance"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a4d87608bd247b5294a7219226f5dc80f"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_LineTickWidth"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a12b1ffc82fd26c20c33a0cfe832317c4"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TickLenght"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a43721aafa8bf02c5ee3dc97bdde9c903"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Constraint"><param name="Local" value="classalbaInteractor2DMeasure__Distance.html#a2bbd558ce04a2ec12fd45d1fb9c04f8a"><param name="ImageNumber" value="11"></OBJECT>
               </UL>
             </UL>
           <LI><OBJECT type="text/sitemap"><param name="Name" value="albaInteractor2DMeasure_Ellipse.h"><param name="Local" value="albaInteractor2DMeasure__Ellipse_8h.html"><param name="ImageNumber" value="1"></OBJECT>

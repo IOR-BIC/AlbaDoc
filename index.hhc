@@ -1444,6 +1444,7 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="GetParallelLine"><param name="Local" value="classalbaGeometryUtils.html#a59f672716657c7d8fa92ee66ea44c8d4"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="FindPointOnLine"><param name="Local" value="classalbaGeometryUtils.html#a0bf5adf49faa0a7668f295c8de6e4ad7"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="PointUpDownLine"><param name="Local" value="classalbaGeometryUtils.html#aedc58cf0b5e7f2b425c282264ce0f986"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PlaneToInputSpace"><param name="Local" value="classalbaGeometryUtils.html#aa6acaffb37d33fd71449fd73de6cd9fa"><param name="ImageNumber" value="11"></OBJECT>
       </UL>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGizmoAutoscaleHelper"><param name="Local" value="classalbaGizmoAutoscaleHelper.html"><param name="ImageNumber" value="1"></OBJECT>
       <UL>
@@ -9499,41 +9500,6 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ChildViewList"><param name="Local" value="classalbaViewCompound.html#aa38fe370375cc0fcba6e9a48289bc5c9"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_PluggedChildViewList"><param name="Local" value="classalbaViewCompound.html#aef7aab8b942b4a20775d00fdd7243251"><param name="ImageNumber" value="11"></OBJECT>
       </UL>
-    <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewHTML"><param name="Local" value="classalbaViewHTML.html"><param name="ImageNumber" value="1"></OBJECT>
-      <UL>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="VIEW_HTML_WIDGET_ID"><param name="Local" value="classalbaViewHTML.html#a125b4832612f5e20b977a32464bb12d7"><param name="ImageNumber" value="1"></OBJECT>
-        <UL>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="ID_LOAD"><param name="Local" value="classalbaViewHTML.html#a125b4832612f5e20b977a32464bb12d7a4d0ac58934abeee30219e676598bcb64"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="ID_FORWARD"><param name="Local" value="classalbaViewHTML.html#a125b4832612f5e20b977a32464bb12d7a63729406cf799a6c9ef4ffb4b0cf38b4"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="ID_BACK"><param name="Local" value="classalbaViewHTML.html#a125b4832612f5e20b977a32464bb12d7ad9508e27afe01d0f5afc007b99d78202"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="ID_URL"><param name="Local" value="classalbaViewHTML.html#a125b4832612f5e20b977a32464bb12d7afa719ffe39979fe779732596d3247a01"><param name="ImageNumber" value="11"></OBJECT>
-        </UL>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewHTML"><param name="Local" value="classalbaViewHTML.html#a4f18a0e96084b12c95c661ade811802d"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaViewHTML"><param name="Local" value="classalbaViewHTML.html#ac515100944b27a44add4af0e12afba3c"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="albaTypeMacro"><param name="Local" value="classalbaViewHTML.html#af0fd9ee1fb3b074eb3cd165bedaaf305"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="Copy"><param name="Local" value="classalbaViewHTML.html#ad8aef4358955ece27de8264688bfac02"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="Create"><param name="Local" value="classalbaViewHTML.html#a41f0b06c78248a44930f44c45e871fe3"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="GetSceneGraph"><param name="Local" value="classalbaViewHTML.html#a7892b77f317ad33c42aa4aa2dba11f8d"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="GetDefaultRWI"><param name="Local" value="classalbaViewHTML.html#ae41bef15cd07814169f6bae2165d8e67"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeAdd"><param name="Local" value="classalbaViewHTML.html#a2830799fd6dd5d12abc7e16b5e834acd"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeRemove"><param name="Local" value="classalbaViewHTML.html#ac345a8446ac3b049ad1b50fa0ff9a539"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeSelect"><param name="Local" value="classalbaViewHTML.html#a05ba65cae187fea9b90f791d9104e53c"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeShow"><param name="Local" value="classalbaViewHTML.html#a63d879da317e8072a62a25b3bc4c3640"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeUpdateProperty"><param name="Local" value="classalbaViewHTML.html#afdf65a92ad8955becb7b2a45dd011537"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeCreatePipe"><param name="Local" value="classalbaViewHTML.html#a686ffd9876a59a253c5526d137ffc7e4"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeDeletePipe"><param name="Local" value="classalbaViewHTML.html#a56f0abe4865e6ccc6d0885d4a025f8a5"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEvent"><param name="Local" value="classalbaViewHTML.html#a0b06c4f67b4938c0f6ae6eea0d9d045a"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="SetBackgroundColor"><param name="Local" value="classalbaViewHTML.html#a898e42a4a4eff251a0ff135db3b369d9"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnLoad"><param name="Local" value="classalbaViewHTML.html#a42cfbf5372ed0c68fdac0c0ad0b2f1e2"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnForward"><param name="Local" value="classalbaViewHTML.html#a41372cff00547731adcfd1dfe57a07b6"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnBack"><param name="Local" value="classalbaViewHTML.html#a8821337eb04a68b99e430177da625ae8"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateGui"><param name="Local" value="classalbaViewHTML.html#ab1d98a8389c89cb15571698deb78c543"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Rwi"><param name="Local" value="classalbaViewHTML.html#aa55726c727d634e4a663d16edfc74a8f"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Sg"><param name="Local" value="classalbaViewHTML.html#a0258d939f1416482b86473470d13ba4d"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ActiveNote"><param name="Local" value="classalbaViewHTML.html#a9625473a048967c3b2819bb7e475252b"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Html"><param name="Local" value="classalbaViewHTML.html#a9ee822264b7c60c848aa419f2b9ea107"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Url"><param name="Local" value="classalbaViewHTML.html#ac3971e8cedf4b51e04cae76bbbcce66c"><param name="ImageNumber" value="11"></OBJECT>
-      </UL>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewManager"><param name="Local" value="classalbaViewManager.html"><param name="ImageNumber" value="1"></OBJECT>
       <UL>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewManager"><param name="Local" value="classalbaViewManager.html#a7344dd432336ebeb020333c6dba94978"><param name="ImageNumber" value="11"></OBJECT>
@@ -11353,7 +11319,6 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="albaView"><param name="Local" value="classalbaView.html"><param name="ImageNumber" value="1"></OBJECT>
         <UL>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewCompound"><param name="Local" value="classalbaViewCompound.html"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewHTML"><param name="Local" value="classalbaViewHTML.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewPlot"><param name="Local" value="classalbaViewPlot.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewVTK"><param name="Local" value="classalbaViewVTK.html"><param name="ImageNumber" value="11"></OBJECT>
         </UL>
@@ -11985,20 +11950,19 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="vecto"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="view"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="viewc"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewh"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewm"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewp"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewv"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vme"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeba"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeit"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeli"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmema"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeou"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmero"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmese"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vtklo"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vtkp"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewm"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewp"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewv"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vme"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeba"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeit"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeli"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmema"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeou"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmero"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmese"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vtklo"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vtkp"><param name="Local" value="functions_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="w"><param name="Local" value="functions_w.html"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="wizar"><param name="Local" value="functions_w.html#top"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="wxlog"><param name="Local" value="functions_w.html"><param name="ImageNumber" value="11"></OBJECT>
@@ -12166,19 +12130,18 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="vecto"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="view"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="viewc"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewh"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewm"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewp"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewv"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vme"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeba"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeit"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeli"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmema"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeou"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmero"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vtklo"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="vtkp"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewm"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewp"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="viewv"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vme"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeba"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeit"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeli"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmema"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmeou"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vmero"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vtklo"><param name="Local" value="functions_func_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vtkp"><param name="Local" value="functions_func_v.html"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="w"><param name="Local" value="functions_func_w.html"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="wizar"><param name="Local" value="functions_func_w.html#top"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="wxlog"><param name="Local" value="functions_func_w.html"><param name="ImageNumber" value="11"></OBJECT>
@@ -13853,6 +13816,7 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="GetParallelLine"><param name="Local" value="classalbaGeometryUtils.html#a59f672716657c7d8fa92ee66ea44c8d4"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="FindPointOnLine"><param name="Local" value="classalbaGeometryUtils.html#a0bf5adf49faa0a7668f295c8de6e4ad7"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="PointUpDownLine"><param name="Local" value="classalbaGeometryUtils.html#aedc58cf0b5e7f2b425c282264ce0f986"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PlaneToInputSpace"><param name="Local" value="classalbaGeometryUtils.html#aa6acaffb37d33fd71449fd73de6cd9fa"><param name="ImageNumber" value="11"></OBJECT>
               </UL>
             </UL>
           <LI><OBJECT type="text/sitemap"><param name="Name" value="albaHelpManager.h"><param name="Local" value="albaHelpManager_8h.html"><param name="ImageNumber" value="1"></OBJECT>
@@ -16596,44 +16560,6 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Mouse"><param name="Local" value="classalbaViewCompound.html#aebabaef79346278b6b5c5fed923b3d32"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ChildViewList"><param name="Local" value="classalbaViewCompound.html#aa38fe370375cc0fcba6e9a48289bc5c9"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_PluggedChildViewList"><param name="Local" value="classalbaViewCompound.html#aef7aab8b942b4a20775d00fdd7243251"><param name="ImageNumber" value="11"></OBJECT>
-              </UL>
-            </UL>
-          <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewHTML.h"><param name="Local" value="albaViewHTML_8h.html"><param name="ImageNumber" value="1"></OBJECT>
-            <UL>
-            <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewHTML"><param name="Local" value="classalbaViewHTML.html"><param name="ImageNumber" value="1"></OBJECT>
-              <UL>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="VIEW_HTML_WIDGET_ID"><param name="Local" value="classalbaViewHTML.html#a125b4832612f5e20b977a32464bb12d7"><param name="ImageNumber" value="1"></OBJECT>
-                <UL>
-                <LI><OBJECT type="text/sitemap"><param name="Name" value="ID_LOAD"><param name="Local" value="classalbaViewHTML.html#a125b4832612f5e20b977a32464bb12d7a4d0ac58934abeee30219e676598bcb64"><param name="ImageNumber" value="11"></OBJECT>
-                <LI><OBJECT type="text/sitemap"><param name="Name" value="ID_FORWARD"><param name="Local" value="classalbaViewHTML.html#a125b4832612f5e20b977a32464bb12d7a63729406cf799a6c9ef4ffb4b0cf38b4"><param name="ImageNumber" value="11"></OBJECT>
-                <LI><OBJECT type="text/sitemap"><param name="Name" value="ID_BACK"><param name="Local" value="classalbaViewHTML.html#a125b4832612f5e20b977a32464bb12d7ad9508e27afe01d0f5afc007b99d78202"><param name="ImageNumber" value="11"></OBJECT>
-                <LI><OBJECT type="text/sitemap"><param name="Name" value="ID_URL"><param name="Local" value="classalbaViewHTML.html#a125b4832612f5e20b977a32464bb12d7afa719ffe39979fe779732596d3247a01"><param name="ImageNumber" value="11"></OBJECT>
-                </UL>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewHTML"><param name="Local" value="classalbaViewHTML.html#a4f18a0e96084b12c95c661ade811802d"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaViewHTML"><param name="Local" value="classalbaViewHTML.html#ac515100944b27a44add4af0e12afba3c"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="albaTypeMacro"><param name="Local" value="classalbaViewHTML.html#af0fd9ee1fb3b074eb3cd165bedaaf305"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="Copy"><param name="Local" value="classalbaViewHTML.html#ad8aef4358955ece27de8264688bfac02"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="Create"><param name="Local" value="classalbaViewHTML.html#a41f0b06c78248a44930f44c45e871fe3"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="GetSceneGraph"><param name="Local" value="classalbaViewHTML.html#a7892b77f317ad33c42aa4aa2dba11f8d"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="GetDefaultRWI"><param name="Local" value="classalbaViewHTML.html#ae41bef15cd07814169f6bae2165d8e67"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeAdd"><param name="Local" value="classalbaViewHTML.html#a2830799fd6dd5d12abc7e16b5e834acd"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeRemove"><param name="Local" value="classalbaViewHTML.html#ac345a8446ac3b049ad1b50fa0ff9a539"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeSelect"><param name="Local" value="classalbaViewHTML.html#a05ba65cae187fea9b90f791d9104e53c"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeShow"><param name="Local" value="classalbaViewHTML.html#a63d879da317e8072a62a25b3bc4c3640"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeUpdateProperty"><param name="Local" value="classalbaViewHTML.html#afdf65a92ad8955becb7b2a45dd011537"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeCreatePipe"><param name="Local" value="classalbaViewHTML.html#a686ffd9876a59a253c5526d137ffc7e4"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeDeletePipe"><param name="Local" value="classalbaViewHTML.html#a56f0abe4865e6ccc6d0885d4a025f8a5"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEvent"><param name="Local" value="classalbaViewHTML.html#a0b06c4f67b4938c0f6ae6eea0d9d045a"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="SetBackgroundColor"><param name="Local" value="classalbaViewHTML.html#a898e42a4a4eff251a0ff135db3b369d9"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="OnLoad"><param name="Local" value="classalbaViewHTML.html#a42cfbf5372ed0c68fdac0c0ad0b2f1e2"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="OnForward"><param name="Local" value="classalbaViewHTML.html#a41372cff00547731adcfd1dfe57a07b6"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="OnBack"><param name="Local" value="classalbaViewHTML.html#a8821337eb04a68b99e430177da625ae8"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateGui"><param name="Local" value="classalbaViewHTML.html#ab1d98a8389c89cb15571698deb78c543"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Rwi"><param name="Local" value="classalbaViewHTML.html#aa55726c727d634e4a663d16edfc74a8f"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Sg"><param name="Local" value="classalbaViewHTML.html#a0258d939f1416482b86473470d13ba4d"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ActiveNote"><param name="Local" value="classalbaViewHTML.html#a9625473a048967c3b2819bb7e475252b"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Html"><param name="Local" value="classalbaViewHTML.html#a9ee822264b7c60c848aa419f2b9ea107"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Url"><param name="Local" value="classalbaViewHTML.html#ac3971e8cedf4b51e04cae76bbbcce66c"><param name="ImageNumber" value="11"></OBJECT>
               </UL>
             </UL>
           <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewManager.h"><param name="Local" value="albaViewManager_8h.html"><param name="ImageNumber" value="1"></OBJECT>

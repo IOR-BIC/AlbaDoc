@@ -93,6 +93,8 @@ Static Public Member Functions</h2></td></tr>
 <tr class="separator:a0bf5adf49faa0a7668f295c8de6e4ad7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aedc58cf0b5e7f2b425c282264ce0f986"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGeometryUtils.html#aedc58cf0b5e7f2b425c282264ce0f986">PointUpDownLine</a> (double *point, double *lp1, double *lp2, int plane=<a class="el" href="classalbaGeometryUtils.html#a07d96e48c32baa98358b4011b5163a91aba3f2da62fc171216baef60d00f452b0">XY</a>)</td></tr>
 <tr class="separator:aedc58cf0b5e7f2b425c282264ce0f986"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa6acaffb37d33fd71449fd73de6cd9fa"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGeometryUtils.html#aa6acaffb37d33fd71449fd73de6cd9fa">PlaneToInputSpace</a> (vtkPlane *inputPlane, vtkLinearTransform *inputTransform, vtkPlane *outputPlane)</td></tr>
+<tr class="separator:aa6acaffb37d33fd71449fd73de6cd9fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-types" name="pro-types"></a>
 Protected Types</h2></td></tr>
@@ -110,7 +112,7 @@ Protected Types</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Class Name: <a class="el" href="classalbaGeometryUtils.html" title="Class Name: albaGeometryUtils.">albaGeometryUtils</a>. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGeometryUtils_8h_source.html#l00026">26</a> of file <a class="el" href="albaGeometryUtils_8h_source.html">albaGeometryUtils.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGeometryUtils_8h_source.html#l00030">30</a> of file <a class="el" href="albaGeometryUtils_8h_source.html">albaGeometryUtils.h</a>.</p>
 </div><h2 class="groupheader">Member Enumeration Documentation</h2>
 <a id="a6df90d1558c877540862a22f3a16b3f2" name="a6df90d1558c877540862a22f3a16b3f2"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a6df90d1558c877540862a22f3a16b3f2">&#9670;&#160;</a></span>anonymous enum</h2>
@@ -137,7 +139,7 @@ Protected Types</h2></td></tr>
 <tr><td class="fieldname"><a id="a6df90d1558c877540862a22f3a16b3f2a90ef47fc047b7404bfd40d6c8496fa30" name="a6df90d1558c877540862a22f3a16b3f2a90ef47fc047b7404bfd40d6c8496fa30"></a>Z&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="albaGeometryUtils_8h_source.html#l00029">29</a> of file <a class="el" href="albaGeometryUtils_8h_source.html">albaGeometryUtils.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGeometryUtils_8h_source.html#l00033">33</a> of file <a class="el" href="albaGeometryUtils_8h_source.html">albaGeometryUtils.h</a>.</p>
 
 </div>
 </div>
@@ -166,7 +168,7 @@ Protected Types</h2></td></tr>
 <tr><td class="fieldname"><a id="a07d96e48c32baa98358b4011b5163a91a648d99b17b3e452132e5141181f6e8e3" name="a07d96e48c32baa98358b4011b5163a91a648d99b17b3e452132e5141181f6e8e3"></a>XZ&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="albaGeometryUtils_8h_source.html#l00030">30</a> of file <a class="el" href="albaGeometryUtils_8h_source.html">albaGeometryUtils.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGeometryUtils_8h_source.html#l00034">34</a> of file <a class="el" href="albaGeometryUtils_8h_source.html">albaGeometryUtils.h</a>.</p>
 
 </div>
 </div>
@@ -883,6 +885,48 @@ Protected Types</h2></td></tr>
           <td></td>
           <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>plane</em> = <code><a class="el" href="classalbaGeometryUtils.html#a07d96e48c32baa98358b4011b5163a91aba3f2da62fc171216baef60d00f452b0">XY</a></code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa6acaffb37d33fd71449fd73de6cd9fa" name="aa6acaffb37d33fd71449fd73de6cd9fa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa6acaffb37d33fd71449fd73de6cd9fa">&#9670;&#160;</a></span>PlaneToInputSpace()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void albaGeometryUtils::PlaneToInputSpace </td>
+          <td>(</td>
+          <td class="paramtype">vtkPlane *&#160;</td>
+          <td class="paramname"><em>inputPlane</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">vtkLinearTransform *&#160;</td>
+          <td class="paramname"><em>inputTransform</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">vtkPlane *&#160;</td>
+          <td class="paramname"><em>outputPlane</em>&#160;</td>
         </tr>
         <tr>
           <td></td>

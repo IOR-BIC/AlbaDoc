@@ -375,10 +375,6 @@ Public Attributes</h2></td></tr>
 Protected Member Functions</h2></td></tr>
 <tr class="memitem:af4e4f44e1a1fbccfe873dc2033772bbd"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="classalbaGUI.html">albaGUI</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaViewVTK.html#af4e4f44e1a1fbccfe873dc2033772bbd">CreateGui</a> ()</td></tr>
 <tr class="separator:af4e4f44e1a1fbccfe873dc2033772bbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a392692fb7bc89eabae111da1cb65a9d9"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaViewVTK.html#a392692fb7bc89eabae111da1cb65a9d9">OnPreResetCamera</a> ()</td></tr>
-<tr class="separator:a392692fb7bc89eabae111da1cb65a9d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7cec7fd92741016a3e83ed91fba73ab2"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaViewVTK.html#a7cec7fd92741016a3e83ed91fba73ab2">OnPostResetCamera</a> ()</td></tr>
-<tr class="separator:a7cec7fd92741016a3e83ed91fba73ab2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acc847dfdc8b9a97ac2bbd2842bee2ecb"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaViewVTK.html#acc847dfdc8b9a97ac2bbd2842bee2ecb">GetVisualPipeName</a> (<a class="el" href="classalbaVME.html">albaVME</a> *node, <a class="el" href="classalbaString.html">albaString</a> &amp;pipe_name)</td></tr>
 <tr class="separator:acc847dfdc8b9a97ac2bbd2842bee2ecb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_methods_classalbaView"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_classalbaView')"><img src="closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="classalbaView.html">albaView</a></td></tr>
@@ -1646,56 +1642,6 @@ Additional Inherited Members</h2></td></tr>
 <p >This function should be overridden by subclasses to create specialized GUIs. Each subclass should append its own widgets and define the enum of IDs for the widgets as an extension of the superclass enum. The last id value must be defined as "LAST_ID" to allow the subclass to continue the ID enumeration from it. For appending the widgets in the same panel GUI, each CreateGUI() function should first call the superclass' one. </p>
 
 <p>Reimplemented from <a class="el" href="classalbaView.html#a3cebf6c95cdb7fb403f00e7d7a0631b9">albaView</a>.</p>
-
-</div>
-</div>
-<a id="a392692fb7bc89eabae111da1cb65a9d9" name="a392692fb7bc89eabae111da1cb65a9d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a392692fb7bc89eabae111da1cb65a9d9">&#9670;&#160;</a></span>OnPreResetCamera()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void albaViewVTK::OnPreResetCamera </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a7cec7fd92741016a3e83ed91fba73ab2" name="a7cec7fd92741016a3e83ed91fba73ab2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7cec7fd92741016a3e83ed91fba73ab2">&#9670;&#160;</a></span>OnPostResetCamera()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void albaViewVTK::OnPostResetCamera </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
 
 </div>
 </div>

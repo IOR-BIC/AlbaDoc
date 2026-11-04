@@ -29,8 +29,8 @@
 <area shape="rect" id="node17" href="$classalbaInteractorExtractIsosurface.html" title="implements mouse move of camera in the scene." alt="" coords="988,252,1189,277"/>
 <area shape="rect" id="node18" href="$classalbaInteractorSegmentationPicker.html" title=" " alt="" coords="999,302,1179,342"/>
 <area shape="rect" id="node19" href="$classalbaInteractorSelectCell.html" title="Implements mouse move of camera in the scene or perform continuous cell picking when using CTRL modif..." alt="" coords="1009,367,1168,392"/>
-<area shape="rect" id="node20" href="$classmmiSelectPoint.html" title="Perform continuous cell picking with or without the CTRL modifier or move the camera in the scene (wh..." alt="" coords="1031,416,1146,441"/>
-<area shape="rect" id="node21" href="$classmmiVTKPicker.html" title="class name: mmiVTKPicker Implements mouse move of camera in the scene or perform continuous cell pick..." alt="" coords="1034,465,1143,491"/>
+<area shape="rect" id="node20" href="$classalbaInteractorSelectPoint.html" title="Perform continuous cell picking with or without the CTRL modifier or move the camera in the scene (wh..." alt="" coords="1005,416,1172,441"/>
+<area shape="rect" id="node21" href="$classalbaInteractorVTKPicker.html" title="class name: albaInteractorVTKPicker Implements mouse move of camera in the scene or perform continuou..." alt="" coords="1007,465,1170,491"/>
 <area shape="rect" id="node23" href="$classalbaInteractorCompositorMouseFloatVME.html" title="Class name: albaInteractorCompositorMouseFloatVME This class derived from albaInteractorCompositorMou..." alt="" coords="1005,515,1172,555"/>
 <area shape="rect" id="node25" href="$classalbaInteractor6DOF.html" title="base class for 3D interaction modalities with 6DOF" alt="" coords="1021,580,1156,605"/>
 <area shape="rect" id="node30" href="$classalbaAttributeTraceability.html" title="Set trials information about operations which created or modified VME." alt="" coords="527,357,689,383"/>

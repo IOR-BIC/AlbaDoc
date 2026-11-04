@@ -19,9 +19,9 @@
 <area shape="rect" id="node20" href="$classalbaInteractorCameraMove.html" title="implements mouse move of camera in the scene." alt="" coords="709,367,883,392"/>
 <area shape="rect" id="node28" href="$classalbaInteractorCompositorMouse.html" title="Associates instances of albaInteractorGenericMouse to mouse buttons and ctrl/shift keys combinations." alt="" coords="713,515,879,555"/>
 <area shape="rect" id="node30" href="$classalbaInteractorGenericInterface.html" title="Abstract class for general purpose interactor." alt="" coords="699,580,893,605"/>
-<area shape="rect" id="node36" href="$classalbaInteractorPER.html" title="Class implementing routing of events based on picking." alt="" coords="733,801,859,827"/>
-<area shape="rect" id="node48" href="$classalbaInteractorPicker.html" title="interactor implementing a picking operation" alt="" coords="727,851,865,876"/>
-<area shape="rect" id="node49" href="$classalbaInteractorSER.html" title="Class implementing static routing from devices to interactors passing through actions." alt="" coords="733,900,859,925"/>
+<area shape="rect" id="node36" href="$classalbaInteractorPER.html" title="Class implementing routing of events based on picking." alt="" coords="733,777,859,803"/>
+<area shape="rect" id="node48" href="$classalbaInteractorPicker.html" title="interactor implementing a picking operation" alt="" coords="727,827,865,852"/>
+<area shape="rect" id="node49" href="$classalbaInteractorSER.html" title="Class implementing static routing from devices to interactors passing through actions." alt="" coords="733,876,859,901"/>
 <area shape="rect" id="node17" href="$classalbaAvatar3D.html" title="Avatars are entities moving in the virtual world according to user&#39;s movements, and thus representing..." alt="" coords="1005,104,1104,129"/>
 <area shape="rect" id="node18" href="$classalbaAvatar3DCone.html" title="Create an avatar with a 3D Cone Simple implementation of avatar being represented in the scene as a C..." alt="" coords="1257,104,1385,129"/>
 <area shape="rect" id="node21" href="$classalbaInteractorCameraPicker.html" title="Class albaInteractorCameraPicker:" alt="" coords="963,153,1146,179"/>
@@ -29,8 +29,8 @@
 <area shape="rect" id="node23" href="$classalbaInteractorExtractIsosurface.html" title="implements mouse move of camera in the scene." alt="" coords="954,252,1155,277"/>
 <area shape="rect" id="node24" href="$classalbaInteractorSegmentationPicker.html" title=" " alt="" coords="965,302,1145,342"/>
 <area shape="rect" id="node25" href="$classalbaInteractorSelectCell.html" title="Implements mouse move of camera in the scene or perform continuous cell picking when using CTRL modif..." alt="" coords="975,367,1134,392"/>
-<area shape="rect" id="node26" href="$classmmiSelectPoint.html" title="Perform continuous cell picking with or without the CTRL modifier or move the camera in the scene (wh..." alt="" coords="997,416,1112,441"/>
-<area shape="rect" id="node27" href="$classmmiVTKPicker.html" title="class name: mmiVTKPicker Implements mouse move of camera in the scene or perform continuous cell pick..." alt="" coords="1000,465,1109,491"/>
+<area shape="rect" id="node26" href="$classalbaInteractorSelectPoint.html" title="Perform continuous cell picking with or without the CTRL modifier or move the camera in the scene (wh..." alt="" coords="971,416,1138,441"/>
+<area shape="rect" id="node27" href="$classalbaInteractorVTKPicker.html" title="class name: albaInteractorVTKPicker Implements mouse move of camera in the scene or perform continuou..." alt="" coords="973,465,1136,491"/>
 <area shape="rect" id="node29" href="$classalbaInteractorCompositorMouseFloatVME.html" title="Class name: albaInteractorCompositorMouseFloatVME This class derived from albaInteractorCompositorMou..." alt="" coords="971,515,1138,555"/>
 <area shape="rect" id="node31" href="$classalbaInteractor6DOF.html" title="base class for 3D interaction modalities with 6DOF" alt="" coords="987,580,1122,605"/>
 <area shape="rect" id="node34" href="$classalbaInteractorGenericMouse.html" title="Constrained interaction with mouse device." alt="" coords="963,629,1147,655"/>
@@ -41,11 +41,11 @@
 <area shape="rect" id="node38" href="$classalbaInteractor2DDistance.html" title="Class implementing an interactor for creating 2D measure tool." alt="" coords="971,728,1138,753"/>
 <area shape="rect" id="node39" href="$classalbaInteractor2DIndicator.html" title="Class implementing an interactor for creating 2D measure tool." alt="" coords="972,777,1137,803"/>
 <area shape="rect" id="node40" href="$classalbaInteractor2DMeasure.html" title=" " alt="" coords="971,827,1138,852"/>
-<area shape="rect" id="node43" href="$classalbaInteractorPERBrushFeedback.html" title="Segmentation Editing Interactor." alt="" coords="945,876,1164,901"/>
-<area shape="rect" id="node44" href="$classalbaInteractorPERPicker.html" title=" " alt="" coords="973,925,1137,951"/>
-<area shape="rect" id="node45" href="$classalbaInteractorPERScalarInformation.html" title="Class implementing image info reporting on status bar when not interacting." alt="" coords="941,975,1168,1000"/>
-<area shape="rect" id="node46" href="$classalbaInteractorSlider.html" title=" " alt="" coords="988,1024,1121,1049"/>
-<area shape="rect" id="node47" href="$classmmiInfoImage.html" title="Class implementing image info reporting on status bar when not interacting." alt="" coords="1003,1073,1106,1099"/>
-<area shape="rect" id="node41" href="$classalbaInteractor2DMeasure__Angle.html" title=" " alt="" coords="1237,787,1404,827"/>
-<area shape="rect" id="node42" href="$classalbaInteractor2DMeasure__AngleLine.html" title=" " alt="" coords="1237,851,1404,891"/>
+<area shape="rect" id="node44" href="$classalbaInteractorPERBrushFeedback.html" title="Segmentation Editing Interactor." alt="" coords="945,876,1164,901"/>
+<area shape="rect" id="node45" href="$classalbaInteractorPERPicker.html" title=" " alt="" coords="973,925,1137,951"/>
+<area shape="rect" id="node46" href="$classalbaInteractorPERScalarInformation.html" title="Class implementing image info reporting on status bar when not interacting." alt="" coords="941,975,1168,1000"/>
+<area shape="rect" id="node47" href="$classalbaInteractorSlider.html" title=" " alt="" coords="988,1024,1121,1049"/>
+<area shape="rect" id="node41" href="$classalbaInteractor2DMeasure__Angle.html" title=" " alt="" coords="1237,755,1404,795"/>
+<area shape="rect" id="node42" href="$classalbaInteractor2DMeasure__AngleLine.html" title=" " alt="" coords="1237,819,1404,859"/>
+<area shape="rect" id="node43" href="$classalbaInteractor2DMeasure__CenterPoint.html" title=" " alt="" coords="1237,883,1404,923"/>
 </map>

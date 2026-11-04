@@ -5,8 +5,8 @@
 <area shape="rect" id="node11" href="$classalbaInteractorExtractIsosurface.html" title="implements mouse move of camera in the scene." alt="" coords="871,104,1072,129"/>
 <area shape="rect" id="node12" href="$classalbaInteractorSegmentationPicker.html" title=" " alt="" coords="881,154,1061,194"/>
 <area shape="rect" id="node13" href="$classalbaInteractorSelectCell.html" title="Implements mouse move of camera in the scene or perform continuous cell picking when using CTRL modif..." alt="" coords="892,219,1051,244"/>
-<area shape="rect" id="node14" href="$classmmiSelectPoint.html" title="Perform continuous cell picking with or without the CTRL modifier or move the camera in the scene (wh..." alt="" coords="914,268,1029,293"/>
-<area shape="rect" id="node15" href="$classmmiVTKPicker.html" title="class name: mmiVTKPicker Implements mouse move of camera in the scene or perform continuous cell pick..." alt="" coords="917,317,1026,343"/>
+<area shape="rect" id="node14" href="$classalbaInteractorSelectPoint.html" title="Perform continuous cell picking with or without the CTRL modifier or move the camera in the scene (wh..." alt="" coords="888,268,1055,293"/>
+<area shape="rect" id="node15" href="$classalbaInteractorVTKPicker.html" title="class name: albaInteractorVTKPicker Implements mouse move of camera in the scene or perform continuou..." alt="" coords="890,317,1053,343"/>
 <area shape="rect" id="node2" href="$classalbaInteractor.html" title="Abstract class for ALBA interactors This class provides base interface and features of ALBA continuou..." alt="" coords="500,161,600,187"/>
 <area shape="rect" id="node3" href="$classalbaAgent.html" title="An agent is a computational object with a default I/O interface." alt="" coords="372,161,452,187"/>
 <area shape="rect" id="node4" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="172,112,324,137"/>

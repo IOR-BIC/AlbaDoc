@@ -68,8 +68,8 @@ Inheritance diagram for albaInteractorCameraMove:</div>
 <area shape="rect" href="classalbaInteractorExtractIsosurface.html" title="implements mouse move of camera in the scene." alt="" coords="871,104,1072,129"/>
 <area shape="rect" href="classalbaInteractorSegmentationPicker.html" title=" " alt="" coords="881,154,1061,194"/>
 <area shape="rect" href="classalbaInteractorSelectCell.html" title="Implements mouse move of camera in the scene or perform continuous cell picking when using CTRL modif..." alt="" coords="892,219,1051,244"/>
-<area shape="rect" href="classmmiSelectPoint.html" title="Perform continuous cell picking with or without the CTRL modifier or move the camera in the scene (wh..." alt="" coords="914,268,1029,293"/>
-<area shape="rect" href="classmmiVTKPicker.html" title="class name: mmiVTKPicker Implements mouse move of camera in the scene or perform continuous cell pick..." alt="" coords="917,317,1026,343"/>
+<area shape="rect" href="classalbaInteractorSelectPoint.html" title="Perform continuous cell picking with or without the CTRL modifier or move the camera in the scene (wh..." alt="" coords="888,268,1055,293"/>
+<area shape="rect" href="classalbaInteractorVTKPicker.html" title="class name: albaInteractorVTKPicker Implements mouse move of camera in the scene or perform continuou..." alt="" coords="890,317,1053,343"/>
 <area shape="rect" href="classalbaInteractor.html" title="Abstract class for ALBA interactors This class provides base interface and features of ALBA continuou..." alt="" coords="500,161,600,187"/>
 <area shape="rect" href="classalbaAgent.html" title="An agent is a computational object with a default I/O interface." alt="" coords="372,161,452,187"/>
 <area shape="rect" href="classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="172,112,324,137"/>
@@ -426,6 +426,8 @@ Protected Member Functions</h2></td></tr>
 <tr class="separator:ac277d4fb63748f7d0283a048b9dabae7 inherit pro_methods_classalbaInteractor"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa92cf44a341be183ba357ab69b34ac9a inherit pro_methods_classalbaInteractor"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractor.html#aa92cf44a341be183ba357ab69b34ac9a">ComputeWorldToDisplay</a> (double x, double y, double z, double displayPt[3])</td></tr>
 <tr class="separator:aa92cf44a341be183ba357ab69b34ac9a inherit pro_methods_classalbaInteractor"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac03bb138493ddb2049dac9668b67be84 inherit pro_methods_classalbaInteractor"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractor.html#ac03bb138493ddb2049dac9668b67be84">SendPickedPointEvent</a> (int eventId, double pos[3], vtkIdType id=0, double scalar=0, <a class="el" href="classalbaVME.html">albaVME</a> *vme=NULL)</td></tr>
+<tr class="separator:ac03bb138493ddb2049dac9668b67be84 inherit pro_methods_classalbaInteractor"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_methods_classalbaAgent"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_classalbaAgent')"><img src="closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="classalbaAgent.html">albaAgent</a></td></tr>
 <tr class="memitem:a4e5df1f0f7e098059d0ecd564295a6ad inherit pro_methods_classalbaAgent"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAgent.html#a4e5df1f0f7e098059d0ecd564295a6ad">albaAgent</a> ()</td></tr>
 <tr class="separator:a4e5df1f0f7e098059d0ecd564295a6ad inherit pro_methods_classalbaAgent"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -711,7 +713,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Reimplemented in <a class="el" href="classalbaInteractorDICOMImporter.html#a35c3d91f68bef83572a385f9cc90b55b">albaInteractorDICOMImporter</a>, <a class="el" href="classalbaInteractorExtractIsosurface.html#afb30fc3d25604848d2bde81e8b22335e">albaInteractorExtractIsosurface</a>, <a class="el" href="classalbaInteractorSelectCell.html#a17456bc11769cb0ace7151697897df3b">albaInteractorSelectCell</a>, <a class="el" href="classmmiSelectPoint.html#a53e1fed4ed8cad14c768d0e21d984358">mmiSelectPoint</a>, and <a class="el" href="classmmiVTKPicker.html#af1c719e317e9d88cb482f2de8d3964fa">mmiVTKPicker</a>.</p>
+<p>Reimplemented in <a class="el" href="classalbaInteractorDICOMImporter.html#a35c3d91f68bef83572a385f9cc90b55b">albaInteractorDICOMImporter</a>, <a class="el" href="classalbaInteractorExtractIsosurface.html#afb30fc3d25604848d2bde81e8b22335e">albaInteractorExtractIsosurface</a>, <a class="el" href="classalbaInteractorSelectCell.html#a17456bc11769cb0ace7151697897df3b">albaInteractorSelectCell</a>, <a class="el" href="classalbaInteractorSelectPoint.html#aad6c89d67f3202a9bf353973d72c3975">albaInteractorSelectPoint</a>, and <a class="el" href="classalbaInteractorVTKPicker.html#a03177c94232c815295b10c05ee529eca">albaInteractorVTKPicker</a>.</p>
 
 </div>
 </div>
@@ -739,7 +741,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Reimplemented in <a class="el" href="classalbaInteractorDICOMImporter.html#a8c7fcd066c5aa68917b3b1a6f1f49a96">albaInteractorDICOMImporter</a>, <a class="el" href="classalbaInteractorExtractIsosurface.html#a933d53d63fc2bfdd80821c845f081b41">albaInteractorExtractIsosurface</a>, <a class="el" href="classalbaInteractorSegmentationPicker.html#addc13f5377202cafbe6fdf20cb2f30d0">albaInteractorSegmentationPicker</a>, <a class="el" href="classalbaInteractorSelectCell.html#aafb86192b66486009188be564fe42168">albaInteractorSelectCell</a>, <a class="el" href="classmmiSelectPoint.html#ac975938cfdfc8005881b65264f178c25">mmiSelectPoint</a>, and <a class="el" href="classmmiVTKPicker.html#ac5c4335f5d6a11716bee376eb2a98ad8">mmiVTKPicker</a>.</p>
+<p>Reimplemented in <a class="el" href="classalbaInteractorDICOMImporter.html#a8c7fcd066c5aa68917b3b1a6f1f49a96">albaInteractorDICOMImporter</a>, <a class="el" href="classalbaInteractorExtractIsosurface.html#a933d53d63fc2bfdd80821c845f081b41">albaInteractorExtractIsosurface</a>, <a class="el" href="classalbaInteractorSegmentationPicker.html#addc13f5377202cafbe6fdf20cb2f30d0">albaInteractorSegmentationPicker</a>, <a class="el" href="classalbaInteractorSelectCell.html#aafb86192b66486009188be564fe42168">albaInteractorSelectCell</a>, <a class="el" href="classalbaInteractorSelectPoint.html#a74d777a47faf4c7e196b12db9242944b">albaInteractorSelectPoint</a>, and <a class="el" href="classalbaInteractorVTKPicker.html#a82b3cc5f2e5ec7a3d4d114919b04b9d1">albaInteractorVTKPicker</a>.</p>
 
 </div>
 </div>
@@ -766,7 +768,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Reimplemented in <a class="el" href="classalbaInteractorDICOMImporter.html#ac8f19f04cd18ea87756c9433de9050a9">albaInteractorDICOMImporter</a>, <a class="el" href="classalbaInteractorSegmentationPicker.html#ac74a52e0925f602005ec4e020c5eed99">albaInteractorSegmentationPicker</a>, and <a class="el" href="classmmiVTKPicker.html#a94f393ba9980036975efb6300f76f6b0">mmiVTKPicker</a>.</p>
+<p>Reimplemented in <a class="el" href="classalbaInteractorDICOMImporter.html#ac8f19f04cd18ea87756c9433de9050a9">albaInteractorDICOMImporter</a>, <a class="el" href="classalbaInteractorSegmentationPicker.html#ac74a52e0925f602005ec4e020c5eed99">albaInteractorSegmentationPicker</a>, and <a class="el" href="classalbaInteractorVTKPicker.html#a2d27bf2bb2493a89736b062bc5e41433">albaInteractorVTKPicker</a>.</p>
 
 </div>
 </div>
@@ -1396,7 +1398,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="classalbaInteractor.html#af083962836ff2401954ab853c76ab735">albaInteractor</a>.</p>
 
-<p>Reimplemented in <a class="el" href="classalbaInteractorCameraPicker.html#aa8051f3f9423cb5e2559445fe0486d3a">albaInteractorCameraPicker</a>, <a class="el" href="classalbaInteractorExtractIsosurface.html#a84725595f36efd9a3366af1379528bd8">albaInteractorExtractIsosurface</a>, <a class="el" href="classalbaInteractorSelectCell.html#a9c1e19067d38c76ea7e18152aba2bb9f">albaInteractorSelectCell</a>, and <a class="el" href="classmmiSelectPoint.html#ac6fdfd1922e55580e7fd8cf6460cd13d">mmiSelectPoint</a>.</p>
+<p>Reimplemented in <a class="el" href="classalbaInteractorCameraPicker.html#aa8051f3f9423cb5e2559445fe0486d3a">albaInteractorCameraPicker</a>, <a class="el" href="classalbaInteractorExtractIsosurface.html#a84725595f36efd9a3366af1379528bd8">albaInteractorExtractIsosurface</a>, <a class="el" href="classalbaInteractorSelectCell.html#a9c1e19067d38c76ea7e18152aba2bb9f">albaInteractorSelectCell</a>, and <a class="el" href="classalbaInteractorSelectPoint.html#a1152b3d9d29ccbfd89e8851589c30983">albaInteractorSelectPoint</a>.</p>
 
 </div>
 </div>

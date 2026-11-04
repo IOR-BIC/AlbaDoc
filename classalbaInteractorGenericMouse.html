@@ -151,6 +151,8 @@ Public Types</h2></td></tr>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a808653e5a45420152f5f97d9627f318a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractorGenericMouse.html#a808653e5a45420152f5f97d9627f318a">albaTypeMacro</a> (<a class="el" href="classalbaInteractorGenericMouse.html">albaInteractorGenericMouse</a>, <a class="el" href="classalbaInteractor.html">albaInteractor</a>)</td></tr>
 <tr class="separator:a808653e5a45420152f5f97d9627f318a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6bffaf54f1793c0670ddf82a22466286"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractorGenericMouse.html#a6bffaf54f1793c0670ddf82a22466286">SetButtonDownPick</a> (bool picked, double pickedPos[3])</td></tr>
+<tr class="separator:a6bffaf54f1793c0670ddf82a22466286"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a33373e40c087d88cbca31fbd60b9d3f3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractorGenericMouse.html#a33373e40c087d88cbca31fbd60b9d3f3">OnButtonDownAction</a> (int X, int Y)</td></tr>
 <tr class="separator:a33373e40c087d88cbca31fbd60b9d3f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7a94d25c97b667de6dda660d4dee983f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractorGenericMouse.html#a7a94d25c97b667de6dda660d4dee983f">OnMouseMoveAction</a> (int X, int Y)</td></tr>
@@ -564,6 +566,12 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a3d390b1ac67197b8947de88f360b4f5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a43bfc055ec2da2ca06122864743dbb6b"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractorGenericMouse.html#a43bfc055ec2da2ca06122864743dbb6b">m_LastPickPosition</a> [3]</td></tr>
 <tr class="separator:a43bfc055ec2da2ca06122864743dbb6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51631d5c1883197a2ecca6b41cfc9175"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractorGenericMouse.html#a51631d5c1883197a2ecca6b41cfc9175">m_ButtonDownPickSet</a></td></tr>
+<tr class="separator:a51631d5c1883197a2ecca6b41cfc9175"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79f1bcfff74fc7ad520338959a06e39e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractorGenericMouse.html#a79f1bcfff74fc7ad520338959a06e39e">m_ButtonDownPicked</a></td></tr>
+<tr class="separator:a79f1bcfff74fc7ad520338959a06e39e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac387aa30a3766e3b988a5cd42c468335"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractorGenericMouse.html#ac387aa30a3766e3b988a5cd42c468335">m_ButtonDownPickPosition</a> [3]</td></tr>
+<tr class="separator:ac387aa30a3766e3b988a5cd42c468335"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_attribs_classalbaInteractorGenericInterface"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_classalbaInteractorGenericInterface')"><img src="closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="classalbaInteractorGenericInterface.html">albaInteractorGenericInterface</a></td></tr>
 <tr class="memitem:a61721a07e9ca314a2ce7e24eab436b65 inherit pro_attribs_classalbaInteractorGenericInterface"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classalbaInteractorConstraint.html">albaInteractorConstraint</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractorGenericInterface.html#a61721a07e9ca314a2ce7e24eab436b65">m_TranslationConstraint</a></td></tr>
 <tr class="separator:a61721a07e9ca314a2ce7e24eab436b65 inherit pro_attribs_classalbaInteractorGenericInterface"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -689,7 +697,7 @@ Additional Inherited Members</h2></td></tr>
 <tr><td class="fieldname"><a id="acf5863dd37c190608d580e7b89c98c3ba15b186bdde5e43a19f426f53209111a6" name="acf5863dd37c190608d580e7b89c98c3ba15b186bdde5e43a19f426f53209111a6"></a>MOUSE_UP&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00067">67</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00072">72</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -717,7 +725,7 @@ Additional Inherited Members</h2></td></tr>
 <tr><td class="fieldname"><a id="a08897505c8b8fd81ca66fdb4f3e8fa79a09bf8218a5e0d37229c65f39270b2d95" name="a08897505c8b8fd81ca66fdb4f3e8fa79a09bf8218a5e0d37229c65f39270b2d95"></a>ON_GRID_POINT&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00145">145</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00150">150</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -745,7 +753,7 @@ Additional Inherited Members</h2></td></tr>
 <tr><td class="fieldname"><a id="ac3f83e5d96c358a5a42b7e797be8f40ba09c255923b98ab3556725781eec900ea" name="ac3f83e5d96c358a5a42b7e797be8f40ba09c255923b98ab3556725781eec900ea"></a>POSTMULTIPLY&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00167">167</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00172">172</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -826,6 +834,36 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6bffaf54f1793c0670ddf82a22466286" name="a6bffaf54f1793c0670ddf82a22466286"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6bffaf54f1793c0670ddf82a22466286">&#9670;&#160;</a></span>SetButtonDownPick()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void albaInteractorGenericMouse::SetButtonDownPick </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>picked</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">double&#160;</td>
+          <td class="paramname"><em>pickedPos</em>[3]&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set the picking already performed by the caller at the button down position: the next OnButtonDownAction will use it instead of picking again. </p>
 
 </div>
 </div>
@@ -968,7 +1006,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Set the current camera. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00074">74</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00079">79</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -997,7 +1035,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Set the semantic of the concatenation, default is postmultiply ie the transform is concatenated after all the other transformations. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00082">82</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00087">87</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1024,7 +1062,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00084">84</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00089">89</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1051,7 +1089,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00086">86</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00091">91</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1081,7 +1119,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Set/Get if the concatenation is active. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00091">91</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00096">96</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1108,7 +1146,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00092">92</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00097">97</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1138,7 +1176,7 @@ Additional Inherited Members</h2></td></tr>
 <p>Enable/Disable the concatenation of the transform matrix to be sent to the result matrix <br  />
  </p>
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00098">98</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00103">103</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1165,7 +1203,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00099">99</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00104">104</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1607,7 +1645,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00143">143</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00148">148</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1631,7 +1669,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00154">154</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00159">159</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1655,7 +1693,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00157">157</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00162">162</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1679,7 +1717,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00163">163</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00168">168</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1703,7 +1741,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00165">165</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00170">170</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1727,7 +1765,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00196">196</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00201">201</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1751,7 +1789,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00196">196</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00201">201</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1775,7 +1813,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00200">200</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00205">205</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1799,7 +1837,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00201">201</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00206">206</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1825,7 +1863,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Stores camera to which the interaction is currently assigned. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00203">203</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00208">208</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>
@@ -1849,7 +1887,85 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00205">205</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00210">210</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+
+</div>
+</div>
+<a id="a51631d5c1883197a2ecca6b41cfc9175" name="a51631d5c1883197a2ecca6b41cfc9175"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51631d5c1883197a2ecca6b41cfc9175">&#9670;&#160;</a></span>m_ButtonDownPickSet</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool albaInteractorGenericMouse::m_ButtonDownPickSet</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>True if the button down picking has been set by the caller. </p>
+
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00212">212</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+
+</div>
+</div>
+<a id="a79f1bcfff74fc7ad520338959a06e39e" name="a79f1bcfff74fc7ad520338959a06e39e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79f1bcfff74fc7ad520338959a06e39e">&#9670;&#160;</a></span>m_ButtonDownPicked</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool albaInteractorGenericMouse::m_ButtonDownPicked</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Result of the picking set by the caller. </p>
+
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00213">213</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
+
+</div>
+</div>
+<a id="ac387aa30a3766e3b988a5cd42c468335" name="ac387aa30a3766e3b988a5cd42c468335"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac387aa30a3766e3b988a5cd42c468335">&#9670;&#160;</a></span>m_ButtonDownPickPosition</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double albaInteractorGenericMouse::m_ButtonDownPickPosition[3]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Position of the picking set by the caller. </p>
+
+<p class="definition">Definition at line <a class="el" href="albaInteractorGenericMouse_8h_source.html#l00214">214</a> of file <a class="el" href="albaInteractorGenericMouse_8h_source.html">albaInteractorGenericMouse.h</a>.</p>
 
 </div>
 </div>

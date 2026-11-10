@@ -408,6 +408,8 @@ Protected Member Functions</h2></td></tr>
 <tr class="separator:a6bffceecfed074f867ca03efef20dd7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa8051f3f9423cb5e2559445fe0486d3a"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractorCameraPicker.html#aa8051f3f9423cb5e2559445fe0486d3a">OnButtonUp</a> (<a class="el" href="classalbaEventInteraction.html">albaEventInteraction</a> *e)</td></tr>
 <tr class="separator:aa8051f3f9423cb5e2559445fe0486d3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa1b9ef9e4da0ab119d7f1f62b14e05b7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractorCameraPicker.html#aa1b9ef9e4da0ab119d7f1f62b14e05b7">PickFromEvent</a> (<a class="el" href="classalbaEventInteraction.html">albaEventInteraction</a> *e)</td></tr>
+<tr class="separator:aa1b9ef9e4da0ab119d7f1f62b14e05b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae06b6de98e4984441614d11578aa34b3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractorCameraPicker.html#ae06b6de98e4984441614d11578aa34b3">SendPickingInformation</a> (<a class="el" href="classalbaView.html">albaView</a> *v, double *mouse_pos=NULL, int msg_id=<a class="el" href="albaDecl_8h.html#a5e1a43563a77210ba315d1d8b0e54877">VME_PICKED</a>, <a class="el" href="classalbaMatrix.html">albaMatrix</a> *tracker_pos=NULL, bool mouse_flag=true)</td></tr>
 <tr class="separator:ae06b6de98e4984441614d11578aa34b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acb21fc192462a6d0b924fd05d7b49f9e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaInteractorCameraPicker.html#acb21fc192462a6d0b924fd05d7b49f9e">albaInteractorCameraPicker</a> ()</td></tr>
@@ -752,6 +754,34 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="aa1b9ef9e4da0ab119d7f1f62b14e05b7" name="aa1b9ef9e4da0ab119d7f1f62b14e05b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa1b9ef9e4da0ab119d7f1f62b14e05b7">&#9670;&#160;</a></span>PickFromEvent()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void albaInteractorCameraPicker::PickFromEvent </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classalbaEventInteraction.html">albaEventInteraction</a> *&#160;</td>
+          <td class="paramname"><em>e</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Pick at the position of the device sending the event (the mouse only with CTRL + left button) and send the picking information. </p>
+
+</div>
+</div>
 <a id="ae06b6de98e4984441614d11578aa34b3" name="ae06b6de98e4984441614d11578aa34b3"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae06b6de98e4984441614d11578aa34b3">&#9670;&#160;</a></span>SendPickingInformation()</h2>
 
@@ -829,7 +859,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaInteractorCameraPicker_8h_source.html#l00059">59</a> of file <a class="el" href="albaInteractorCameraPicker_8h_source.html">albaInteractorCameraPicker.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaInteractorCameraPicker_8h_source.html#l00063">63</a> of file <a class="el" href="albaInteractorCameraPicker_8h_source.html">albaInteractorCameraPicker.h</a>.</p>
 
 </div>
 </div>

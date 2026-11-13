@@ -1,4 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,76,31"/>
-<area shape="rect" id="node2" href="$classwxFrameManagerEvent.html" title="class name: wxFrameManagerEvent Event handled by frame manager" alt="" coords="124,5,281,31"/>
+<area shape="rect" id="node1" href="$classwxDockUIPart.html" title="class name: wxDockUIPart This class define a UI part of a dock." alt="" coords="5,5,109,31"/>
 </map>

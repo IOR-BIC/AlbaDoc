@@ -1,12 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,141,120,166"/>
-<area shape="rect" id="node2" href="$classvtkALBAAutoPointer.html" title=" " alt="" coords="183,5,323,45"/>
-<area shape="rect" id="node3" href="$classvtkALBAAutoPointer.html" title=" " alt="" coords="183,69,323,109"/>
-<area shape="rect" id="node4" href="$classvtkALBAAutoPointer.html" title=" " alt="" coords="183,133,323,173"/>
-<area shape="rect" id="node5" href="$classvtkALBAAutoPointer.html" title=" " alt="" coords="183,197,323,237"/>
-<area shape="rect" id="node6" href="$classvtkALBAAutoPointer.html" title="Hold a reference to a vtkObjectBase instance." alt="" coords="168,262,339,287"/>
-<area shape="rect" id="node7" href="$classvtkALBASmartPointer.html" title=" " alt="" coords="402,159,550,199"/>
-<area shape="rect" id="node8" href="$classvtkALBASmartPointer.html" title=" " alt="" coords="402,223,550,263"/>
-<area shape="rect" id="node9" href="$classvtkALBASmartPointer.html" title=" " alt="" coords="402,287,550,327"/>
-<area shape="rect" id="node10" href="$classvtkALBASmartPointer.html" title=" " alt="" coords="387,351,565,377"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,184,31"/>
+<area shape="rect" id="node2" href="$classalbaRWIBase.html" title="albaRWIBase is a vtkRenderWindowInteractor placed on a wxWindow" alt="" coords="232,31,333,56"/>
+<area shape="rect" id="node3" title=" " alt="" coords="53,55,137,80"/>
 </map>

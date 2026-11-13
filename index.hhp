@@ -436,6 +436,8 @@ albaLicenceManager_8h.html
 albaLicenceManager_8h_source.html
 albaLightKit_8h.html
 albaLightKit_8h_source.html
+albaLogicStandardPlugs_8h.html
+albaLogicStandardPlugs_8h_source.html
 albaLogicWithManagers_8h.html
 albaLogicWithManagers_8h_source.html
 albaMTime_8h.html
@@ -1046,6 +1048,8 @@ classalbaLightKit-members.html
 classalbaLightKit.html
 classalbaLightKit_1_1LightItem-members.html
 classalbaLightKit_1_1LightItem.html
+classalbaLogicStandardPlugs-members.html
+classalbaLogicStandardPlugs.html
 classalbaLogicWithManagers-members.html
 classalbaLogicWithManagers.html
 classalbaMTime-members.html
@@ -1864,6 +1868,7 @@ albaLUTLibrary_8h__dep__incl.png
 albaLUTLibrary_8h__incl.png
 albaLicenceManager_8h__incl.png
 albaLightKit_8h__incl.png
+albaLogicStandardPlugs_8h__incl.png
 albaLogicWithManagers_8h__incl.png
 albaMTime_8h__dep__incl.png
 albaMTime_8h__incl.png
@@ -2878,6 +2883,7 @@ inherit_graph_89.png
 inherit_graph_9.png
 inherit_graph_90.png
 inherit_graph_91.png
+inherit_graph_92.png
 mmaApplicationLayout_8h__incl.png
 mmaMaterial_8h__incl.png
 mmaVolumeMaterial_8h__incl.png

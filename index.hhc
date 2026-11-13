@@ -7004,6 +7004,11 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_LightParentPanel"><param name="Local" value="classalbaLightKit.html#a0b8ddef88b48a593b00ef7f8fcbb0c47"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Gui"><param name="Local" value="classalbaLightKit.html#a8a628695cd7a8c72f2e769ff17e34c87"><param name="ImageNumber" value="11"></OBJECT>
       </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="albaLogicStandardPlugs"><param name="Local" value="classalbaLogicStandardPlugs.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PlugStandardOperations"><param name="Local" value="classalbaLogicStandardPlugs.html#aa0390b49516e9a84e0f73058cc207f4c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PlugStandardViews"><param name="Local" value="classalbaLogicStandardPlugs.html#a273d5f9e539136d83156df4101cff543"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="albaLogicWithManagers"><param name="Local" value="classalbaLogicWithManagers.html"><param name="ImageNumber" value="1"></OBJECT>
       <UL>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="albaLogicWithManagers"><param name="Local" value="classalbaLogicWithManagers.html#a3a6016d18e08c17bf22696d8ad30e924"><param name="ImageNumber" value="11"></OBJECT>
@@ -11257,6 +11262,7 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="albaHTMLTemplateParser"><param name="Local" value="classalbaHTMLTemplateParser.html"><param name="ImageNumber" value="11"></OBJECT>
       </UL>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="albaInteractorConstraint"><param name="Local" value="classalbaInteractorConstraint.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="albaLogicStandardPlugs"><param name="Local" value="classalbaLogicStandardPlugs.html"><param name="ImageNumber" value="11"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="albaLUTLibrary"><param name="Local" value="classalbaLUTLibrary.html"><param name="ImageNumber" value="11"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="albaObject"><param name="Local" value="classalbaObject.html"><param name="ImageNumber" value="1"></OBJECT>
       <UL>
@@ -15191,6 +15197,14 @@
               <UL>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="REPRESENTATION_AS_TREE"><param name="Local" value="albaGUIVMEChooserTree_8h.html#a212f8280e7bc79ce741aaf92f3c9b5a9a2017fde0ae55cd3f162d88d24d46ca9f"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="REPRESENTATION_AS_ACCEPTABLE_NODE_LIST"><param name="Local" value="albaGUIVMEChooserTree_8h.html#a212f8280e7bc79ce741aaf92f3c9b5a9a20d2e4a7cbe648b892962bafaeb1e404"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="albaLogicStandardPlugs.h"><param name="Local" value="albaLogicStandardPlugs_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="albaLogicStandardPlugs"><param name="Local" value="classalbaLogicStandardPlugs.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PlugStandardOperations"><param name="Local" value="classalbaLogicStandardPlugs.html#aa0390b49516e9a84e0f73058cc207f4c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PlugStandardViews"><param name="Local" value="classalbaLogicStandardPlugs.html#a273d5f9e539136d83156df4101cff543"><param name="ImageNumber" value="11"></OBJECT>
               </UL>
             </UL>
           <LI><OBJECT type="text/sitemap"><param name="Name" value="albaLogicWithManagers.h"><param name="Local" value="albaLogicWithManagers_8h.html"><param name="ImageNumber" value="1"></OBJECT>

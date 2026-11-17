@@ -1,8 +1,9 @@
 <map id="albaViewManager.h" name="albaViewManager.h">
-<area shape="rect" id="node1" title=" " alt="" coords="494,5,629,31"/>
+<area shape="rect" id="node1" title=" " alt="" coords="545,5,679,31"/>
 <area shape="rect" id="node2" href="$albaEvent_8h.html" title=" " alt="" coords="421,79,510,104"/>
 <area shape="rect" id="node19" href="$albaObserver_8h.html" title=" " alt="" coords="522,152,630,177"/>
 <area shape="rect" id="node20" href="$albaGUISettings_8h.html" title=" " alt="" coords="599,79,726,104"/>
+<area shape="rect" id="node22" title=" " alt="" coords="750,79,882,104"/>
 <area shape="rect" id="node3" href="$albaDefines_8h.html" title=" " alt="" coords="285,372,385,397"/>
 <area shape="rect" id="node11" href="$albaDecl_8h.html" title=" " alt="" coords="349,225,432,251"/>
 <area shape="rect" id="node17" href="$albaEventBase_8h.html" title=" " alt="" coords="379,152,498,177"/>

@@ -1,6 +1,5 @@
 <map id="albaDeviceButtonsPadMouse" name="albaDeviceButtonsPadMouse">
 <area shape="rect" id="node1" title="Tracking 2D device, i.e." alt="" coords="205,519,395,544"/>
-<area shape="rect" id="node13" href="$classalbaDeviceButtonsPadMouseDialog.html" title="class name : albaDeviceButtonsPadMouseDialog Add SetView method to albaDeviceButtonsPadMouse class to..." alt="" coords="205,592,395,632"/>
 <area shape="rect" id="node2" href="$classalbaDeviceButtonsPad.html" title="Device implementing interface for buttons." alt="" coords="224,445,376,471"/>
 <area shape="rect" id="node3" href="$classalbaDevice.html" title="This abstract class manages function calls coming from devices and issue specific events to interacto..." alt="" coords="258,372,342,397"/>
 <area shape="rect" id="node4" href="$classalbaAgentThreaded.html" title="An agent processing the queued events on a separate thread." alt="" coords="164,299,297,324"/>

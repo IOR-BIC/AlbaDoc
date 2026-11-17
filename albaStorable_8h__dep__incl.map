@@ -1,17 +1,17 @@
 <map id="albaStorable.h" name="albaStorable.h">
 <area shape="rect" id="node1" title=" " alt="" coords="877,5,982,31"/>
-<area shape="rect" id="node2" href="$albaAction_8h.html" title=" " alt="" coords="283,79,378,104"/>
-<area shape="rect" id="node3" href="$albaInteractorSER_8h.html" title=" " alt="" coords="176,152,315,177"/>
+<area shape="rect" id="node2" href="$albaAction_8h.html" title=" " alt="" coords="279,79,374,104"/>
+<area shape="rect" id="node3" href="$albaStaticEventRouter_8h.html" title=" " alt="" coords="154,152,315,177"/>
 <area shape="rect" id="node4" href="$albaAttribute_8h.html" title=" " alt="" coords="693,79,800,104"/>
 <area shape="rect" id="node8" href="$albaVME_8h.html" title=" " alt="" coords="339,152,426,177"/>
 <area shape="rect" id="node19" href="$albaAvatar_8h.html" title=" " alt="" coords="824,79,917,104"/>
 <area shape="rect" id="node25" href="$albaDevice_8h.html" title=" " alt="" coords="942,79,1037,104"/>
-<area shape="rect" id="node30" href="$albaDeviceManager_8h.html" title=" " alt="" coords="1061,79,1206,104"/>
-<area shape="rect" id="node31" href="$albaGUIDictionaryWidget_8h.html" title=" " alt="" coords="1231,79,1409,104"/>
-<area shape="rect" id="node32" href="$albaGUIMaterialChooser_8h.html" title=" " alt="" coords="1433,79,1607,104"/>
-<area shape="rect" id="node33" href="$albaInteractionManager_8h.html" title=" " alt="" coords="1631,79,1798,104"/>
-<area shape="rect" id="node34" href="$albaTagItem_8h.html" title=" " alt="" coords="454,79,557,104"/>
-<area shape="rect" id="node35" href="$albaVMEStorage_8h.html" title=" " alt="" coords="1823,79,1953,104"/>
+<area shape="rect" id="node29" href="$albaDeviceManager_8h.html" title=" " alt="" coords="1061,79,1206,104"/>
+<area shape="rect" id="node30" href="$albaGUIDictionaryWidget_8h.html" title=" " alt="" coords="1231,79,1409,104"/>
+<area shape="rect" id="node31" href="$albaGUIMaterialChooser_8h.html" title=" " alt="" coords="1433,79,1607,104"/>
+<area shape="rect" id="node32" href="$albaInteractionManager_8h.html" title=" " alt="" coords="1631,79,1798,104"/>
+<area shape="rect" id="node33" href="$albaTagItem_8h.html" title=" " alt="" coords="454,79,557,104"/>
+<area shape="rect" id="node34" href="$albaVMEStorage_8h.html" title=" " alt="" coords="1823,79,1953,104"/>
 <area shape="rect" id="node5" href="$albaAttributeTraceability_8h.html" title=" " alt="" coords="1083,152,1255,177"/>
 <area shape="rect" id="node6" href="$albaTagArray_8h.html" title=" " alt="" coords="451,152,560,177"/>
 <area shape="rect" id="node16" href="$mmaApplicationLayout_8h.html" title=" " alt="" coords="584,152,749,177"/>
@@ -28,10 +28,9 @@
 <area shape="rect" id="node20" href="$albaAvatar3D_8h.html" title=" " alt="" coords="1280,152,1389,177"/>
 <area shape="rect" id="node22" href="$albaDeviceButtonsPadTracker_8h.html" title=" " alt="" coords="1390,225,1597,251"/>
 <area shape="rect" id="node21" href="$albaAvatar3DCone_8h.html" title=" " alt="" coords="1227,225,1365,251"/>
-<area shape="rect" id="node23" href="$albaDeviceButtonsPadTrackerP5Glove_8h.html" title=" " alt="" coords="1401,299,1596,339"/>
-<area shape="rect" id="node24" href="$albaDeviceTrackerWIIMote_8h.html" title=" " alt="" coords="1191,306,1377,331"/>
+<area shape="rect" id="node23" href="$albaDeviceButtonsPadTrackerP5Glove_8h.html" title=" " alt="" coords="1288,299,1483,339"/>
+<area shape="rect" id="node24" href="$albaDeviceTrackerWIIMote_8h.html" title=" " alt="" coords="1507,306,1693,331"/>
 <area shape="rect" id="node26" href="$albaDeviceButtonsPad_8h.html" title=" " alt="" coords="1603,152,1765,177"/>
-<area shape="rect" id="node29" href="$albaDeviceSet_8h.html" title=" " alt="" coords="1464,152,1579,177"/>
+<area shape="rect" id="node28" href="$albaDeviceSet_8h.html" title=" " alt="" coords="1464,152,1579,177"/>
 <area shape="rect" id="node27" href="$albaDeviceButtonsPadMouse_8h.html" title=" " alt="" coords="1621,225,1824,251"/>
-<area shape="rect" id="node28" href="$albaDeviceButtonsPadMouseDialog_8h.html" title=" " alt="" coords="1627,299,1818,339"/>
 </map>

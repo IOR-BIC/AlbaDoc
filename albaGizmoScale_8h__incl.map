@@ -3,7 +3,7 @@
 <area shape="rect" id="node2" href="$albaEvent_8h.html" title=" " alt="" coords="394,225,483,251"/>
 <area shape="rect" id="node19" href="$albaObserver_8h.html" title=" " alt="" coords="522,299,630,324"/>
 <area shape="rect" id="node20" href="$albaGizmoInterface_8h.html" title=" " alt="" coords="553,152,697,177"/>
-<area shape="rect" id="node23" href="$albaGUIGizmoScale_8h.html" title=" " alt="" coords="386,79,537,104"/>
+<area shape="rect" id="node23" href="$albaGizmoScaleGUI_8h.html" title=" " alt="" coords="386,79,537,104"/>
 <area shape="rect" id="node3" href="$albaDefines_8h.html" title=" " alt="" coords="285,519,385,544"/>
 <area shape="rect" id="node11" href="$albaDecl_8h.html" title=" " alt="" coords="349,372,432,397"/>
 <area shape="rect" id="node17" href="$albaEventBase_8h.html" title=" " alt="" coords="379,299,498,324"/>
@@ -22,5 +22,5 @@
 <area shape="rect" id="node18" href="$albaObject_8h.html" title=" " alt="" coords="529,372,623,397"/>
 <area shape="rect" id="node21" title=" " alt="" coords="559,225,691,251"/>
 <area shape="rect" id="node22" title=" " alt="" coords="715,225,877,251"/>
-<area shape="rect" id="node24" href="$albaGUIGizmoInterface_8h.html" title=" " alt="" coords="362,152,529,177"/>
+<area shape="rect" id="node24" href="$albaGizmoInterfaceGUI_8h.html" title=" " alt="" coords="362,152,529,177"/>
 </map>

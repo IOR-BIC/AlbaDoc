@@ -12,7 +12,7 @@
 <area shape="rect" id="node11" href="$classalbaEventSender.html" title="class acting as an interface for objects using ALBA hierarchical event communication model This objec..." alt="" coords="707,1278,825,1303"/>
 <area shape="rect" id="node15" href="$classalbaGUI.html" title="albaGUI is a panel with function to easily create GUI." alt="" coords="1417,1689,1485,1714"/>
 <area shape="rect" id="node19" href="$classalbaDataPipe.html" title="abstract class for process objects producing data as output of a VME." alt="" coords="1026,861,1125,886"/>
-<area shape="rect" id="node37" href="$classalbaGUIGizmoInterface.html" title="abstract base class for gizmo gui" alt="" coords="1729,1757,1883,1782"/>
+<area shape="rect" id="node37" href="$classalbaGizmoInterfaceGUI.html" title="abstract base class for gizmo gui" alt="" coords="1729,1757,1883,1782"/>
 <area shape="rect" id="node4" title=" " alt="" coords="1391,609,1512,634"/>
 <area shape="rect" id="node5" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="1411,46,1491,71"/>
 <area shape="rect" id="node29" href="$classalbaVMEOutput.html" title="albaVMEOutput &#45; the output data structure of a VME node." alt="" coords="2089,918,2204,943"/>
@@ -46,7 +46,7 @@
 <area shape="rect" id="node39" href="$classalbaCompositorMouseBehavior.html" title="Associates instances of albaGenericMouseBehavior to mouse buttons and ctrl/shift keys combinations." alt="" coords="3569,842,3769,867"/>
 <area shape="rect" id="node32" href="$classalbaInteractionAgent.html" title="Common base class of interactors and interaction tools." alt="" coords="1736,1226,1876,1251"/>
 <area shape="rect" id="node34" href="$classvtkALBASmartPointer.html" title=" " alt="" coords="1732,1161,1880,1201"/>
-<area shape="rect" id="node36" href="$classalbaGUIGizmoTranslate.html" title="gui class for translation gizmo" alt="" coords="2659,1899,2817,1925"/>
-<area shape="rect" id="node48" href="$classalbaGUIGizmoRotate.html" title="gui class for rotation gizmo" alt="" coords="2280,1697,2424,1722"/>
+<area shape="rect" id="node36" href="$classalbaGizmoTranslateGUI.html" title="gui class for translation gizmo" alt="" coords="2659,1899,2817,1925"/>
+<area shape="rect" id="node48" href="$classalbaGizmoRotateGUI.html" title="gui class for rotation gizmo" alt="" coords="2280,1697,2424,1722"/>
 <area shape="rect" id="node41" href="$classalbaInteractorConstraint.html" title="class representing a constraint for the interaction This class is used to store constraint modality p..." alt="" coords="2851,419,3010,445"/>
 </map>

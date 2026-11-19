@@ -107,7 +107,7 @@ Collaboration diagram for albaViewVTK:</div>
 <area shape="rect" href="classalbaGUILab.html" title="albaGUILab is a Label that notify user&#45;click using the normal wxEvents." alt="" coords="261,1269,350,1294"/>
 <area shape="rect" href="classalbaGUIScrolledPanel.html" title="albaGUIScrolledPanel is a Panel on which is possible to add child&#45;widget." alt="" coords="607,1318,755,1343"/>
 <area shape="rect" title=" " alt="" coords="240,1318,371,1343"/>
-<area shape="rect" href="classalbaInteractionBehavior.html" title="Abstract class for ALBA interactors This class provides base interface and features of ALBA continuou..." alt="" coords="1229,901,1384,926"/>
+<area shape="rect" href="classalbaInteractionBehavior.html" title="Base class of the behaviors: a behavior is the interaction tool of a VME." alt="" coords="1229,901,1384,926"/>
 <area shape="rect" href="classalbaSceneNode.html" title="albaSceneNode is a node of albaScenegraph." alt="" coords="2229,857,2343,882"/>
 <area shape="rect" href="classvtkALBAAssembly.html" title="create hierarchies of vtkProp3Ds (transformable props) vtkALBAAssembly same as vtkAssembly,..." alt="" coords="1577,853,1707,878"/>
 <area shape="rect" href="classalbaAxes.html" title="Create 3D axes representation and insert them in the passed renderer: axes can be global (World Coord..." alt="" coords="1427,1010,1503,1035"/>
@@ -211,8 +211,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3afe35be08899f270698789e7b01840d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab7bd8641f857baff1dd0080802b738c3"><td class="memItemLeft" align="right" valign="top">virtual vtkRenderWindow *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaViewVTK.html#ab7bd8641f857baff1dd0080802b738c3">GetRenderWindow</a> ()</td></tr>
 <tr class="separator:ab7bd8641f857baff1dd0080802b738c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a18490eac1a31ddf33c50650fa7588802"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaViewVTK.html#a18490eac1a31ddf33c50650fa7588802">FindPokedVme</a> (<a class="el" href="classalbaDevice.html">albaDevice</a> *device, <a class="el" href="classalbaMatrix.html">albaMatrix</a> &amp;point_pose, vtkProp3D *&amp;picked_prop, <a class="el" href="classalbaVME.html">albaVME</a> *&amp;picked_vme, <a class="el" href="classalbaInteractionBehavior.html">albaInteractionBehavior</a> *&amp;picked_behavior)</td></tr>
-<tr class="separator:a18490eac1a31ddf33c50650fa7588802"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adeaad7ecaa64e13b65cfc47da097f1c7"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaViewVTK.html#adeaad7ecaa64e13b65cfc47da097f1c7">FindPokedVme</a> (<a class="el" href="classalbaDevice.html">albaDevice</a> *device, <a class="el" href="classalbaMatrix.html">albaMatrix</a> &amp;point_pose, <a class="el" href="classalbaVME.html">albaVME</a> *&amp;picked_vme, <a class="el" href="classalbaInteractionBehavior.html">albaInteractionBehavior</a> *&amp;picked_behavior)</td></tr>
+<tr class="separator:adeaad7ecaa64e13b65cfc47da097f1c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a24ec0e72de2be5d10dd8503eaafe2b90"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaViewVTK.html#a24ec0e72de2be5d10dd8503eaafe2b90">Pick</a> (int x, int y)</td></tr>
 <tr class="separator:a24ec0e72de2be5d10dd8503eaafe2b90"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a580546f92d5e4a9cd9dbe8596ddab690"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaViewVTK.html#a580546f92d5e4a9cd9dbe8596ddab690">Pick</a> (<a class="el" href="classalbaMatrix.html">albaMatrix</a> &amp;m)</td></tr>
@@ -270,8 +270,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a779cfd592781275dc0f3474fce1a8ea3 inherit pub_methods_classalbaView"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaa02f9a67d54359593050a0190dbb881 inherit pub_methods_classalbaView"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaView.html#aaa02f9a67d54359593050a0190dbb881">OptionsUpdate</a> ()</td></tr>
 <tr class="separator:aaa02f9a67d54359593050a0190dbb881 inherit pub_methods_classalbaView"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a16cd47dd6f81e17d80fb0ebca9e4e5fc inherit pub_methods_classalbaView"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaView.html#a16cd47dd6f81e17d80fb0ebca9e4e5fc">FindPokedVme</a> (<a class="el" href="classalbaDevice.html">albaDevice</a> *device, <a class="el" href="classalbaMatrix.html">albaMatrix</a> &amp;point_pose, vtkProp3D *&amp;picked_prop, <a class="el" href="classalbaVME.html">albaVME</a> *&amp;picked_vme, <a class="el" href="classalbaInteractionBehavior.html">albaInteractionBehavior</a> *&amp;picked_behavior)</td></tr>
-<tr class="separator:a16cd47dd6f81e17d80fb0ebca9e4e5fc inherit pub_methods_classalbaView"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7caa267e307af6380af351f591364256 inherit pub_methods_classalbaView"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaView.html#a7caa267e307af6380af351f591364256">FindPokedVme</a> (<a class="el" href="classalbaDevice.html">albaDevice</a> *device, <a class="el" href="classalbaMatrix.html">albaMatrix</a> &amp;point_pose, <a class="el" href="classalbaVME.html">albaVME</a> *&amp;picked_vme, <a class="el" href="classalbaInteractionBehavior.html">albaInteractionBehavior</a> *&amp;picked_behavior)</td></tr>
+<tr class="separator:a7caa267e307af6380af351f591364256 inherit pub_methods_classalbaView"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0d86ebe75dbc82ae07841b9f4df9d54b inherit pub_methods_classalbaView"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaView.html#a0d86ebe75dbc82ae07841b9f4df9d54b">GetNodeStatus</a> (<a class="el" href="classalbaVME.html">albaVME</a> *vme)</td></tr>
 <tr class="separator:a0d86ebe75dbc82ae07841b9f4df9d54b inherit pub_methods_classalbaView"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acf9bf874a692102136e150880e083c9d inherit pub_methods_classalbaView"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="classalbaPipe.html">albaPipe</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaView.html#acf9bf874a692102136e150880e083c9d">GetNodePipe</a> (<a class="el" href="classalbaVME.html">albaVME</a> *vme)</td></tr>
@@ -306,8 +306,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ad6ad2136262d3f887c29e36acb439b45 inherit pub_methods_classalbaView"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa73d9d1a0fe6ccea9a0cf611fe2e3ebb inherit pub_methods_classalbaView"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="classalbaVME.html">albaVME</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaView.html#aa73d9d1a0fe6ccea9a0cf611fe2e3ebb">GetPickedVme</a> ()</td></tr>
 <tr class="separator:aa73d9d1a0fe6ccea9a0cf611fe2e3ebb inherit pub_methods_classalbaView"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6a14757a701ef9258a2bf36856ad7bf6 inherit pub_methods_classalbaView"><td class="memItemLeft" align="right" valign="top">virtual vtkProp3D *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaView.html#a6a14757a701ef9258a2bf36856ad7bf6">GetPickedProp</a> ()</td></tr>
-<tr class="separator:a6a14757a701ef9258a2bf36856ad7bf6 inherit pub_methods_classalbaView"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aebf7a850f60a58fb1097d983bef7ab12 inherit pub_methods_classalbaView"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaView.html#aebf7a850f60a58fb1097d983bef7ab12">GetNumberOfVisibleVME</a> ()</td></tr>
 <tr class="separator:aebf7a850f60a58fb1097d983bef7ab12 inherit pub_methods_classalbaView"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac3617976dfe14f69706386d4df33ab74 inherit pub_methods_classalbaView"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaView.html#ac3617976dfe14f69706386d4df33ab74">Print</a> (std::ostream &amp;os, const int tabs=0)</td></tr>
@@ -428,8 +426,6 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a0153c275937a7c1290daa92659096a9b inherit pro_attribs_classalbaView"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac27381adbd380e69a8e4b15894fe3e9d inherit pro_attribs_classalbaView"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classalbaVME.html">albaVME</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaView.html#ac27381adbd380e69a8e4b15894fe3e9d">m_PickedVME</a></td></tr>
 <tr class="separator:ac27381adbd380e69a8e4b15894fe3e9d inherit pro_attribs_classalbaView"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a68d6bd42d69dfdfa8f2bb9069c5eb842 inherit pro_attribs_classalbaView"><td class="memItemLeft" align="right" valign="top">vtkProp3D *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaView.html#a68d6bd42d69dfdfa8f2bb9069c5eb842">m_PickedProp</a></td></tr>
-<tr class="separator:a68d6bd42d69dfdfa8f2bb9069c5eb842 inherit pro_attribs_classalbaView"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab356215f1fc474b17959527a9cd73606 inherit pro_attribs_classalbaView"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaView.html#ab356215f1fc474b17959527a9cd73606">m_PickedPosition</a> [3]</td></tr>
 <tr class="separator:ab356215f1fc474b17959527a9cd73606 inherit pro_attribs_classalbaView"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9173752bfc8914525aeb11c77f59e304 inherit pro_attribs_classalbaView"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaView.html#a9173752bfc8914525aeb11c77f59e304">m_NumberOfVisibleVme</a></td></tr>
@@ -1338,8 +1334,8 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a id="a18490eac1a31ddf33c50650fa7588802" name="a18490eac1a31ddf33c50650fa7588802"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a18490eac1a31ddf33c50650fa7588802">&#9670;&#160;</a></span>FindPokedVme()</h2>
+<a id="adeaad7ecaa64e13b65cfc47da097f1c7" name="adeaad7ecaa64e13b65cfc47da097f1c7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adeaad7ecaa64e13b65cfc47da097f1c7">&#9670;&#160;</a></span>FindPokedVme()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1358,12 +1354,6 @@ Additional Inherited Members</h2></td></tr>
           <td></td>
           <td class="paramtype"><a class="el" href="classalbaMatrix.html">albaMatrix</a> &amp;&#160;</td>
           <td class="paramname"><em>point_pose</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">vtkProp3D *&amp;&#160;</td>
-          <td class="paramname"><em>picked_prop</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -1393,7 +1383,7 @@ Additional Inherited Members</h2></td></tr>
 <p>Find the pocked VME at button down. </p>
 <p >As argument the function needs the device which performed the action, and provides as result pointers to piked prop, vme and its behavior if it exists. </p>
 
-<p>Reimplemented from <a class="el" href="classalbaView.html#a16cd47dd6f81e17d80fb0ebca9e4e5fc">albaView</a>.</p>
+<p>Reimplemented from <a class="el" href="classalbaView.html#a7caa267e307af6380af351f591364256">albaView</a>.</p>
 
 </div>
 </div>

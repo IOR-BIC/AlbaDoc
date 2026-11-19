@@ -29,7 +29,7 @@
 <area shape="rect" id="node11" href="$classalbaGUILab.html" title="albaGUILab is a Label that notify user&#45;click using the normal wxEvents." alt="" coords="261,1269,350,1294"/>
 <area shape="rect" id="node12" href="$classalbaGUIScrolledPanel.html" title="albaGUIScrolledPanel is a Panel on which is possible to add child&#45;widget." alt="" coords="607,1318,755,1343"/>
 <area shape="rect" id="node13" title=" " alt="" coords="240,1318,371,1343"/>
-<area shape="rect" id="node28" href="$classalbaInteractionBehavior.html" title="Abstract class for ALBA interactors This class provides base interface and features of ALBA continuou..." alt="" coords="1229,901,1384,926"/>
+<area shape="rect" id="node28" href="$classalbaInteractionBehavior.html" title="Base class of the behaviors: a behavior is the interaction tool of a VME." alt="" coords="1229,901,1384,926"/>
 <area shape="rect" id="node31" href="$classalbaSceneNode.html" title="albaSceneNode is a node of albaScenegraph." alt="" coords="2229,857,2343,882"/>
 <area shape="rect" id="node33" href="$classvtkALBAAssembly.html" title="create hierarchies of vtkProp3Ds (transformable props) vtkALBAAssembly same as vtkAssembly,..." alt="" coords="1577,853,1707,878"/>
 <area shape="rect" id="node40" href="$classalbaAxes.html" title="Create 3D axes representation and insert them in the passed renderer: axes can be global (World Coord..." alt="" coords="1427,1010,1503,1035"/>

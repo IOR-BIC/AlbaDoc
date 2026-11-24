@@ -1,28 +1,22 @@
 <map id="albaInteractionManager.h" name="albaInteractionManager.h">
-<area shape="rect" id="node1" title=" " alt="" coords="511,5,678,31"/>
-<area shape="rect" id="node2" href="$albaObject_8h.html" title=" " alt="" coords="110,372,205,397"/>
-<area shape="rect" id="node11" href="$albaObserver_8h.html" title=" " alt="" coords="239,152,347,177"/>
-<area shape="rect" id="node15" href="$albaString_8h.html" title=" " alt="" coords="493,445,584,471"/>
-<area shape="rect" id="node20" href="$albaEventSender_8h.html" title=" " alt="" coords="331,79,461,104"/>
-<area shape="rect" id="node21" href="$albaStorable_8h.html" title=" " alt="" coords="667,152,773,177"/>
-<area shape="rect" id="node22" href="$albaSmartPointer_8h.html" title=" " alt="" coords="608,445,741,471"/>
-<area shape="rect" id="node23" title=" " alt="" coords="658,79,790,104"/>
-<area shape="rect" id="node24" title=" " alt="" coords="814,79,861,104"/>
-<area shape="rect" id="node25" title=" " alt="" coords="885,79,925,104"/>
-<area shape="rect" id="node26" title=" " alt="" coords="950,79,989,104"/>
-<area shape="rect" id="node3" href="$albaDefines_8h.html" title=" " alt="" coords="246,519,346,544"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,592,64,617"/>
-<area shape="rect" id="node5" title=" " alt="" coords="498,592,563,617"/>
-<area shape="rect" id="node6" title=" " alt="" coords="88,592,155,617"/>
-<area shape="rect" id="node7" title=" " alt="" coords="179,592,237,617"/>
-<area shape="rect" id="node8" title=" " alt="" coords="261,592,331,617"/>
-<area shape="rect" id="node9" title=" " alt="" coords="634,592,745,617"/>
-<area shape="rect" id="node10" href="$albaIncludeWX_8h.html" title=" " alt="" coords="355,592,474,617"/>
-<area shape="rect" id="node12" href="$albaEvent_8h.html" title=" " alt="" coords="249,225,338,251"/>
-<area shape="rect" id="node13" href="$albaDecl_8h.html" title=" " alt="" coords="349,372,432,397"/>
-<area shape="rect" id="node19" href="$albaEventBase_8h.html" title=" " alt="" coords="331,299,450,324"/>
-<area shape="rect" id="node14" title=" " alt="" coords="246,445,338,471"/>
-<area shape="rect" id="node18" title=" " alt="" coords="363,445,419,471"/>
-<area shape="rect" id="node16" href="$albaBase_8h.html" title=" " alt="" coords="605,519,691,544"/>
-<area shape="rect" id="node17" title=" " alt="" coords="495,519,580,544"/>
+<area shape="rect" id="node1" title=" " alt="" coords="570,5,737,31"/>
+<area shape="rect" id="node2" href="$albaObject_8h.html" title=" " alt="" coords="557,372,651,397"/>
+<area shape="rect" id="node11" href="$albaObserver_8h.html" title=" " alt="" coords="499,152,607,177"/>
+<area shape="rect" id="node20" href="$albaEventSender_8h.html" title=" " alt="" coords="588,79,719,104"/>
+<area shape="rect" id="node3" href="$albaDefines_8h.html" title=" " alt="" coords="371,519,471,544"/>
+<area shape="rect" id="node4" title=" " alt="" coords="305,592,364,617"/>
+<area shape="rect" id="node5" title=" " alt="" coords="81,592,146,617"/>
+<area shape="rect" id="node6" title=" " alt="" coords="388,592,455,617"/>
+<area shape="rect" id="node7" title=" " alt="" coords="479,592,537,617"/>
+<area shape="rect" id="node8" title=" " alt="" coords="561,592,631,617"/>
+<area shape="rect" id="node9" title=" " alt="" coords="170,592,281,617"/>
+<area shape="rect" id="node10" href="$albaIncludeWX_8h.html" title=" " alt="" coords="655,592,774,617"/>
+<area shape="rect" id="node12" href="$albaEvent_8h.html" title=" " alt="" coords="509,225,598,251"/>
+<area shape="rect" id="node13" href="$albaDecl_8h.html" title=" " alt="" coords="320,372,403,397"/>
+<area shape="rect" id="node19" href="$albaEventBase_8h.html" title=" " alt="" coords="497,299,615,324"/>
+<area shape="rect" id="node14" title=" " alt="" coords="198,445,290,471"/>
+<area shape="rect" id="node15" href="$albaString_8h.html" title=" " alt="" coords="83,445,173,471"/>
+<area shape="rect" id="node18" title=" " alt="" coords="315,445,371,471"/>
+<area shape="rect" id="node16" href="$albaBase_8h.html" title=" " alt="" coords="181,519,267,544"/>
+<area shape="rect" id="node17" title=" " alt="" coords="5,519,91,544"/>
 </map>

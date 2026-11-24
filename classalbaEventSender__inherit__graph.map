@@ -1,51 +1,48 @@
 <map id="albaEventSender" name="albaEventSender">
-<area shape="rect" id="node1" title="class acting as an interface for objects using ALBA hierarchical event communication model This objec..." alt="" coords="5,589,124,615"/>
-<area shape="rect" id="node2" href="$classalbaEventBroadcaster.html" title="This class inerith form albaEventSender and extends albaEventSender with the capacity of send events ..." alt="" coords="176,540,324,565"/>
-<area shape="rect" id="node48" href="$classalbaInteractionManager.html" title="This class takes care of mastering the interaction inside views." alt="" coords="172,589,328,615"/>
-<area shape="rect" id="node49" href="$classalbaVMEStorage.html" title="A storage class for MSF local files." alt="" coords="190,639,310,664"/>
-<area shape="rect" id="node3" href="$classalbaAgent.html" title="An agent is a computational object with a default I/O interface." alt="" coords="403,220,483,245"/>
-<area shape="rect" id="node39" href="$classalbaTransformBase.html" title="Superclass for Homogeneous transformations." alt="" coords="376,540,509,565"/>
-<area shape="rect" id="node46" href="$classalbaVME.html" title="albaVME &#45;" alt="" coords="405,639,480,664"/>
-<area shape="rect" id="node4" href="$classalbaAction.html" title="Class used to route events from devices to interactors." alt="" coords="605,75,688,100"/>
-<area shape="rect" id="node5" href="$classalbaAgentEventQueue.html" title="Base class for managing event queueing and synchronized dispatching." alt="" coords="571,124,722,149"/>
-<area shape="rect" id="node12" href="$classalbaInteractionAgent.html" title="Common base class of interactors and interaction tools." alt="" coords="577,220,717,245"/>
-<area shape="rect" id="node38" href="$classalbaStaticEventRouter.html" title="Class implementing static routing from devices to interactors passing through actions." alt="" coords="571,269,722,295"/>
-<area shape="rect" id="node6" href="$classalbaAgentEventHandler.html" title="albaAgentEventHandler &#45; This class synchronizes events with wxWindows event pump." alt="" coords="793,13,949,39"/>
-<area shape="rect" id="node8" href="$classalbaAgentThreaded.html" title="An agent processing the queued events on a separate thread." alt="" coords="804,79,937,104"/>
-<area shape="rect" id="node7" href="$classalbaDeviceManager.html" title="Class managing the devices inside a ALBA application and the synchronization with wxWindows message p..." alt="" coords="1023,9,1158,35"/>
-<area shape="rect" id="node9" href="$classalbaDevice.html" title="This abstract class manages function calls coming from devices and issue specific events to interacto..." alt="" coords="1049,59,1133,84"/>
-<area shape="rect" id="node10" href="$classalbaDeviceButtonsPad.html" title="Device implementing interface for buttons." alt="" coords="1250,5,1402,31"/>
-<area shape="rect" id="node11" href="$classalbaDeviceSet.html" title="This class manages a set of usb&#45;devices, and stores a list of all child devices&#39; pointers." alt="" coords="1274,55,1378,80"/>
-<area shape="rect" id="node13" href="$classalbaAvatar.html" title="Avatars are entities moving in the virtual world according to user&#39;s movements, and thus representing..." alt="" coords="829,159,912,184"/>
-<area shape="rect" id="node16" href="$classalbaInteractionTool.html" title="Base class of the tools pushed on the stack of the PER." alt="" coords="805,449,936,475"/>
-<area shape="rect" id="node37" href="$classalbaPositionalEventRouter.html" title="Router of the input events of the devices (mouse and trackers)." alt="" coords="784,499,957,524"/>
-<area shape="rect" id="node14" href="$classalbaAvatar3D.html" title="Avatars are entities moving in the virtual world according to user&#39;s movements, and thus representing..." alt="" coords="1041,128,1140,153"/>
-<area shape="rect" id="node15" href="$classalbaAvatar3DCone.html" title="Create an avatar with a 3D Cone Simple implementation of avatar being represented in the scene as a C..." alt="" coords="1262,104,1390,129"/>
-<area shape="rect" id="node17" href="$classalbaInteractionBehavior.html" title="Base class of the behaviors: a behavior is the interaction tool of a VME." alt="" coords="1013,203,1168,228"/>
-<area shape="rect" id="node20" href="$classalbaTool2DMeasure.html" title="Base class of the tools drawing 2D measures in parallel views." alt="" coords="1023,252,1159,277"/>
-<area shape="rect" id="node25" href="$classalbaToolCamera.html" title="Tool moving the camera, always at the bottom of the tool stack of the PER." alt="" coords="1033,301,1148,327"/>
-<area shape="rect" id="node26" href="$classalbaToolCameraMouse.html" title="Tool moving the camera with the mouse." alt="" coords="1013,351,1168,376"/>
-<area shape="rect" id="node27" href="$classalbaToolCameraTracker.html" title="Tool moving the camera with a tracker: while the left button is pressed the movements of the tracker ..." alt="" coords="1011,400,1170,425"/>
-<area shape="rect" id="node28" href="$classalbaToolDICOMImporter.html" title="Tool editing the crop rectangle of the DICOM importer in the render window of its renderer." alt="" coords="1011,449,1170,475"/>
-<area shape="rect" id="node29" href="$classalbaToolExtractIsosurface.html" title="Tool picking the iso&#45;value of the extract isosurface operation in the render window of its renderer." alt="" coords="1005,499,1176,524"/>
-<area shape="rect" id="node30" href="$classalbaToolFlyTo.html" title="Tool moving the camera to the point clicked on a VME, pushed by the logic when the fly&#45;to mode starts..." alt="" coords="1039,548,1142,573"/>
-<area shape="rect" id="node31" href="$classalbaToolPicker.html" title="Tool picking a point with a click of the left button." alt="" coords="1037,597,1144,623"/>
-<area shape="rect" id="node32" href="$classalbaToolSegmentation.html" title="Base class of the tools of the segmentation operation." alt="" coords="1015,647,1166,672"/>
-<area shape="rect" id="node33" href="$classalbaToolSelect.html" title="Default actions of the clicks on the views, owned by the PER like the camera tool." alt="" coords="1037,696,1144,721"/>
-<area shape="rect" id="node34" href="$classalbaToolSelectCell.html" title="Tool picking the cells of the render window of its renderer." alt="" coords="1026,745,1155,771"/>
-<area shape="rect" id="node35" href="$classalbaToolSelectPoint.html" title="Tool picking the points of the render window of its renderer." alt="" coords="1022,795,1159,820"/>
-<area shape="rect" id="node36" href="$classalbaToolVTKPicker.html" title="Tool picking the VTK objects of the render window of its renderer." alt="" coords="1025,844,1157,869"/>
-<area shape="rect" id="node18" href="$classalbaBehaviorPicker.html" title="interactor implementing a picking operation" alt="" coords="1260,153,1392,179"/>
-<area shape="rect" id="node19" href="$classalbaBehaviorTransform.html" title="Constrained interaction with mouse device: the left button moves the VME (see OnLeftButtonDown)." alt="" coords="1250,203,1402,228"/>
-<area shape="rect" id="node21" href="$classalbaTool2DMeasureAngle.html" title=" " alt="" coords="1241,252,1411,277"/>
-<area shape="rect" id="node22" href="$classalbaTool2DMeasureAngleLine.html" title=" " alt="" coords="1229,301,1423,327"/>
-<area shape="rect" id="node23" href="$classalbaTool2DMeasureCenterPoint.html" title=" " alt="" coords="1224,351,1428,376"/>
-<area shape="rect" id="node24" href="$classalbaTool2DMeasureDistance.html" title=" " alt="" coords="1233,400,1419,425"/>
-<area shape="rect" id="node40" href="$classalbaCameraTransform.html" title="Implement transform between view coordinates to world coordinates." alt="" coords="573,441,721,467"/>
-<area shape="rect" id="node41" href="$classalbaGizmoAutoscaleHelper.html" title="Helper object for gizmo autoscaling ie actor2D&#45;like behavior." alt="" coords="557,491,736,516"/>
-<area shape="rect" id="node42" href="$classalbaMatrixPipe.html" title="bridge class between albaTransform pipeline and VME to compute VME output matrix." alt="" coords="593,540,701,565"/>
-<area shape="rect" id="node44" href="$classalbaTransform.html" title="albaTransform &#45; class for homogeneous transformations." alt="" coords="595,589,698,615"/>
-<area shape="rect" id="node45" href="$classalbaTransformFrame.html" title="albaTransformFrame &#45; class for multi frame homogeneous transformations." alt="" coords="577,639,717,664"/>
-<area shape="rect" id="node43" href="$classalbaAbsMatrixPipe.html" title="albaAbsMatrixPipe &#45; this class implements VME tree direct cinematic (AbsMatrix)." alt="" coords="805,548,936,573"/>
-<area shape="rect" id="node47" href="$classalbaVMERoot.html" title="albaVMERoot &#45; a VME is the root of a tree of VME nodes." alt="" coords="595,688,698,713"/>
+<area shape="rect" id="node1" title="class acting as an interface for objects using ALBA hierarchical event communication model This objec..." alt="" coords="5,721,124,747"/>
+<area shape="rect" id="node2" href="$classalbaEventBroadcaster.html" title="This class inerith form albaEventSender and extends albaEventSender with the capacity of send events ..." alt="" coords="176,672,324,697"/>
+<area shape="rect" id="node45" href="$classalbaInteractionManager.html" title="Owner of the interaction inside the views: it creates the PER (positional event router) and registers..." alt="" coords="172,721,328,747"/>
+<area shape="rect" id="node46" href="$classalbaVMEStorage.html" title="A storage class for MSF local files." alt="" coords="190,771,310,796"/>
+<area shape="rect" id="node3" href="$classalbaAgent.html" title="An agent is a computational object with a default I/O interface." alt="" coords="403,585,483,611"/>
+<area shape="rect" id="node37" href="$classalbaTransformBase.html" title="Superclass for Homogeneous transformations." alt="" coords="376,672,509,697"/>
+<area shape="rect" id="node43" href="$classalbaVME.html" title="albaVME &#45;" alt="" coords="405,745,480,771"/>
+<area shape="rect" id="node4" href="$classalbaInteractionAgent.html" title="Common base class of interactors and interaction tools." alt="" coords="577,548,717,573"/>
+<area shape="rect" id="node5" href="$classalbaInteractionTool.html" title="Base class of the tools pushed on the stack of the PER." alt="" coords="805,524,936,549"/>
+<area shape="rect" id="node36" href="$classalbaPositionalEventRouter.html" title="Router of the mouse events of the render windows." alt="" coords="784,573,957,599"/>
+<area shape="rect" id="node6" href="$classalbaInteractionBehavior.html" title="Base class of the behaviors: a behavior is the interaction tool of a VME." alt="" coords="1013,55,1168,80"/>
+<area shape="rect" id="node12" href="$classalbaTool2DMeasure.html" title="Base class of the tools drawing 2D measures in parallel views." alt="" coords="1023,301,1159,327"/>
+<area shape="rect" id="node24" href="$classalbaToolCamera.html" title="Tool moving the camera with the mouse." alt="" coords="1033,351,1148,376"/>
+<area shape="rect" id="node25" href="$classalbaToolDICOMImporter.html" title="Tool editing the crop rectangle of the DICOM importer in the render window of its renderer." alt="" coords="1011,400,1170,425"/>
+<area shape="rect" id="node26" href="$classalbaToolExtractIsosurface.html" title="Tool picking the iso&#45;value of the extract isosurface operation in the render window of its renderer." alt="" coords="1005,449,1176,475"/>
+<area shape="rect" id="node27" href="$classalbaToolFlyTo.html" title="Tool moving the camera to the point clicked on a VME, pushed by the logic when the fly&#45;to mode starts..." alt="" coords="1039,499,1142,524"/>
+<area shape="rect" id="node28" href="$classalbaToolPicker.html" title="Tool picking a point with a click of the left button." alt="" coords="1037,548,1144,573"/>
+<area shape="rect" id="node29" href="$classalbaToolSegmentation.html" title="Base class of the tools of the segmentation operation." alt="" coords="1015,597,1166,623"/>
+<area shape="rect" id="node32" href="$classalbaToolSelect.html" title="Default actions of the clicks on the views, owned by the PER like the camera tool." alt="" coords="1037,647,1144,672"/>
+<area shape="rect" id="node33" href="$classalbaToolSelectCell.html" title="Tool picking the cells of the render window of its renderer." alt="" coords="1026,696,1155,721"/>
+<area shape="rect" id="node34" href="$classalbaToolSelectPoint.html" title="Tool picking the points of the render window of its renderer." alt="" coords="1022,745,1159,771"/>
+<area shape="rect" id="node35" href="$classalbaToolVTKPicker.html" title="Tool picking the VTK objects of the render window of its renderer." alt="" coords="1025,795,1157,820"/>
+<area shape="rect" id="node7" href="$classalbaBehaviorPicker.html" title="interactor implementing a picking operation" alt="" coords="1263,5,1395,31"/>
+<area shape="rect" id="node8" href="$classalbaBehaviorTransform.html" title="Constrained interaction with mouse device: the left button moves the VME (see OnLeftButtonDown)." alt="" coords="1253,55,1405,80"/>
+<area shape="rect" id="node9" href="$classalbaBehaviorRotateTranslate.html" title="Behavior moving a VME with the mouse: left button rotates, middle button translates,..." alt="" coords="1483,55,1670,80"/>
+<area shape="rect" id="node10" href="$classalbaBehaviorCutPlane.html" title="Behavior of the cut plane of the surface operations (clip, split, boolean, labelize): the left button..." alt="" coords="1723,31,1871,56"/>
+<area shape="rect" id="node11" href="$classalbaBehaviorProsthesis.html" title="Behavior moving the prosthesis: the left button rotates freely around the pivot (SetRefSysVME),..." alt="" coords="1719,80,1876,105"/>
+<area shape="rect" id="node13" href="$classalbaTool2DMeasureAngle.html" title=" " alt="" coords="1245,104,1414,129"/>
+<area shape="rect" id="node14" href="$classalbaTool2DMeasureAngleLine.html" title=" " alt="" coords="1233,153,1426,179"/>
+<area shape="rect" id="node15" href="$classalbaTool2DMeasureCenterPoint.html" title=" " alt="" coords="1227,203,1431,228"/>
+<area shape="rect" id="node16" href="$classalbaTool2DMeasureDistance.html" title=" " alt="" coords="1236,252,1423,277"/>
+<area shape="rect" id="node18" href="$classalbaTool2DMeasureEllipse.html" title=" " alt="" coords="1242,301,1417,327"/>
+<area shape="rect" id="node19" href="$classalbaTool2DMeasureLine.html" title=" " alt="" coords="1249,351,1409,376"/>
+<area shape="rect" id="node20" href="$classalbaTool2DMeasureLineDistance.html" title=" " alt="" coords="1224,400,1435,425"/>
+<area shape="rect" id="node21" href="$classalbaTool2DMeasureMidPoint.html" title=" " alt="" coords="1236,449,1423,475"/>
+<area shape="rect" id="node22" href="$classalbaTool2DMeasurePoint.html" title=" " alt="" coords="1246,499,1413,524"/>
+<area shape="rect" id="node23" href="$classalbaTool2DMeasureTemplate.html" title=" " alt="" coords="1235,548,1424,573"/>
+<area shape="rect" id="node17" href="$classalbaTool2DMeasureSegment.html" title=" " alt="" coords="1483,252,1671,277"/>
+<area shape="rect" id="node30" href="$classalbaToolSegmentationEdit.html" title="Tool of the editing of the segmentation." alt="" coords="1243,597,1416,623"/>
+<area shape="rect" id="node31" href="$classalbaToolSegmentationThreshold.html" title="Tool of the threshold initialization of the segmentation." alt="" coords="1226,647,1433,672"/>
+<area shape="rect" id="node38" href="$classalbaGizmoAutoscaleHelper.html" title="Helper object for gizmo autoscaling ie actor2D&#45;like behavior." alt="" coords="557,597,736,623"/>
+<area shape="rect" id="node39" href="$classalbaMatrixPipe.html" title="bridge class between albaTransform pipeline and VME to compute VME output matrix." alt="" coords="593,647,701,672"/>
+<area shape="rect" id="node41" href="$classalbaTransform.html" title="albaTransform &#45; class for homogeneous transformations." alt="" coords="595,696,698,721"/>
+<area shape="rect" id="node42" href="$classalbaTransformFrame.html" title="albaTransformFrame &#45; class for multi frame homogeneous transformations." alt="" coords="577,745,717,771"/>
+<area shape="rect" id="node40" href="$classalbaAbsMatrixPipe.html" title="albaAbsMatrixPipe &#45; this class implements VME tree direct cinematic (AbsMatrix)." alt="" coords="805,647,936,672"/>
+<area shape="rect" id="node44" href="$classalbaVMERoot.html" title="albaVMERoot &#45; a VME is the root of a tree of VME nodes." alt="" coords="595,795,698,820"/>
 </map>

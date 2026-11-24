@@ -87,10 +87,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a89d57b5c9d520b330d313196bc9e229a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a65c1a46fe7ab16dc88eba949c651a2d6"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a65c1a46fe7ab16dc88eba949c651a2d6">ExpandVME</a> (<a class="el" href="classalbaVME.html">albaVME</a> *vme)=0</td></tr>
 <tr class="separator:a65c1a46fe7ab16dc88eba949c651a2d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6709bcef31f61e776ea3b4c43d44d0d8"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a6709bcef31f61e776ea3b4c43d44d0d8">OpShowGui</a> (bool push_gui, <a class="el" href="classalbaGUIPanel.html">albaGUIPanel</a> *panel)=0</td></tr>
-<tr class="separator:a6709bcef31f61e776ea3b4c43d44d0d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a805160ddf945b22803c43f32f59f2044"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a805160ddf945b22803c43f32f59f2044">OpHideGui</a> (bool view_closed)=0</td></tr>
-<tr class="separator:a805160ddf945b22803c43f32f59f2044"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e46cb28ada8817db14d5aa379efe478"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a8e46cb28ada8817db14d5aa379efe478">OpShowGui</a> (<a class="el" href="classalbaGUIPanel.html">albaGUIPanel</a> *panel)=0</td></tr>
+<tr class="separator:a8e46cb28ada8817db14d5aa379efe478"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6df7dd05ddff257f88da165fcacb522b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a6df7dd05ddff257f88da165fcacb522b">OpHideGui</a> ()=0</td></tr>
+<tr class="separator:a6df7dd05ddff257f88da165fcacb522b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae3956cda1fdfe4c0838a4b951d86338a"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#ae3956cda1fdfe4c0838a4b951d86338a">ViewSelect</a> (<a class="el" href="classalbaView.html">albaView</a> *view)=0</td></tr>
 <tr class="separator:ae3956cda1fdfe4c0838a4b951d86338a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7aa81708ac0fad9f9266c5c9b6cd5721"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a7aa81708ac0fad9f9266c5c9b6cd5721">ViewDeleted</a> (<a class="el" href="classalbaView.html">albaView</a> *view)=0</td></tr>
@@ -418,8 +418,8 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a6709bcef31f61e776ea3b4c43d44d0d8" name="a6709bcef31f61e776ea3b4c43d44d0d8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6709bcef31f61e776ea3b4c43d44d0d8">&#9670;&#160;</a></span>OpShowGui()</h2>
+<a id="a8e46cb28ada8817db14d5aa379efe478" name="a8e46cb28ada8817db14d5aa379efe478"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e46cb28ada8817db14d5aa379efe478">&#9670;&#160;</a></span>OpShowGui()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -430,19 +430,9 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">virtual void albaAbsSideBar::OpShowGui </td>
           <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>push_gui</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
           <td class="paramtype"><a class="el" href="classalbaGUIPanel.html">albaGUIPanel</a> *&#160;</td>
-          <td class="paramname"><em>panel</em>&#160;</td>
-        </tr>
-        <tr>
+          <td class="paramname"><em>panel</em></td><td>)</td>
           <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -454,12 +444,12 @@ Public Member Functions</h2></td></tr>
 
 <p>Show the operation's parameters gui on the tabbed panel. </p>
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#a12ef7a44b125e1c4776e703365cb8dfb">albaSideBar</a>.</p>
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a588261f28b82156d04a022b8ef27bcc3">albaSideBar</a>.</p>
 
 </div>
 </div>
-<a id="a805160ddf945b22803c43f32f59f2044" name="a805160ddf945b22803c43f32f59f2044"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a805160ddf945b22803c43f32f59f2044">&#9670;&#160;</a></span>OpHideGui()</h2>
+<a id="a6df7dd05ddff257f88da165fcacb522b" name="a6df7dd05ddff257f88da165fcacb522b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6df7dd05ddff257f88da165fcacb522b">&#9670;&#160;</a></span>OpHideGui()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -470,8 +460,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">virtual void albaAbsSideBar::OpHideGui </td>
           <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>view_closed</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -482,9 +471,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Hide the view/operation's gui from the tabbed panel. </p>
+<p>Hide the operation's gui from the tabbed panel. </p>
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#a0f39a09ef2e3dc56039913ac6875343e">albaSideBar</a>.</p>
+<p>Implemented in <a class="el" href="classalbaSideBar.html#a69914bacabde77a5d5b1bfa2ce118d63">albaSideBar</a>.</p>
 
 </div>
 </div>
@@ -717,9 +706,8 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<ul>
-<li>Respond to a VME_CHOOSE evt. Build a dialog containing the vme tree and return the vme choosed from the user. </li>
-</ul>
+
+<p>Build a dialog containing the vme tree and return the vmes chosen by the user (used by the logic ChooseVME/ChooseVMEs). </p>
 
 <p>Implemented in <a class="el" href="classalbaSideBar.html#a36678fbc5ab60b95c240826b3213fe7e">albaSideBar</a>.</p>
 

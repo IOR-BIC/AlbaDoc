@@ -1,4 +1,5 @@
 <map id="albaWizard" name="albaWizard">
-<area shape="rect" id="node1" title="Class Name: albaWizard." alt="" coords="11,93,97,119"/>
+<area shape="rect" id="node1" title="Class Name: albaWizard." alt="" coords="11,168,97,193"/>
 <area shape="rect" id="node2" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="5,5,103,31"/>
+<area shape="rect" id="node3" href="$classalbaWizardManager.html" title="Class Name: albaWizardManager." alt="" coords="148,80,285,105"/>
 </map>

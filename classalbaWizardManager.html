@@ -83,6 +83,22 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a0372660204a132cc4a9906d6664a4991"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2f86f69968559885342d701e9edf82f4"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizardManager.html#a2f86f69968559885342d701e9edf82f4">OnEvent</a> (<a class="el" href="classalbaEventBase.html">albaEventBase</a> *alba_event)</td></tr>
 <tr class="separator:a2f86f69968559885342d701e9edf82f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a407b0c437b2fe8ad404e8f51651343b6"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizardManager.html#a407b0c437b2fe8ad404e8f51651343b6">WizzardStop</a> ()</td></tr>
+<tr class="separator:a407b0c437b2fe8ad404e8f51651343b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48c87474e5eb86ec954610e11ad82cd2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizardManager.html#a48c87474e5eb86ec954610e11ad82cd2">WizardSwitch</a> (wxString wizardName)</td></tr>
+<tr class="separator:a48c87474e5eb86ec954610e11ad82cd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a497e3047dadced22b542420e949f8542"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizardManager.html#a497e3047dadced22b542420e949f8542">RunOp</a> (const char *op)</td></tr>
+<tr class="separator:a497e3047dadced22b542420e949f8542"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0d554900688ffde3544aaa6547dbacac"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizardManager.html#a0d554900688ffde3544aaa6547dbacac">GetShowInformationBoxes</a> ()</td></tr>
+<tr class="separator:a0d554900688ffde3544aaa6547dbacac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff72425827f2fed1d017b1b971c8c696"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizardManager.html#aff72425827f2fed1d017b1b971c8c696">SetShowInformationBoxes</a> (bool show)</td></tr>
+<tr class="separator:aff72425827f2fed1d017b1b971c8c696"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6c4904a03e040f2c82446cf666a5c28"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizardManager.html#ab6c4904a03e040f2c82446cf666a5c28">SetProgressGauge</a> (wxGauge *gauge, wxStaticText *label)</td></tr>
+<tr class="separator:ab6c4904a03e040f2c82446cf666a5c28"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72230609e51e800149d5fc111ba36457"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizardManager.html#a72230609e51e800149d5fc111ba36457">ShowProgress</a> (bool show)</td></tr>
+<tr class="separator:a72230609e51e800149d5fc111ba36457"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af616d1a834892ea610e0615652da455e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizardManager.html#af616d1a834892ea610e0615652da455e">SetProgress</a> (int progress)</td></tr>
+<tr class="separator:af616d1a834892ea610e0615652da455e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
 Friends</h2></td></tr>
@@ -166,6 +182,183 @@ Friends</h2></td></tr>
 
 </div>
 </div>
+<a id="a407b0c437b2fe8ad404e8f51651343b6" name="a407b0c437b2fe8ad404e8f51651343b6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a407b0c437b2fe8ad404e8f51651343b6">&#9670;&#160;</a></span>WizzardStop()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void albaWizardManager::WizzardStop </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Stops the execution of the wizard: called by the running wizard when it ends. </p>
+
+</div>
+</div>
+<a id="a48c87474e5eb86ec954610e11ad82cd2" name="a48c87474e5eb86ec954610e11ad82cd2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a48c87474e5eb86ec954610e11ad82cd2">&#9670;&#160;</a></span>WizardSwitch()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void albaWizardManager::WizardSwitch </td>
+          <td>(</td>
+          <td class="paramtype">wxString&#160;</td>
+          <td class="paramname"><em>wizardName</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Run the wizard with the given name in place of the running one (the running one stops if there is none): called by the running wizard. </p>
+
+</div>
+</div>
+<a id="a497e3047dadced22b542420e949f8542" name="a497e3047dadced22b542420e949f8542"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a497e3047dadced22b542420e949f8542">&#9670;&#160;</a></span>RunOp()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void albaWizardManager::RunOp </td>
+          <td>(</td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>op</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Run an operation required by a block of the running wizard, managing the special ones (PAUSE, SAVE, OPEN, ...) </p>
+
+</div>
+</div>
+<a id="a0d554900688ffde3544aaa6547dbacac" name="a0d554900688ffde3544aaa6547dbacac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0d554900688ffde3544aaa6547dbacac">&#9670;&#160;</a></span>GetShowInformationBoxes()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool albaWizardManager::GetShowInformationBoxes </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Return true if the information boxes of the wizards are shown (settings) </p>
+
+</div>
+</div>
+<a id="aff72425827f2fed1d017b1b971c8c696" name="aff72425827f2fed1d017b1b971c8c696"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff72425827f2fed1d017b1b971c8c696">&#9670;&#160;</a></span>SetShowInformationBoxes()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void albaWizardManager::SetShowInformationBoxes </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>show</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set if the information boxes of the wizards are shown (settings) </p>
+
+</div>
+</div>
+<a id="ab6c4904a03e040f2c82446cf666a5c28" name="ab6c4904a03e040f2c82446cf666a5c28"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab6c4904a03e040f2c82446cf666a5c28">&#9670;&#160;</a></span>SetProgressGauge()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void albaWizardManager::SetProgressGauge </td>
+          <td>(</td>
+          <td class="paramtype">wxGauge *&#160;</td>
+          <td class="paramname"><em>gauge</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">wxStaticText *&#160;</td>
+          <td class="paramname"><em>label</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set the gauge and the label that show the progress of the wizards: the logic sets them when it creates them. </p>
+<p >Without them (e.g. in the tests) the progress is not shown </p>
+
+</div>
+</div>
+<a id="a72230609e51e800149d5fc111ba36457" name="a72230609e51e800149d5fc111ba36457"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a72230609e51e800149d5fc111ba36457">&#9670;&#160;</a></span>ShowProgress()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void albaWizardManager::ShowProgress </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>show</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Enable the progress gauge of the wizards, or disable and reset it. </p>
+
+</div>
+</div>
+<a id="af616d1a834892ea610e0615652da455e" name="af616d1a834892ea610e0615652da455e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af616d1a834892ea610e0615652da455e">&#9670;&#160;</a></span>SetProgress()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void albaWizardManager::SetProgress </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>progress</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set the value of the progress gauge of the wizards. </p>
+
+</div>
+</div>
 <h2 class="groupheader">Friends And Related Function Documentation</h2>
 <a id="a5024bf669b01aa39d7ec0e2727432f28" name="a5024bf669b01aa39d7ec0e2727432f28"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5024bf669b01aa39d7ec0e2727432f28">&#9670;&#160;</a></span>albaLogicWithManagers</h2>
@@ -187,7 +380,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaWizardManager_8h_source.html#l00132">132</a> of file <a class="el" href="albaWizardManager_8h_source.html">albaWizardManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaWizardManager_8h_source.html#l00152">152</a> of file <a class="el" href="albaWizardManager_8h_source.html">albaWizardManager.h</a>.</p>
 
 </div>
 </div>
@@ -211,7 +404,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaWizardManager_8h_source.html#l00133">133</a> of file <a class="el" href="albaWizardManager_8h_source.html">albaWizardManager.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaWizardManager_8h_source.html#l00153">153</a> of file <a class="el" href="albaWizardManager_8h_source.html">albaWizardManager.h</a>.</p>
 
 </div>
 </div>

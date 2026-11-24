@@ -1,6 +1,7 @@
 <map id="albaViewManager" name="albaViewManager">
-<area shape="rect" id="node1" title="An implementation of albaViewManager with [D]ynamic view [C]reation feature." alt="" coords="40,152,164,177"/>
+<area shape="rect" id="node1" title="An implementation of albaViewManager with [D]ynamic view [C]reation feature." alt="" coords="111,152,235,177"/>
 <area shape="rect" id="node2" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="5,5,103,31"/>
 <area shape="rect" id="node3" href="$classalbaGUISettings.html" title="class name: albaGUISettings base class for more complex specified classes regarding the setting of ap..." alt="" coords="44,79,160,104"/>
 <area shape="rect" id="node4" title=" " alt="" coords="184,79,305,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="330,79,477,104"/>
 </map>

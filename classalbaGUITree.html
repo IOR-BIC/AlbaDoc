@@ -64,7 +64,7 @@ Inheritance diagram for albaGUITree:</div>
 <div class="center"><img src="classalbaGUITree__inherit__graph.png" border="0" usemap="#aalbaGUITree_inherit__map" alt="Inheritance graph"/></div>
 <map name="aalbaGUITree_inherit__map" id="aalbaGUITree_inherit__map">
 <area shape="rect" title=" " alt="" coords="107,225,201,251"/>
-<area shape="rect" href="classalbaGUICheckTree.html" title="class Name : albaGUICheckTree." alt="" coords="89,299,219,324"/>
+<area shape="rect" href="classalbaGUIVMETree.html" title="class Name : albaGUIVMETree." alt="" coords="93,299,215,324"/>
 <area shape="rect" href="classalbaGUINamedPanel.html" title="Class Name: albaGUINamedPanel." alt="" coords="5,152,148,177"/>
 <area shape="rect" href="classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="26,79,127,104"/>
 <area shape="rect" title=" " alt="" coords="41,5,112,31"/>
@@ -123,6 +123,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a12aa4a854f32f3180b5997499b7ba2d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5b55a8120bf8898a9e7e0166448c543f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUITree.html#a5b55a8120bf8898a9e7e0166448c543f">SelectNode</a> (long long node_id)</td></tr>
 <tr class="separator:a5b55a8120bf8898a9e7e0166448c543f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae277e7867ec4a63403d3e06629bc09c1"><td class="memItemLeft" align="right" valign="top">long long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUITree.html#ae277e7867ec4a63403d3e06629bc09c1">GetSelectedNode</a> ()</td></tr>
+<tr class="separator:ae277e7867ec4a63403d3e06629bc09c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2adbef96acb14e604cbced7088d7fae0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUITree.html#a2adbef96acb14e604cbced7088d7fae0">SetImageList</a> (wxImageList *img)</td></tr>
 <tr class="separator:a2adbef96acb14e604cbced7088d7fae0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abe11ecbe3351ad780bbef5027f244f10"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaGUITree.html#abe11ecbe3351ad780bbef5027f244f10">SortChildren</a> (long long node_id=0)</td></tr>
@@ -576,6 +578,25 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="ae277e7867ec4a63403d3e06629bc09c1" name="ae277e7867ec4a63403d3e06629bc09c1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae277e7867ec4a63403d3e06629bc09c1">&#9670;&#160;</a></span>GetSelectedNode()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">long long albaGUITree::GetSelectedNode </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Return the selected node, 0 if none. </p>
+
+</div>
+</div>
 <a id="a2adbef96acb14e604cbced7088d7fae0" name="a2adbef96acb14e604cbced7088d7fae0"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a2adbef96acb14e604cbced7088d7fae0">&#9670;&#160;</a></span>SetImageList()</h2>
 
@@ -644,7 +665,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>if autosort is on - the tree is always kept sorted </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00201">201</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00204">204</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
 
 </div>
 </div>
@@ -673,7 +694,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Get the autosort flag. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00204">204</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00207">207</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
 
 </div>
 </div>
@@ -762,7 +783,7 @@ Additional Inherited Members</h2></td></tr>
 <p>Set the Listener that will receive event-notification, the Listener can be changed any time <br  />
  </p>
 
-<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00215">215</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00218">218</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
 
 </div>
 </div>
@@ -830,7 +851,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00223">223</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00226">226</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
 
 </div>
 </div>
@@ -857,7 +878,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00224">224</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00227">227</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
 
 </div>
 </div>
@@ -905,9 +926,9 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Private function that notify the Listener of node selection and deselection. </p>
+<p>Notify the Listener of the selection change, sending the tree id. </p>
 
-<p>Reimplemented in <a class="el" href="classalbaGUIVMEChooserTree.html#ab80913e8dec211cb9e06f1e8bd677558">albaGUIVMEChooserTree</a>, and <a class="el" href="classalbaGUICheckTree.html#a6d6101e7f617a14e2b01946fc1d64c56">albaGUICheckTree</a>.</p>
+<p>Reimplemented in <a class="el" href="classalbaGUIVMEChooserTree.html#ab80913e8dec211cb9e06f1e8bd677558">albaGUIVMEChooserTree</a>, and <a class="el" href="classalbaGUIVMETree.html#a26dc607e9e0a24723c963bfcee12444b">albaGUIVMETree</a>.</p>
 
 </div>
 </div>
@@ -1056,7 +1077,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00245">245</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00248">248</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
 
 </div>
 </div>
@@ -1081,7 +1102,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00247">247</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00250">250</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
 
 </div>
 </div>
@@ -1105,7 +1126,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00248">248</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00251">251</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
 
 </div>
 </div>
@@ -1129,7 +1150,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00249">249</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00252">252</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
 
 </div>
 </div>
@@ -1153,9 +1174,9 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00250">250</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00253">253</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="albaGUICheckTree_8h_source.html#l00088">albaGUICheckTree::GetTree()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="albaGUIVMETree_8h_source.html#l00088">albaGUIVMETree::GetTree()</a>.</p>
 
 </div>
 </div>
@@ -1179,7 +1200,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00251">251</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00254">254</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
 
 </div>
 </div>
@@ -1203,7 +1224,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00252">252</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00255">255</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
 
 </div>
 </div>
@@ -1227,7 +1248,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00253">253</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaGUITree_8h_source.html#l00256">256</a> of file <a class="el" href="albaGUITree_8h_source.html">albaGUITree.h</a>.</p>
 
 </div>
 </div>

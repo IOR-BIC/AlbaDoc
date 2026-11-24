@@ -72,8 +72,9 @@ Collaboration diagram for albaWizard:</div>
 <div class="dyncontent">
 <div class="center"><img src="classalbaWizard__coll__graph.png" border="0" usemap="#aalbaWizard_coll__map" alt="Collaboration graph"/></div>
 <map name="aalbaWizard_coll__map" id="aalbaWizard_coll__map">
-<area shape="rect" title="Class Name: albaWizard." alt="" coords="11,93,97,119"/>
+<area shape="rect" title="Class Name: albaWizard." alt="" coords="11,168,97,193"/>
 <area shape="rect" href="classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="5,5,103,31"/>
+<area shape="rect" href="classalbaWizardManager.html" title="Class Name: albaWizardManager." alt="" coords="148,80,285,105"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -99,6 +100,12 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:afa44459f5ddae7615d4107b5375a4deb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7424e9dd9c760966fab888bae27fb92f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizard.html#a7424e9dd9c760966fab888bae27fb92f">GetShowProgressBar</a> ()</td></tr>
 <tr class="separator:a7424e9dd9c760966fab888bae27fb92f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5c549b775f1b3c5b42a0c7cec6078863"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classalbaWizardManager.html">albaWizardManager</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizard.html#a5c549b775f1b3c5b42a0c7cec6078863">GetManager</a> ()</td></tr>
+<tr class="separator:a5c549b775f1b3c5b42a0c7cec6078863"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a12d2754d8bd273b0e64318721e939d0b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizard.html#a12d2754d8bd273b0e64318721e939d0b">ShowProgress</a> (bool show)</td></tr>
+<tr class="separator:a12d2754d8bd273b0e64318721e939d0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0eeda52900901002540130d9f0e2f3cc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizard.html#a0eeda52900901002540130d9f0e2f3cc">SetProgress</a> (int progress)</td></tr>
+<tr class="separator:a0eeda52900901002540130d9f0e2f3cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
@@ -127,6 +134,8 @@ Protected Member Functions</h2></td></tr>
 Protected Attributes</h2></td></tr>
 <tr class="memitem:a92bd61783281bd814b60ce48a86f03f8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classalbaObserver.html">albaObserver</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizard.html#a92bd61783281bd814b60ce48a86f03f8">m_Listener</a></td></tr>
 <tr class="separator:a92bd61783281bd814b60ce48a86f03f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf2f694b703d21cdd1ccfb766413fcad"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classalbaWizardManager.html">albaWizardManager</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaWizard.html#adf2f694b703d21cdd1ccfb766413fcad">m_Manager</a></td></tr>
+<tr class="separator:adf2f694b703d21cdd1ccfb766413fcad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
 Friends</h2></td></tr>
@@ -137,7 +146,7 @@ Friends</h2></td></tr>
 <div class="textblock"><p >Class Name: <a class="el" href="classalbaWizard.html" title="Class Name: albaWizard.">albaWizard</a>. </p>
 <p >Class for wizard creation each wizard must extend this block </p>
 
-<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00045">45</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00048">48</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a552c14a1c567fdaf753144f0c79e0198" name="a552c14a1c567fdaf753144f0c79e0198"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a552c14a1c567fdaf753144f0c79e0198">&#9670;&#160;</a></span>albaWizard() <span class="overload">[1/2]</span></h2>
@@ -311,7 +320,7 @@ Friends</h2></td></tr>
 
 <p>Initialize wizard's variables according to the parameter's list. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00072">72</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00075">75</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
 
 </div>
 </div>
@@ -341,7 +350,7 @@ Friends</h2></td></tr>
 
 <p>Enable/disable the visualization of the progress bar during the wizard. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00075">75</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00078">78</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
 
 </div>
 </div>
@@ -370,7 +379,76 @@ Friends</h2></td></tr>
 
 <p>Return true if progress bar show is enabled. </p>
 
-<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00078">78</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00081">81</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
+
+</div>
+</div>
+<a id="a5c549b775f1b3c5b42a0c7cec6078863" name="a5c549b775f1b3c5b42a0c7cec6078863"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5c549b775f1b3c5b42a0c7cec6078863">&#9670;&#160;</a></span>GetManager()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classalbaWizardManager.html">albaWizardManager</a> * albaWizard::GetManager </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Return the manager of the wizard, set by albaWizardManager::WizardAdd (NULL if none) </p>
+
+<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00084">84</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
+
+</div>
+</div>
+<a id="a12d2754d8bd273b0e64318721e939d0b" name="a12d2754d8bd273b0e64318721e939d0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a12d2754d8bd273b0e64318721e939d0b">&#9670;&#160;</a></span>ShowProgress()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void albaWizard::ShowProgress </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>show</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Enable the progress gauge of the manager, or disable and reset it (nothing without a manager) </p>
+
+</div>
+</div>
+<a id="a0eeda52900901002540130d9f0e2f3cc" name="a0eeda52900901002540130d9f0e2f3cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0eeda52900901002540130d9f0e2f3cc">&#9670;&#160;</a></span>SetProgress()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void albaWizard::SetProgress </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>progress</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Set the value of the progress gauge of the manager (nothing without a manager) </p>
 
 </div>
 </div>
@@ -674,7 +752,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00139">139</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00152">152</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
 
 </div>
 </div>
@@ -699,7 +777,31 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00112">112</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00124">124</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
+
+</div>
+</div>
+<a id="adf2f694b703d21cdd1ccfb766413fcad" name="adf2f694b703d21cdd1ccfb766413fcad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf2f694b703d21cdd1ccfb766413fcad">&#9670;&#160;</a></span>m_Manager</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classalbaWizardManager.html">albaWizardManager</a>* albaWizard::m_Manager</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="albaWizard_8h_source.html#l00125">125</a> of file <a class="el" href="albaWizard_8h_source.html">albaWizard.h</a>.</p>
 
 </div>
 </div>

@@ -380,7 +380,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Destroy all nodes (also the root), for each destroyed node the manager send an event VME_REMOVING, then search the root and select it. </p>
+<p>Destroy all nodes (also the root), for each destroyed node the manager send VmeRemoving to the logic, then search the root and select it. </p>
 
 </div>
 </div>
@@ -669,7 +669,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Send the event VME_REMOVING to inform logic that the vme and its subtree are removed from the tree. </p>
+<p>Tell the logic that the vme and its subtree are removed from the tree (VmeRemoving). </p>
 
 </div>
 </div>
@@ -689,7 +689,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Send the event VME_ADDED to inform logic that the vme and its subtree are added to the tree. </p>
+<p>Tell the logic that the vme and its subtree are added to the tree (VmeAdded). </p>
 
 </div>
 </div>

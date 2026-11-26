@@ -240,7 +240,7 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Local" value="classalbaAbsSideBar.html#abab10ebf173c1da54641ed4addc979b8"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="IsShown"><param name="Local" value="classalbaAbsSideBar.html#a1ba099690f9602876749ba84258836dd"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Local" value="classalbaAbsSideBar.html#a57c78b04e80d795e3b01c409ad2ce792"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeChoose"><param name="Local" value="classalbaAbsSideBar.html#abd3de5ce15c6dca33506a8ae73975d9d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeChoose"><param name="Local" value="classalbaAbsSideBar.html#a68050e87bfdd3c39a7b26150c58b9993"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="FindVME"><param name="Local" value="classalbaAbsSideBar.html#a48a02f799602f0e65a9ffe2e2d3dd3a3"><param name="ImageNumber" value="11"></OBJECT>
       </UL>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="albaActor2dStackHelper"><param name="Local" value="classalbaActor2dStackHelper.html"><param name="ImageNumber" value="1"></OBJECT>
@@ -3151,7 +3151,6 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="Update"><param name="Local" value="classalbaGUIFrame.html#a84e1f643c92ee8bd8455baa29b5b9a2e"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMenu"><param name="Local" value="classalbaGUIFrame.html#a3db66dc3c6247996b46a08fdc1802544"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMenuOp"><param name="Local" value="classalbaGUIFrame.html#a7a98b2684171ba6102043f092e104fe2"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnUpdateUI"><param name="Local" value="classalbaGUIFrame.html#afae88db581c0d4c3392080080a716e98"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnCloseWindow"><param name="Local" value="classalbaGUIFrame.html#a19df645323e9e5be91ca630baf09f727"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnSize"><param name="Local" value="classalbaGUIFrame.html#a5540140e2bbc9f4583a2259175c3eafe"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnSashDrag"><param name="Local" value="classalbaGUIFrame.html#a5cc080227c5ac5b84f770b6d777a318e"><param name="ImageNumber" value="11"></OBJECT>
@@ -3176,7 +3175,6 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaGUIHistogramWidget"><param name="Local" value="classalbaGUIHistogramWidget.html#a5c8b961a7224708155a71025c383cd4f"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="SetListener"><param name="Local" value="classalbaGUIHistogramWidget.html#a93b6902b89ff70f694f5169f064ef960"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEvent"><param name="Local" value="classalbaGUIHistogramWidget.html#ac8065a0243e698f9356bcc48c5f25d96"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="ALBA_ID_DEC"><param name="Local" value="classalbaGUIHistogramWidget.html#a1a50e60aa16d1f81aef7e4cc4d7c6405"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="SetHistogramData"><param name="Local" value="classalbaGUIHistogramWidget.html#a513c90e10b88543930c46eb5027aa513"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="SetData"><param name="Local" value="classalbaGUIHistogramWidget.html#ab22d6a41e77d8e5542c4fe44fa0a60a6"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="LogarithmicScale"><param name="Local" value="classalbaGUIHistogramWidget.html#a2d2db92a683b7de169d01bcb12028b74"><param name="ImageNumber" value="11"></OBJECT>
@@ -3662,7 +3660,6 @@
       <UL>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIMDIChild"><param name="Local" value="classalbaGUIMDIChild.html#aa3987d38550d3eb2ac0db56bd19fbdcb"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaGUIMDIChild"><param name="Local" value="classalbaGUIMDIChild.html#a8ae2ab8b59ee0176639f73aff7348c53"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="SetListener"><param name="Local" value="classalbaGUIMDIChild.html#a89776aeebb5f87cc5b8514a31eebf3d6"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnQuit"><param name="Local" value="classalbaGUIMDIChild.html#aa405b7028e94421df86e8d46fdc83060"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="SetAllowCloseWindow"><param name="Local" value="classalbaGUIMDIChild.html#a688f54dcafd819f1b94e286b66d79829"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="EnableResize"><param name="Local" value="classalbaGUIMDIChild.html#a1c1873cfc6d81e38089cd66c592a61c6"><param name="ImageNumber" value="11"></OBJECT>
@@ -3672,7 +3669,6 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnActivate"><param name="Local" value="classalbaGUIMDIChild.html#a73297db7888691add051f3b420ef9bc7"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Win"><param name="Local" value="classalbaGUIMDIChild.html#a660f3f963c71a6795e9823637a0907d4"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_View"><param name="Local" value="classalbaGUIMDIChild.html#abeae7da28236ba2717c26b35859a8550"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Listener"><param name="Local" value="classalbaGUIMDIChild.html#ac68cd9d11870588c653115898230480e"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Quitting"><param name="Local" value="classalbaGUIMDIChild.html#a5821d40384a48f1b13085596afbd7bc0"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_AllowCloseFlag"><param name="Local" value="classalbaGUIMDIChild.html#a7d316bdaff911b4e3a6a3177045cb474"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_EnableResize"><param name="Local" value="classalbaGUIMDIChild.html#a5f051682b1eb3259c8c56972be8d9406"><param name="ImageNumber" value="11"></OBJECT>
@@ -3702,7 +3698,6 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMenu"><param name="Local" value="classalbaGUIMDIFrame.html#a87cc2b73a29774056d20c49cb0214f8d"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMenuOp"><param name="Local" value="classalbaGUIMDIFrame.html#a8447295cf515dc934ab3b2706b6194fa"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMenuView"><param name="Local" value="classalbaGUIMDIFrame.html#a862cfd8497b15c3808450b744d77fed0"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnUpdateUI"><param name="Local" value="classalbaGUIMDIFrame.html#a6406002846f1cb7caa3056b88b634cc4"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnCloseWindow"><param name="Local" value="classalbaGUIMDIFrame.html#a0eb701fc30927691c73384f8196d4064"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnSashDrag"><param name="Local" value="classalbaGUIMDIFrame.html#a83c8985956c7f06a678c8a02666558f6"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnLayout"><param name="Local" value="classalbaGUIMDIFrame.html#aba712f8ac9f300b2949e8983b61eea85"><param name="ImageNumber" value="11"></OBJECT>
@@ -4220,18 +4215,17 @@
       </UL>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIVMEChooser"><param name="Local" value="classalbaGUIVMEChooser.html"><param name="ImageNumber" value="1"></OBJECT>
       <UL>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIVMEChooser"><param name="Local" value="classalbaGUIVMEChooser.html#a843d8055235fe58b590e627d1b062c1e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIVMEChooser"><param name="Local" value="classalbaGUIVMEChooser.html#a3bf5f9d06c5158ecb5fd9379d4df6ca2"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaGUIVMEChooser"><param name="Local" value="classalbaGUIVMEChooser.html#aab5d474fb1286bd8733bde407d046745"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowChooserDialog"><param name="Local" value="classalbaGUIVMEChooser.html#a860f1703038361ce26dace2c0005dfd8"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEvent"><param name="Local" value="classalbaGUIVMEChooser.html#a752dc573f549dd3b6c1253c08b263439"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="LoadLayout"><param name="Local" value="classalbaGUIVMEChooser.html#a1476628e0eb01ba5ed6bddcb4cc7f3ad"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="SaveLayout"><param name="Local" value="classalbaGUIVMEChooser.html#ad293c45c49a4813816f5d8dcd5bfef21"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ChooserTree"><param name="Local" value="classalbaGUIVMEChooser.html#aaeaf2d23e121a8d612868717bdad6054"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ValidateCallback"><param name="Local" value="classalbaGUIVMEChooser.html#a5dbaf6791df717102c0126b37b096142"><param name="ImageNumber" value="11"></OBJECT>
       </UL>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIVMEChooserTree"><param name="Local" value="classalbaGUIVMEChooserTree.html"><param name="ImageNumber" value="1"></OBJECT>
       <UL>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIVMEChooserTree"><param name="Local" value="classalbaGUIVMEChooserTree.html#af25a5c137c4758aa6458c12222380ca3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIVMEChooserTree"><param name="Local" value="classalbaGUIVMEChooserTree.html#afc03078d95d7827335ea629f7b669822"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaGUIVMEChooserTree"><param name="Local" value="classalbaGUIVMEChooserTree.html#ae18df1a869362d35679a5f5168b35af6"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="GetChoosedNode"><param name="Local" value="classalbaGUIVMEChooserTree.html#a33c397dd1d9e8e75ffc5bb9f6d186e05"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnIconClick"><param name="Local" value="classalbaGUIVMEChooserTree.html#ad095ade6404b8291a02f9f8a78c32c4a"><param name="ImageNumber" value="11"></OBJECT>
@@ -4241,7 +4235,7 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="CloneSubTree"><param name="Local" value="classalbaGUIVMEChooserTree.html#a9d1d9883672e6506e34053d1d06ce8f6"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowContextualMenu"><param name="Local" value="classalbaGUIVMEChooserTree.html#a864942527c4ac417a77a890c54108c74"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnSelectionChanged"><param name="Local" value="classalbaGUIVMEChooserTree.html#ab80913e8dec211cb9e06f1e8bd677558"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ValidateFunction"><param name="Local" value="classalbaGUIVMEChooserTree.html#ac526b6669ff8dad3a9c9ddfe152c2f5e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ValidateFunction"><param name="Local" value="classalbaGUIVMEChooserTree.html#ac78f99753615f1af48626cce01dc7052"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ChoosedNode"><param name="Local" value="classalbaGUIVMEChooserTree.html#a051a0d2b5c2f1b73097fc23d2ab8591d"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ChooserTreeStyle"><param name="Local" value="classalbaGUIVMEChooserTree.html#a3a97a09905739a33239023cdae351e7c"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_CheckedNode"><param name="Local" value="classalbaGUIVMEChooserTree.html#a17440a05551cd61c50b76d0fe54d00d0"><param name="ImageNumber" value="11"></OBJECT>
@@ -4801,7 +4795,6 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="GetCitationPaper"><param name="Local" value="classalbaLogicWithManagers.html#ac589f574a1d70b6bba602ffe062b6584"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="SetCitationPaper"><param name="Local" value="classalbaLogicWithManagers.html#a60dc93331c85aac32a97effe3949e0a4"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="SelectView"><param name="Local" value="classalbaLogicWithManagers.html#ab5e4b5bfcbec28fc6e0ef4abfd558fa5"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="GetSelectedView"><param name="Local" value="classalbaLogicWithManagers.html#a3cbe2896d69d96df9d85b474d845d3fe"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="IsTimeVaringEnabled"><param name="Local" value="classalbaLogicWithManagers.html#a6962f1d004b4960bba77af78ad31f399"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateTimeBounds"><param name="Local" value="classalbaLogicWithManagers.html#aba22fe04d12c1cf3fabb504dbc2b5115"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="TimeSet"><param name="Local" value="classalbaLogicWithManagers.html#a8323b3c856f1897cc7f7d69a416c90df"><param name="ImageNumber" value="11"></OBJECT>
@@ -4839,7 +4832,7 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeRemoving"><param name="Local" value="classalbaLogicWithManagers.html#ac2bae3e2475cef68ef7a57cb35e02bf3"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeRemoved"><param name="Local" value="classalbaLogicWithManagers.html#a34dca7ecf79cb43b660388c1235ce9be"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeVisualModeChanged"><param name="Local" value="classalbaLogicWithManagers.html#a775d8dfd2dd5fc39065a27838ff197b4"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseVME"><param name="Local" value="classalbaLogicWithManagers.html#a7ba7b6d007ed59baa2e5067dc913de6a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseVME"><param name="Local" value="classalbaLogicWithManagers.html#afa168516501009d027bf0fd8a1f293a9"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OpRunStarting"><param name="Local" value="classalbaLogicWithManagers.html#a67c193fe5bc42ec8238ba058f59c872e"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OpRunTerminated"><param name="Local" value="classalbaLogicWithManagers.html#af0916be23aef15aca4ff2547ee8d8786"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OpShowGui"><param name="Local" value="classalbaLogicWithManagers.html#a8f62e53f34a34ca015878e4cc67cb631"><param name="ImageNumber" value="11"></OBJECT>
@@ -4848,7 +4841,7 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewDeleted"><param name="Local" value="classalbaLogicWithManagers.html#a78f2679a6aaa2c15e704549da4803144"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="TileViewFrames"><param name="Local" value="classalbaLogicWithManagers.html#a8731b049ada6c764edff8027ef7c2949"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="CascadeViewFrames"><param name="Local" value="classalbaLogicWithManagers.html#abe6ad28c1bec9f8377f73836b0d217e5"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseVMEs"><param name="Local" value="classalbaLogicWithManagers.html#a7ffb0b2e14283f0ed9527b7a30ba529b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseVMEs"><param name="Local" value="classalbaLogicWithManagers.html#afc5077d7a9cab2b4c88b1130c75024d1"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowTreeContextualMenu"><param name="Local" value="classalbaLogicWithManagers.html#a80cf7c62d029766c94c1db6c53555e09"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowViewContextualMenu"><param name="Local" value="classalbaLogicWithManagers.html#a2bb454dc6ee0deb217e565015b928bf2"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewCreate"><param name="Local" value="classalbaLogicWithManagers.html#aa9eb2c95251dc7e9fa38206ca8c1be9a"><param name="ImageNumber" value="11"></OBJECT>
@@ -4885,7 +4878,6 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_UseInteractionManager"><param name="Local" value="classalbaLogicWithManagers.html#a4a3b1a8521c3c54344e27c1c18e9198f"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_UseHelpManager"><param name="Local" value="classalbaLogicWithManagers.html#a1d05051c38f261a9d62bd86ba4590d01"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_UseSnapshotManager"><param name="Local" value="classalbaLogicWithManagers.html#aa759a0afdb69aac6ac9a58d8e6d70938"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SelectedView"><param name="Local" value="classalbaLogicWithManagers.html#a79b35d5620f3ec25b536dfe97cbe931a"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SettingsDialog"><param name="Local" value="classalbaLogicWithManagers.html#ac11366098e88a7ff567a841d26494818"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_AboutDialog"><param name="Local" value="classalbaLogicWithManagers.html#a2664056a209d0b3436c1ceb1a638d696"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_AlbaBuildNum"><param name="Local" value="classalbaLogicWithManagers.html#a91e500b4da167a67a0ca24cd003c88de"><param name="ImageNumber" value="11"></OBJECT>
@@ -5368,7 +5360,6 @@
       <UL>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="albaOpManager"><param name="Local" value="classalbaOpManager.html#af163828d1ae79dd269272621e14e8fe8"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaOpManager"><param name="Local" value="classalbaOpManager.html#abf9eef081cc72c5683e00e85eb3c11ce"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="SetListener"><param name="Local" value="classalbaOpManager.html#a89e2a030ce74352e0e41139fbf1d9ced"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEvent"><param name="Local" value="classalbaOpManager.html#a7b5e042bf9a36bfdd81ddac9f8b0041d"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OpAdd"><param name="Local" value="classalbaOpManager.html#a740ac4cc57557a1da9166e2136c815de"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="FillMenu"><param name="Local" value="classalbaOpManager.html#a0f25c4d8fd1e621c9983e4b7e1c97af3"><param name="ImageNumber" value="11"></OBJECT>
@@ -5442,7 +5433,6 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MenuBar"><param name="Local" value="classalbaOpManager.html#ab00f4a38640c91b2839e85599302f8b6"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ToolBar"><param name="Local" value="classalbaOpManager.html#a1d72fdf22ebd6834fe1d3e35cfe93324"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_BuildNum"><param name="Local" value="classalbaOpManager.html#adc53e961123e08c5168b81656d6b28d3"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Listener"><param name="Local" value="classalbaOpManager.html#a880fdfa7a72e610377400dc761df4e96"><param name="ImageNumber" value="11"></OBJECT>
       </UL>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="albaOpPaste"><param name="Local" value="classalbaOpPaste.html"><param name="ImageNumber" value="1"></OBJECT>
       <UL>
@@ -6395,7 +6385,7 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Local" value="classalbaSideBar.html#a826ac5d0c16d547446a5177475e572bf"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="IsShown"><param name="Local" value="classalbaSideBar.html#abca508c0302814fa8d19f0cfa7d8bb7c"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Local" value="classalbaSideBar.html#a7ba15c4f866a728e83fcbd7934174530"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeChoose"><param name="Local" value="classalbaSideBar.html#a36678fbc5ab60b95c240826b3213fe7e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeChoose"><param name="Local" value="classalbaSideBar.html#ac7205be2cbaf53a50a3828c6184b354b"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="FindVME"><param name="Local" value="classalbaSideBar.html#a40a3d4656327bdcbd7a6ee397f76d3d3"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateVmePanel"><param name="Local" value="classalbaSideBar.html#ae4b6a623fecd7903bd174d7c83b2b9aa"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Notebook"><param name="Local" value="classalbaSideBar.html#a55f0bc361f5ea5587730373428cde614"><param name="ImageNumber" value="11"></OBJECT>
@@ -8121,7 +8111,6 @@
       <UL>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewManager"><param name="Local" value="classalbaViewManager.html#a7344dd432336ebeb020333c6dba94978"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaViewManager"><param name="Local" value="classalbaViewManager.html#a000c1d4255e54f957f3604b1008d4ad5"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="SetListener"><param name="Local" value="classalbaViewManager.html#a8287b431fef3c859654c1909e460be85"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEvent"><param name="Local" value="classalbaViewManager.html#a8e6b1baa374787b7e25ee6a6c9391ccf"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="FillMenu"><param name="Local" value="classalbaViewManager.html#a7af1cd6be9ecd7026be47f6b55d59edf"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="IsVisibleInMenu"><param name="Local" value="classalbaViewManager.html#a80eb816a644f4362479a74d51c1fe989"><param name="ImageNumber" value="11"></OBJECT>
@@ -8147,7 +8136,7 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="EnableCameraUpdateSkip"><param name="Local" value="classalbaViewManager.html#ac4a4b1769ca9c108deb9554e952ca73e"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="DisableCameraUpdateSkip"><param name="Local" value="classalbaViewManager.html#ac1b4b3674137b1c43317c321d192a921"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyUpdate"><param name="Local" value="classalbaViewManager.html#ad5bc5d93d7656fddfe9d05784eb6e6f5"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="GetSelectedView"><param name="Local" value="classalbaViewManager.html#ad40aa78a05a63b2cc5b6fd52c78b57c4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GetSelectedView"><param name="Local" value="classalbaViewManager.html#abe12ce89e4660ed5bf9968bcfadead70"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="GetCurrentRoot"><param name="Local" value="classalbaViewManager.html#adb8e267d653a3498cd24c00465531668"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="GetList"><param name="Local" value="classalbaViewManager.html#a7565dfe37a793953485339f9e2a88125"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFromOpenedViews"><param name="Local" value="classalbaViewManager.html#a737c5d153072a9c4f433100df242ebf0"><param name="ImageNumber" value="11"></OBJECT>
@@ -8163,7 +8152,6 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ViewList"><param name="Local" value="classalbaViewManager.html#a7df164aafbb8be1d9048d52591a41074"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ViewTemplate"><param name="Local" value="classalbaViewManager.html#acb495a698fe1072e5549e5f91f189acb"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TemplateNum"><param name="Local" value="classalbaViewManager.html#a666c8465d12e8c9f6d2bf37ae7b721e5"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Listener"><param name="Local" value="classalbaViewManager.html#a1157ec4a3a0e45e9fd0583558c712d08"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_RootVme"><param name="Local" value="classalbaViewManager.html#ab351eec04b7ac71ae051d6bb2007e9c5"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SelectedVme"><param name="Local" value="classalbaViewManager.html#a44c922dd785fe337767c9de992df12f4"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SelectedView"><param name="Local" value="classalbaViewManager.html#a6b25f9a40d22102113a1b074c4f1a8d0"><param name="ImageNumber" value="11"></OBJECT>
@@ -8529,7 +8517,6 @@
       <UL>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="albaVMEManager"><param name="Local" value="classalbaVMEManager.html#a6ae0cfd6f13033832f1f01da2e1b898b"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaVMEManager"><param name="Local" value="classalbaVMEManager.html#afb0227be48ba16bfb3b9b7a5bba1f226"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="SetListener"><param name="Local" value="classalbaVMEManager.html#aa3396fadbf3538d017d705a19739c2ef"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEvent"><param name="Local" value="classalbaVMEManager.html#aaba74db4e0b27abeb27ceff583971bbe"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="MSFNew"><param name="Local" value="classalbaVMEManager.html#a2c434857e15e6f26404b7f99f0772ca2"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="MSFOpen"><param name="Local" value="classalbaVMEManager.html#a97754495d47bd3a61b83c8159b7ae41f"><param name="ImageNumber" value="11"></OBJECT>
@@ -8558,7 +8545,6 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="SetApplicationStamp"><param name="Local" value="classalbaVMEManager.html#a65539dea76747d527128c6b0236c1f49"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="MakeBakFileOnSave"><param name="Local" value="classalbaVMEManager.html#a15b4bbe74fb47c6b9010e4a2296b7d8e"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveTempDirectory"><param name="Local" value="classalbaVMEManager.html#a7a6b522a9968bbf0704ae8182a30ed34"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="SetSingleBinaryFile"><param name="Local" value="classalbaVMEManager.html#a003dc2ef0cd440848a7da20563c4d988"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="SetTestMode"><param name="Local" value="classalbaVMEManager.html#a991d9d132ad9bc6d78a945c40dae4ae0"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="IgnoreAppStamp"><param name="Local" value="classalbaVMEManager.html#a411ad9bcc51cafc628eca578d484a6b5"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="MakeZip"><param name="Local" value="classalbaVMEManager.html#abded14825b670a4833e743d3001eb952"><param name="ImageNumber" value="11"></OBJECT>
@@ -8566,7 +8552,6 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="CheckFileUpdated"><param name="Local" value="classalbaVMEManager.html#a8cb420dd65ebf3d74968a72cbd3a2f4b"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="albaVMEManagerTest"><param name="Local" value="classalbaVMEManager.html#a44077b82f0b70cdf0980cc96d8976f6a"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Modified"><param name="Local" value="classalbaVMEManager.html#a3851f0505ca7f3320cefd35f0db9ca95"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Listener"><param name="Local" value="classalbaVMEManager.html#af6692b90c1f6a341f829cd0061e24ee3"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Config"><param name="Local" value="classalbaVMEManager.html#af125de1c13589bad23cf49ae429d231e"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ZipHandler"><param name="Local" value="classalbaVMEManager.html#ac26819c68bee4611a31bd297446fa252"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_FileSystem"><param name="Local" value="classalbaVMEManager.html#aeb11a793cacb588c3f31644ba86d28c4"><param name="ImageNumber" value="11"></OBJECT>
@@ -8581,7 +8566,6 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MsfFileExtension"><param name="Local" value="classalbaVMEManager.html#a1826c16580929d58403d568fb05a73b1"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_LoadingFlag"><param name="Local" value="classalbaVMEManager.html#a3d628efdccb2a58857120728699134a9"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Crypting"><param name="Local" value="classalbaVMEManager.html#adf9ee1324505a6c1439ad190392ffbaf"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SingleBinaryFile"><param name="Local" value="classalbaVMEManager.html#ac10221c6dfc00018e1ff4504c7cffbbb"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Storage"><param name="Local" value="classalbaVMEManager.html#a5d5f6e0fe9a93d053c6c520a19a985b4"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TestMode"><param name="Local" value="classalbaVMEManager.html#a01a69ccf8e28a23d4fb003e755402ac7"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_IgnoreAppStamp"><param name="Local" value="classalbaVMEManager.html#a56459fb55ad99246968aa85dd01ecbe8"><param name="ImageNumber" value="11"></OBJECT>
@@ -8882,7 +8866,7 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAcceptedVME"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#a9b5606998d41443cc4104d647fd21d68"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeParentSelect"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#a68f273dbe922b7e28df6a6e0e24149ce"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="ExcutionBegin"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#a818934bdac9d0461eb0196d451322fa3"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="VMEAccept"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#a6863a0669ea294ea33096608eea33d24"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="VMEAccept"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#abe74d8490561af33ae6cc9f23776b8cd"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_AcceptedVME"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#af842fb930c39e4ee6dfb44a920508875"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Title"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#a293f4419dd47f192f40b91c45f342737"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Description"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#a8a98c9e5625f8fd4c49524cb5fb6d6ee"><param name="ImageNumber" value="11"></OBJECT>
@@ -8897,7 +8881,7 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="SetAcceptedVME"><param name="Local" value="classalbaWizardBlockVMESelection.html#a6c3b6382dd876444873d4fe6e2b641c9"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAcceptedVME"><param name="Local" value="classalbaWizardBlockVMESelection.html#ad0c1336584110320b461f2438a20e117"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="ExcutionBegin"><param name="Local" value="classalbaWizardBlockVMESelection.html#af5f135f6cd13ab5b57b1f40cd1a57f53"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="VMEAccept"><param name="Local" value="classalbaWizardBlockVMESelection.html#a3b4168ed44bda3fccd6e0de7a4a017f3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="VMEAccept"><param name="Local" value="classalbaWizardBlockVMESelection.html#ad399b30405b4206d1148b304b8d81d12"><param name="ImageNumber" value="11"></OBJECT>
       </UL>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="albaWizardBlockYesNoSelection"><param name="Local" value="classalbaWizardBlockYesNoSelection.html"><param name="ImageNumber" value="1"></OBJECT>
       <UL>
@@ -10905,7 +10889,6 @@
             <LI><OBJECT type="text/sitemap"><param name="Name" value="REGISTER_PRODUCT"><param name="Local" value="albaDecl_8h.html#a7e67d10ed5275b66886fb682262151d5"><param name="ImageNumber" value="11"></OBJECT>
             <LI><OBJECT type="text/sitemap"><param name="Name" value="GENERATE_LICENCE"><param name="Local" value="albaDecl_8h.html#ac0f2a1c07dafc097216c5c44be4e114c"><param name="ImageNumber" value="11"></OBJECT>
             <LI><OBJECT type="text/sitemap"><param name="Name" value="HELP_HOME"><param name="Local" value="albaDecl_8h.html#a5aa3da01d8e00fc9c2560356afa6dbc7"><param name="ImageNumber" value="11"></OBJECT>
-            <LI><OBJECT type="text/sitemap"><param name="Name" value="UPDATE_UI"><param name="Local" value="albaDecl_8h.html#a895a8f0a81e4281efa1c8412354b9f35"><param name="ImageNumber" value="11"></OBJECT>
             <LI><OBJECT type="text/sitemap"><param name="Name" value="VME_SELECTED"><param name="Local" value="albaDecl_8h.html#af2d356df2961f47f4434e22135ca7a58"><param name="ImageNumber" value="11"></OBJECT>
             <LI><OBJECT type="text/sitemap"><param name="Name" value="VME_PICKED"><param name="Local" value="albaDecl_8h.html#a5e1a43563a77210ba315d1d8b0e54877"><param name="ImageNumber" value="11"></OBJECT>
             <LI><OBJECT type="text/sitemap"><param name="Name" value="VME_PICKING"><param name="Local" value="albaDecl_8h.html#a184376e6e7c004425f5ac9c45ff33c98"><param name="ImageNumber" value="11"></OBJECT>
@@ -13085,7 +13068,7 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAcceptedVME"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#a9b5606998d41443cc4104d647fd21d68"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeParentSelect"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#a68f273dbe922b7e28df6a6e0e24149ce"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="ExcutionBegin"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#a818934bdac9d0461eb0196d451322fa3"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="VMEAccept"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#a6863a0669ea294ea33096608eea33d24"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="VMEAccept"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#abe74d8490561af33ae6cc9f23776b8cd"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_AcceptedVME"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#af842fb930c39e4ee6dfb44a920508875"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Title"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#a293f4419dd47f192f40b91c45f342737"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Description"><param name="Local" value="classalbaWizardBlockVMEFindOrSelection.html#a8a98c9e5625f8fd4c49524cb5fb6d6ee"><param name="ImageNumber" value="11"></OBJECT>
@@ -13103,7 +13086,7 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="SetAcceptedVME"><param name="Local" value="classalbaWizardBlockVMESelection.html#a6c3b6382dd876444873d4fe6e2b641c9"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAcceptedVME"><param name="Local" value="classalbaWizardBlockVMESelection.html#ad0c1336584110320b461f2438a20e117"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="ExcutionBegin"><param name="Local" value="classalbaWizardBlockVMESelection.html#af5f135f6cd13ab5b57b1f40cd1a57f53"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="VMEAccept"><param name="Local" value="classalbaWizardBlockVMESelection.html#a3b4168ed44bda3fccd6e0de7a4a017f3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="VMEAccept"><param name="Local" value="classalbaWizardBlockVMESelection.html#ad399b30405b4206d1148b304b8d81d12"><param name="ImageNumber" value="11"></OBJECT>
               </UL>
             </UL>
           <LI><OBJECT type="text/sitemap"><param name="Name" value="albaWizardBlockYesNoSelection.h"><param name="Local" value="albaWizardBlockYesNoSelection_8h.html"><param name="ImageNumber" value="1"></OBJECT>
@@ -13508,21 +13491,20 @@
             <UL>
             <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIVMEChooser"><param name="Local" value="classalbaGUIVMEChooser.html"><param name="ImageNumber" value="1"></OBJECT>
               <UL>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIVMEChooser"><param name="Local" value="classalbaGUIVMEChooser.html#a843d8055235fe58b590e627d1b062c1e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIVMEChooser"><param name="Local" value="classalbaGUIVMEChooser.html#a3bf5f9d06c5158ecb5fd9379d4df6ca2"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaGUIVMEChooser"><param name="Local" value="classalbaGUIVMEChooser.html#aab5d474fb1286bd8733bde407d046745"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowChooserDialog"><param name="Local" value="classalbaGUIVMEChooser.html#a860f1703038361ce26dace2c0005dfd8"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEvent"><param name="Local" value="classalbaGUIVMEChooser.html#a752dc573f549dd3b6c1253c08b263439"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="LoadLayout"><param name="Local" value="classalbaGUIVMEChooser.html#a1476628e0eb01ba5ed6bddcb4cc7f3ad"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="SaveLayout"><param name="Local" value="classalbaGUIVMEChooser.html#ad293c45c49a4813816f5d8dcd5bfef21"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ChooserTree"><param name="Local" value="classalbaGUIVMEChooser.html#aaeaf2d23e121a8d612868717bdad6054"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ValidateCallback"><param name="Local" value="classalbaGUIVMEChooser.html#a5dbaf6791df717102c0126b37b096142"><param name="ImageNumber" value="11"></OBJECT>
               </UL>
             </UL>
           <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIVMEChooserTree.h"><param name="Local" value="albaGUIVMEChooserTree_8h.html"><param name="ImageNumber" value="1"></OBJECT>
             <UL>
             <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIVMEChooserTree"><param name="Local" value="classalbaGUIVMEChooserTree.html"><param name="ImageNumber" value="1"></OBJECT>
               <UL>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIVMEChooserTree"><param name="Local" value="classalbaGUIVMEChooserTree.html#af25a5c137c4758aa6458c12222380ca3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIVMEChooserTree"><param name="Local" value="classalbaGUIVMEChooserTree.html#afc03078d95d7827335ea629f7b669822"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaGUIVMEChooserTree"><param name="Local" value="classalbaGUIVMEChooserTree.html#ae18df1a869362d35679a5f5168b35af6"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="GetChoosedNode"><param name="Local" value="classalbaGUIVMEChooserTree.html#a33c397dd1d9e8e75ffc5bb9f6d186e05"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnIconClick"><param name="Local" value="classalbaGUIVMEChooserTree.html#ad095ade6404b8291a02f9f8a78c32c4a"><param name="ImageNumber" value="11"></OBJECT>
@@ -13532,13 +13514,12 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="CloneSubTree"><param name="Local" value="classalbaGUIVMEChooserTree.html#a9d1d9883672e6506e34053d1d06ce8f6"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowContextualMenu"><param name="Local" value="classalbaGUIVMEChooserTree.html#a864942527c4ac417a77a890c54108c74"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnSelectionChanged"><param name="Local" value="classalbaGUIVMEChooserTree.html#ab80913e8dec211cb9e06f1e8bd677558"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ValidateFunction"><param name="Local" value="classalbaGUIVMEChooserTree.html#ac526b6669ff8dad3a9c9ddfe152c2f5e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ValidateFunction"><param name="Local" value="classalbaGUIVMEChooserTree.html#ac78f99753615f1af48626cce01dc7052"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ChoosedNode"><param name="Local" value="classalbaGUIVMEChooserTree.html#a051a0d2b5c2f1b73097fc23d2ab8591d"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ChooserTreeStyle"><param name="Local" value="classalbaGUIVMEChooserTree.html#a3a97a09905739a33239023cdae351e7c"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_CheckedNode"><param name="Local" value="classalbaGUIVMEChooserTree.html#a17440a05551cd61c50b76d0fe54d00d0"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MultipleSelection"><param name="Local" value="classalbaGUIVMEChooserTree.html#a190cb674ea39339b374acac3db92b36f"><param name="ImageNumber" value="11"></OBJECT>
               </UL>
-            <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidateCallBackType"><param name="Local" value="albaGUIVMEChooserTree_8h.html#a3f188c61849246a223db6baf71869631"><param name="ImageNumber" value="11"></OBJECT>
             <LI><OBJECT type="text/sitemap"><param name="Name" value="VME_CHOOSER_STYLES"><param name="Local" value="albaGUIVMEChooserTree_8h.html#a212f8280e7bc79ce741aaf92f3c9b5a9"><param name="ImageNumber" value="1"></OBJECT>
               <UL>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="REPRESENTATION_AS_TREE"><param name="Local" value="albaGUIVMEChooserTree_8h.html#a212f8280e7bc79ce741aaf92f3c9b5a9a2017fde0ae55cd3f162d88d24d46ca9f"><param name="ImageNumber" value="11"></OBJECT>
@@ -13611,7 +13592,6 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="GetCitationPaper"><param name="Local" value="classalbaLogicWithManagers.html#ac589f574a1d70b6bba602ffe062b6584"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="SetCitationPaper"><param name="Local" value="classalbaLogicWithManagers.html#a60dc93331c85aac32a97effe3949e0a4"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="SelectView"><param name="Local" value="classalbaLogicWithManagers.html#ab5e4b5bfcbec28fc6e0ef4abfd558fa5"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="GetSelectedView"><param name="Local" value="classalbaLogicWithManagers.html#a3cbe2896d69d96df9d85b474d845d3fe"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="IsTimeVaringEnabled"><param name="Local" value="classalbaLogicWithManagers.html#a6962f1d004b4960bba77af78ad31f399"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateTimeBounds"><param name="Local" value="classalbaLogicWithManagers.html#aba22fe04d12c1cf3fabb504dbc2b5115"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="TimeSet"><param name="Local" value="classalbaLogicWithManagers.html#a8323b3c856f1897cc7f7d69a416c90df"><param name="ImageNumber" value="11"></OBJECT>
@@ -13649,7 +13629,7 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeRemoving"><param name="Local" value="classalbaLogicWithManagers.html#ac2bae3e2475cef68ef7a57cb35e02bf3"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeRemoved"><param name="Local" value="classalbaLogicWithManagers.html#a34dca7ecf79cb43b660388c1235ce9be"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeVisualModeChanged"><param name="Local" value="classalbaLogicWithManagers.html#a775d8dfd2dd5fc39065a27838ff197b4"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseVME"><param name="Local" value="classalbaLogicWithManagers.html#a7ba7b6d007ed59baa2e5067dc913de6a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseVME"><param name="Local" value="classalbaLogicWithManagers.html#afa168516501009d027bf0fd8a1f293a9"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OpRunStarting"><param name="Local" value="classalbaLogicWithManagers.html#a67c193fe5bc42ec8238ba058f59c872e"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OpRunTerminated"><param name="Local" value="classalbaLogicWithManagers.html#af0916be23aef15aca4ff2547ee8d8786"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OpShowGui"><param name="Local" value="classalbaLogicWithManagers.html#a8f62e53f34a34ca015878e4cc67cb631"><param name="ImageNumber" value="11"></OBJECT>
@@ -13658,7 +13638,7 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewDeleted"><param name="Local" value="classalbaLogicWithManagers.html#a78f2679a6aaa2c15e704549da4803144"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="TileViewFrames"><param name="Local" value="classalbaLogicWithManagers.html#a8731b049ada6c764edff8027ef7c2949"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="CascadeViewFrames"><param name="Local" value="classalbaLogicWithManagers.html#abe6ad28c1bec9f8377f73836b0d217e5"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseVMEs"><param name="Local" value="classalbaLogicWithManagers.html#a7ffb0b2e14283f0ed9527b7a30ba529b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseVMEs"><param name="Local" value="classalbaLogicWithManagers.html#afc5077d7a9cab2b4c88b1130c75024d1"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowTreeContextualMenu"><param name="Local" value="classalbaLogicWithManagers.html#a80cf7c62d029766c94c1db6c53555e09"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowViewContextualMenu"><param name="Local" value="classalbaLogicWithManagers.html#a2bb454dc6ee0deb217e565015b928bf2"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewCreate"><param name="Local" value="classalbaLogicWithManagers.html#aa9eb2c95251dc7e9fa38206ca8c1be9a"><param name="ImageNumber" value="11"></OBJECT>
@@ -13695,7 +13675,6 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_UseInteractionManager"><param name="Local" value="classalbaLogicWithManagers.html#a4a3b1a8521c3c54344e27c1c18e9198f"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_UseHelpManager"><param name="Local" value="classalbaLogicWithManagers.html#a1d05051c38f261a9d62bd86ba4590d01"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_UseSnapshotManager"><param name="Local" value="classalbaLogicWithManagers.html#aa759a0afdb69aac6ac9a58d8e6d70938"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SelectedView"><param name="Local" value="classalbaLogicWithManagers.html#a79b35d5620f3ec25b536dfe97cbe931a"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SettingsDialog"><param name="Local" value="classalbaLogicWithManagers.html#ac11366098e88a7ff567a841d26494818"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_AboutDialog"><param name="Local" value="classalbaLogicWithManagers.html#a2664056a209d0b3436c1ceb1a638d696"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_AlbaBuildNum"><param name="Local" value="classalbaLogicWithManagers.html#a91e500b4da167a67a0ca24cd003c88de"><param name="ImageNumber" value="11"></OBJECT>
@@ -13867,7 +13846,6 @@
               <UL>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="albaOpManager"><param name="Local" value="classalbaOpManager.html#af163828d1ae79dd269272621e14e8fe8"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaOpManager"><param name="Local" value="classalbaOpManager.html#abf9eef081cc72c5683e00e85eb3c11ce"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="SetListener"><param name="Local" value="classalbaOpManager.html#a89e2a030ce74352e0e41139fbf1d9ced"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEvent"><param name="Local" value="classalbaOpManager.html#a7b5e042bf9a36bfdd81ddac9f8b0041d"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OpAdd"><param name="Local" value="classalbaOpManager.html#a740ac4cc57557a1da9166e2136c815de"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="FillMenu"><param name="Local" value="classalbaOpManager.html#a0f25c4d8fd1e621c9983e4b7e1c97af3"><param name="ImageNumber" value="11"></OBJECT>
@@ -13941,7 +13919,6 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MenuBar"><param name="Local" value="classalbaOpManager.html#ab00f4a38640c91b2839e85599302f8b6"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ToolBar"><param name="Local" value="classalbaOpManager.html#a1d72fdf22ebd6834fe1d3e35cfe93324"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_BuildNum"><param name="Local" value="classalbaOpManager.html#adc53e961123e08c5168b81656d6b28d3"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Listener"><param name="Local" value="classalbaOpManager.html#a880fdfa7a72e610377400dc761df4e96"><param name="ImageNumber" value="11"></OBJECT>
               </UL>
             </UL>
           <LI><OBJECT type="text/sitemap"><param name="Name" value="albaOpSelect.h"><param name="Local" value="albaOpSelect_8h.html"><param name="ImageNumber" value="1"></OBJECT>
@@ -14794,7 +14771,6 @@
               <UL>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="albaViewManager"><param name="Local" value="classalbaViewManager.html#a7344dd432336ebeb020333c6dba94978"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaViewManager"><param name="Local" value="classalbaViewManager.html#a000c1d4255e54f957f3604b1008d4ad5"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="SetListener"><param name="Local" value="classalbaViewManager.html#a8287b431fef3c859654c1909e460be85"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEvent"><param name="Local" value="classalbaViewManager.html#a8e6b1baa374787b7e25ee6a6c9391ccf"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="FillMenu"><param name="Local" value="classalbaViewManager.html#a7af1cd6be9ecd7026be47f6b55d59edf"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="IsVisibleInMenu"><param name="Local" value="classalbaViewManager.html#a80eb816a644f4362479a74d51c1fe989"><param name="ImageNumber" value="11"></OBJECT>
@@ -14820,7 +14796,7 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="EnableCameraUpdateSkip"><param name="Local" value="classalbaViewManager.html#ac4a4b1769ca9c108deb9554e952ca73e"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="DisableCameraUpdateSkip"><param name="Local" value="classalbaViewManager.html#ac1b4b3674137b1c43317c321d192a921"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyUpdate"><param name="Local" value="classalbaViewManager.html#ad5bc5d93d7656fddfe9d05784eb6e6f5"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="GetSelectedView"><param name="Local" value="classalbaViewManager.html#ad40aa78a05a63b2cc5b6fd52c78b57c4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="GetSelectedView"><param name="Local" value="classalbaViewManager.html#abe12ce89e4660ed5bf9968bcfadead70"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="GetCurrentRoot"><param name="Local" value="classalbaViewManager.html#adb8e267d653a3498cd24c00465531668"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="GetList"><param name="Local" value="classalbaViewManager.html#a7565dfe37a793953485339f9e2a88125"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFromOpenedViews"><param name="Local" value="classalbaViewManager.html#a737c5d153072a9c4f433100df242ebf0"><param name="ImageNumber" value="11"></OBJECT>
@@ -14836,7 +14812,6 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ViewList"><param name="Local" value="classalbaViewManager.html#a7df164aafbb8be1d9048d52591a41074"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ViewTemplate"><param name="Local" value="classalbaViewManager.html#acb495a698fe1072e5549e5f91f189acb"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TemplateNum"><param name="Local" value="classalbaViewManager.html#a666c8465d12e8c9f6d2bf37ae7b721e5"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Listener"><param name="Local" value="classalbaViewManager.html#a1157ec4a3a0e45e9fd0583558c712d08"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_RootVme"><param name="Local" value="classalbaViewManager.html#ab351eec04b7ac71ae051d6bb2007e9c5"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SelectedVme"><param name="Local" value="classalbaViewManager.html#a44c922dd785fe337767c9de992df12f4"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SelectedView"><param name="Local" value="classalbaViewManager.html#a6b25f9a40d22102113a1b074c4f1a8d0"><param name="ImageNumber" value="11"></OBJECT>
@@ -15253,7 +15228,6 @@
               <UL>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="albaVMEManager"><param name="Local" value="classalbaVMEManager.html#a6ae0cfd6f13033832f1f01da2e1b898b"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaVMEManager"><param name="Local" value="classalbaVMEManager.html#afb0227be48ba16bfb3b9b7a5bba1f226"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="SetListener"><param name="Local" value="classalbaVMEManager.html#aa3396fadbf3538d017d705a19739c2ef"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEvent"><param name="Local" value="classalbaVMEManager.html#aaba74db4e0b27abeb27ceff583971bbe"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="MSFNew"><param name="Local" value="classalbaVMEManager.html#a2c434857e15e6f26404b7f99f0772ca2"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="MSFOpen"><param name="Local" value="classalbaVMEManager.html#a97754495d47bd3a61b83c8159b7ae41f"><param name="ImageNumber" value="11"></OBJECT>
@@ -15282,7 +15256,6 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="SetApplicationStamp"><param name="Local" value="classalbaVMEManager.html#a65539dea76747d527128c6b0236c1f49"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="MakeBakFileOnSave"><param name="Local" value="classalbaVMEManager.html#a15b4bbe74fb47c6b9010e4a2296b7d8e"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveTempDirectory"><param name="Local" value="classalbaVMEManager.html#a7a6b522a9968bbf0704ae8182a30ed34"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="SetSingleBinaryFile"><param name="Local" value="classalbaVMEManager.html#a003dc2ef0cd440848a7da20563c4d988"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="SetTestMode"><param name="Local" value="classalbaVMEManager.html#a991d9d132ad9bc6d78a945c40dae4ae0"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="IgnoreAppStamp"><param name="Local" value="classalbaVMEManager.html#a411ad9bcc51cafc628eca578d484a6b5"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="MakeZip"><param name="Local" value="classalbaVMEManager.html#abded14825b670a4833e743d3001eb952"><param name="ImageNumber" value="11"></OBJECT>
@@ -15290,7 +15263,6 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="CheckFileUpdated"><param name="Local" value="classalbaVMEManager.html#a8cb420dd65ebf3d74968a72cbd3a2f4b"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="albaVMEManagerTest"><param name="Local" value="classalbaVMEManager.html#a44077b82f0b70cdf0980cc96d8976f6a"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Modified"><param name="Local" value="classalbaVMEManager.html#a3851f0505ca7f3320cefd35f0db9ca95"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Listener"><param name="Local" value="classalbaVMEManager.html#af6692b90c1f6a341f829cd0061e24ee3"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Config"><param name="Local" value="classalbaVMEManager.html#af125de1c13589bad23cf49ae429d231e"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ZipHandler"><param name="Local" value="classalbaVMEManager.html#ac26819c68bee4611a31bd297446fa252"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_FileSystem"><param name="Local" value="classalbaVMEManager.html#aeb11a793cacb588c3f31644ba86d28c4"><param name="ImageNumber" value="11"></OBJECT>
@@ -15305,7 +15277,6 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MsfFileExtension"><param name="Local" value="classalbaVMEManager.html#a1826c16580929d58403d568fb05a73b1"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_LoadingFlag"><param name="Local" value="classalbaVMEManager.html#a3d628efdccb2a58857120728699134a9"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Crypting"><param name="Local" value="classalbaVMEManager.html#adf9ee1324505a6c1439ad190392ffbaf"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SingleBinaryFile"><param name="Local" value="classalbaVMEManager.html#ac10221c6dfc00018e1ff4504c7cffbbb"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Storage"><param name="Local" value="classalbaVMEManager.html#a5d5f6e0fe9a93d053c6c520a19a985b4"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TestMode"><param name="Local" value="classalbaVMEManager.html#a01a69ccf8e28a23d4fb003e755402ac7"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_IgnoreAppStamp"><param name="Local" value="classalbaVMEManager.html#a56459fb55ad99246968aa85dd01ecbe8"><param name="ImageNumber" value="11"></OBJECT>
@@ -15659,7 +15630,7 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Local" value="classalbaAbsSideBar.html#abab10ebf173c1da54641ed4addc979b8"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="IsShown"><param name="Local" value="classalbaAbsSideBar.html#a1ba099690f9602876749ba84258836dd"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Local" value="classalbaAbsSideBar.html#a57c78b04e80d795e3b01c409ad2ce792"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeChoose"><param name="Local" value="classalbaAbsSideBar.html#abd3de5ce15c6dca33506a8ae73975d9d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeChoose"><param name="Local" value="classalbaAbsSideBar.html#a68050e87bfdd3c39a7b26150c58b9993"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="FindVME"><param name="Local" value="classalbaAbsSideBar.html#a48a02f799602f0e65a9ffe2e2d3dd3a3"><param name="ImageNumber" value="11"></OBJECT>
               </UL>
             </UL>
@@ -17247,7 +17218,6 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="Update"><param name="Local" value="classalbaGUIFrame.html#a84e1f643c92ee8bd8455baa29b5b9a2e"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMenu"><param name="Local" value="classalbaGUIFrame.html#a3db66dc3c6247996b46a08fdc1802544"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMenuOp"><param name="Local" value="classalbaGUIFrame.html#a7a98b2684171ba6102043f092e104fe2"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="OnUpdateUI"><param name="Local" value="classalbaGUIFrame.html#afae88db581c0d4c3392080080a716e98"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnCloseWindow"><param name="Local" value="classalbaGUIFrame.html#a19df645323e9e5be91ca630baf09f727"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnSize"><param name="Local" value="classalbaGUIFrame.html#a5540140e2bbc9f4583a2259175c3eafe"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnSashDrag"><param name="Local" value="classalbaGUIFrame.html#a5cc080227c5ac5b84f770b6d777a318e"><param name="ImageNumber" value="11"></OBJECT>
@@ -17275,7 +17245,6 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaGUIHistogramWidget"><param name="Local" value="classalbaGUIHistogramWidget.html#a5c8b961a7224708155a71025c383cd4f"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="SetListener"><param name="Local" value="classalbaGUIHistogramWidget.html#a93b6902b89ff70f694f5169f064ef960"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEvent"><param name="Local" value="classalbaGUIHistogramWidget.html#ac8065a0243e698f9356bcc48c5f25d96"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="ALBA_ID_DEC"><param name="Local" value="classalbaGUIHistogramWidget.html#a1a50e60aa16d1f81aef7e4cc4d7c6405"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="SetHistogramData"><param name="Local" value="classalbaGUIHistogramWidget.html#a513c90e10b88543930c46eb5027aa513"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="SetData"><param name="Local" value="classalbaGUIHistogramWidget.html#ab22d6a41e77d8e5542c4fe44fa0a60a6"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="LogarithmicScale"><param name="Local" value="classalbaGUIHistogramWidget.html#a2d2db92a683b7de169d01bcb12028b74"><param name="ImageNumber" value="11"></OBJECT>
@@ -17761,7 +17730,6 @@
               <UL>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="albaGUIMDIChild"><param name="Local" value="classalbaGUIMDIChild.html#aa3987d38550d3eb2ac0db56bd19fbdcb"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="~albaGUIMDIChild"><param name="Local" value="classalbaGUIMDIChild.html#a8ae2ab8b59ee0176639f73aff7348c53"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="SetListener"><param name="Local" value="classalbaGUIMDIChild.html#a89776aeebb5f87cc5b8514a31eebf3d6"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnQuit"><param name="Local" value="classalbaGUIMDIChild.html#aa405b7028e94421df86e8d46fdc83060"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="SetAllowCloseWindow"><param name="Local" value="classalbaGUIMDIChild.html#a688f54dcafd819f1b94e286b66d79829"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="EnableResize"><param name="Local" value="classalbaGUIMDIChild.html#a1c1873cfc6d81e38089cd66c592a61c6"><param name="ImageNumber" value="11"></OBJECT>
@@ -17771,7 +17739,6 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnActivate"><param name="Local" value="classalbaGUIMDIChild.html#a73297db7888691add051f3b420ef9bc7"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Win"><param name="Local" value="classalbaGUIMDIChild.html#a660f3f963c71a6795e9823637a0907d4"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_View"><param name="Local" value="classalbaGUIMDIChild.html#abeae7da28236ba2717c26b35859a8550"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Listener"><param name="Local" value="classalbaGUIMDIChild.html#ac68cd9d11870588c653115898230480e"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Quitting"><param name="Local" value="classalbaGUIMDIChild.html#a5821d40384a48f1b13085596afbd7bc0"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_AllowCloseFlag"><param name="Local" value="classalbaGUIMDIChild.html#a7d316bdaff911b4e3a6a3177045cb474"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_EnableResize"><param name="Local" value="classalbaGUIMDIChild.html#a5f051682b1eb3259c8c56972be8d9406"><param name="ImageNumber" value="11"></OBJECT>
@@ -17804,7 +17771,6 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMenu"><param name="Local" value="classalbaGUIMDIFrame.html#a87cc2b73a29774056d20c49cb0214f8d"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMenuOp"><param name="Local" value="classalbaGUIMDIFrame.html#a8447295cf515dc934ab3b2706b6194fa"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMenuView"><param name="Local" value="classalbaGUIMDIFrame.html#a862cfd8497b15c3808450b744d77fed0"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="OnUpdateUI"><param name="Local" value="classalbaGUIMDIFrame.html#a6406002846f1cb7caa3056b88b634cc4"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnCloseWindow"><param name="Local" value="classalbaGUIMDIFrame.html#a0eb701fc30927691c73384f8196d4064"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnSashDrag"><param name="Local" value="classalbaGUIMDIFrame.html#a83c8985956c7f06a678c8a02666558f6"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="OnLayout"><param name="Local" value="classalbaGUIMDIFrame.html#aba712f8ac9f300b2949e8983b61eea85"><param name="ImageNumber" value="11"></OBJECT>
@@ -18685,7 +18651,7 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Local" value="classalbaSideBar.html#a826ac5d0c16d547446a5177475e572bf"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="IsShown"><param name="Local" value="classalbaSideBar.html#abca508c0302814fa8d19f0cfa7d8bb7c"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Local" value="classalbaSideBar.html#a7ba15c4f866a728e83fcbd7934174530"><param name="ImageNumber" value="11"></OBJECT>
-              <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeChoose"><param name="Local" value="classalbaSideBar.html#a36678fbc5ab60b95c240826b3213fe7e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="VmeChoose"><param name="Local" value="classalbaSideBar.html#ac7205be2cbaf53a50a3828c6184b354b"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="FindVME"><param name="Local" value="classalbaSideBar.html#a40a3d4656327bdcbd7a6ee397f76d3d3"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateVmePanel"><param name="Local" value="classalbaSideBar.html#ae4b6a623fecd7903bd174d7c83b2b9aa"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Notebook"><param name="Local" value="classalbaSideBar.html#a55f0bc361f5ea5587730373428cde614"><param name="ImageNumber" value="11"></OBJECT>
@@ -22194,9 +22160,8 @@
       <LI><OBJECT type="text/sitemap"><param name="Name" value="tryop"><param name="Local" value="globals_t.html"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="typei"><param name="Local" value="globals_t.html#top"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="typem"><param name="Local" value="globals_t.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="u"><param name="Local" value="globals_u.html"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="usegu"><param name="Local" value="globals_u.html#top"><param name="ImageNumber" value="11"></OBJECT>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="userw"><param name="Local" value="globals_u.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="usegu"><param name="Local" value="globals_u.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="userw"><param name="Local" value="globals_u.html#top"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="v"><param name="Local" value="globals_v.html"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="vecto"><param name="Local" value="globals_v.html#top"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="w"><param name="Local" value="globals_w.html"><param name="ImageNumber" value="11"></OBJECT>

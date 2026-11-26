@@ -1,6 +1,6 @@
 <map id="albaGUIVMEChooserTree" name="albaGUIVMEChooserTree">
-<area shape="rect" id="node1" title="Widget representing the tree that allow the user to choose a VME." alt="" coords="2904,197,3075,223"/>
-<area shape="rect" id="node2" href="$classalbaGUIVMETree.html" title="class Name : albaGUIVMETree." alt="" coords="2617,151,2740,176"/>
+<area shape="rect" id="node1" title="Widget representing the tree that allow the user to choose a VME." alt="" coords="2904,199,3075,224"/>
+<area shape="rect" id="node2" href="$classalbaGUIVMETree.html" title="class Name : albaGUIVMETree." alt="" coords="2617,157,2740,183"/>
 <area shape="rect" id="node3" href="$classalbaGUITree.html" title=" " alt="" coords="1030,93,1123,119"/>
 <area shape="rect" id="node4" href="$classalbaGUINamedPanel.html" title="Class Name: albaGUINamedPanel." alt="" coords="403,93,545,119"/>
 <area shape="rect" id="node16" href="$classalbaGUIHolder.html" title="class name: albaGUIHolder Secialized panel in which a developer can put a albaGUI." alt="" coords="702,396,807,421"/>

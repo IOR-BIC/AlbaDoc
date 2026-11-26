@@ -103,8 +103,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a1ba099690f9602876749ba84258836dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57c78b04e80d795e3b01c409ad2ce792"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a57c78b04e80d795e3b01c409ad2ce792">Show</a> (bool show)=0</td></tr>
 <tr class="separator:a57c78b04e80d795e3b01c409ad2ce792"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abd3de5ce15c6dca33506a8ae73975d9d"><td class="memItemLeft" align="right" valign="top">virtual std::vector&lt; <a class="el" href="classalbaVME.html">albaVME</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#abd3de5ce15c6dca33506a8ae73975d9d">VmeChoose</a> (void *vme_accept_function=0, long style=<a class="el" href="albaGUIVMEChooserTree_8h.html#a212f8280e7bc79ce741aaf92f3c9b5a9a2017fde0ae55cd3f162d88d24d46ca9f">REPRESENTATION_AS_TREE</a>, <a class="el" href="classalbaString.html">albaString</a> title=&quot;Choose Node&quot;, bool multiSelect=false, <a class="el" href="classalbaVME.html">albaVME</a> *vme=NULL)=0</td></tr>
-<tr class="separator:abd3de5ce15c6dca33506a8ae73975d9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a68050e87bfdd3c39a7b26150c58b9993"><td class="memItemLeft" align="right" valign="top">virtual std::vector&lt; <a class="el" href="classalbaVME.html">albaVME</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a68050e87bfdd3c39a7b26150c58b9993">VmeChoose</a> (albaVMEAcceptFunction vme_accept_function=NULL, long style=<a class="el" href="albaGUIVMEChooserTree_8h.html#a212f8280e7bc79ce741aaf92f3c9b5a9a2017fde0ae55cd3f162d88d24d46ca9f">REPRESENTATION_AS_TREE</a>, <a class="el" href="classalbaString.html">albaString</a> title=&quot;Choose Node&quot;, bool multiSelect=false, <a class="el" href="classalbaVME.html">albaVME</a> *vme=NULL)=0</td></tr>
+<tr class="separator:a68050e87bfdd3c39a7b26150c58b9993"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a48a02f799602f0e65a9ffe2e2d3dd3a3"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classalbaAbsSideBar.html#a48a02f799602f0e65a9ffe2e2d3dd3a3">FindVME</a> ()=0</td></tr>
 <tr class="separator:a48a02f799602f0e65a9ffe2e2d3dd3a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -655,8 +655,8 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="abd3de5ce15c6dca33506a8ae73975d9d" name="abd3de5ce15c6dca33506a8ae73975d9d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abd3de5ce15c6dca33506a8ae73975d9d">&#9670;&#160;</a></span>VmeChoose()</h2>
+<a id="a68050e87bfdd3c39a7b26150c58b9993" name="a68050e87bfdd3c39a7b26150c58b9993"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a68050e87bfdd3c39a7b26150c58b9993">&#9670;&#160;</a></span>VmeChoose()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -667,8 +667,8 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">virtual std::vector&lt; <a class="el" href="classalbaVME.html">albaVME</a> * &gt; albaAbsSideBar::VmeChoose </td>
           <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>vme_accept_function</em> = <code>0</code>, </td>
+          <td class="paramtype">albaVMEAcceptFunction&#160;</td>
+          <td class="paramname"><em>vme_accept_function</em> = <code>NULL</code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -709,7 +709,7 @@ Public Member Functions</h2></td></tr>
 
 <p>Build a dialog containing the vme tree and return the vmes chosen by the user (used by the logic ChooseVME/ChooseVMEs). </p>
 
-<p>Implemented in <a class="el" href="classalbaSideBar.html#a36678fbc5ab60b95c240826b3213fe7e">albaSideBar</a>.</p>
+<p>Implemented in <a class="el" href="classalbaSideBar.html#ac7205be2cbaf53a50a3828c6184b354b">albaSideBar</a>.</p>
 
 </div>
 </div>

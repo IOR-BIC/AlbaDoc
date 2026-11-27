@@ -1,52 +1,52 @@
 <map id="albaAttachCamera" name="albaAttachCamera">
-<area shape="rect" id="node1" title="albaAttachCamera is tool to attach the camera present in albaRWI to the selected VME." alt="" coords="2398,242,2527,267"/>
-<area shape="rect" id="node2" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="15,627,113,653"/>
-<area shape="rect" id="node4" href="$classalbaVME.html" title="albaVME &#45;" alt="" coords="927,1773,1002,1798"/>
-<area shape="rect" id="node8" href="$classalbaEventSender.html" title="class acting as an interface for objects using ALBA hierarchical event communication model This objec..." alt="" coords="257,1227,375,1253"/>
-<area shape="rect" id="node13" href="$classalbaGUI.html" title="albaGUI is a panel with function to easily create GUI." alt="" coords="591,487,659,513"/>
-<area shape="rect" id="node18" href="$classalbaDataPipe.html" title="abstract class for process objects producing data as output of a VME." alt="" coords="1292,2303,1391,2329"/>
-<area shape="rect" id="node35" href="$classalbaAgent.html" title="An agent is a computational object with a default I/O interface." alt="" coords="925,1170,1005,1195"/>
-<area shape="rect" id="node36" href="$classalbaView.html" title="albaView is the base class for Views in alba." alt="" coords="1304,702,1379,727"/>
-<area shape="rect" id="node40" href="$classalbaRWI.html" title=" " alt="" coords="2090,359,2161,385"/>
-<area shape="rect" id="node41" href="$classalbaSceneGraph.html" title=" " alt="" coords="1660,818,1779,843"/>
-<area shape="rect" id="node43" href="$classalbaPipe.html" title=" " alt="" coords="2089,1155,2161,1181"/>
-<area shape="rect" id="node48" href="$classalbaGUIPicButton.html" title="albaGUIPicButton inherit from wxBitmapButton." alt="" coords="253,61,379,86"/>
-<area shape="rect" id="node3" title=" " alt="" coords="564,905,685,930"/>
-<area shape="rect" id="node23" href="$classalbaMatrixPipe.html" title="bridge class between albaTransform pipeline and VME to compute VME output matrix." alt="" coords="1665,2326,1773,2351"/>
-<area shape="rect" id="node30" href="$classalbaVMEOutput.html" title="albaVMEOutput &#45; the output data structure of a VME node." alt="" coords="2068,2066,2183,2091"/>
-<area shape="rect" id="node32" href="$classalbaInteractionBehavior.html" title="Base class of the behaviors: a behavior is the interaction tool of a VME." alt="" coords="2385,1757,2540,1782"/>
-<area shape="rect" id="node42" href="$classalbaSceneNode.html" title="albaSceneNode is a node of albaScenegraph." alt="" coords="2406,1507,2519,1533"/>
-<area shape="rect" id="node44" href="$classvtkALBAAssembly.html" title="create hierarchies of vtkProp3Ds (transformable props) vtkALBAAssembly same as vtkAssembly,..." alt="" coords="1654,1541,1785,1566"/>
-<area shape="rect" id="node50" href="$classalbaAxes.html" title="Create 3D axes representation and insert them in the passed renderer: axes can be global (World Coord..." alt="" coords="1485,1223,1561,1249"/>
-<area shape="rect" id="node5" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="240,2143,392,2169"/>
-<area shape="rect" id="node20" href="$classalbaMatrix.html" title="albaMatrix &#45; Time stamped 4x4 Matrix." alt="" coords="583,2382,666,2407"/>
-<area shape="rect" id="node24" href="$classalbaTransformBase.html" title="Superclass for Homogeneous transformations." alt="" coords="1275,2454,1408,2479"/>
-<area shape="rect" id="node6" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="22,2010,106,2035"/>
-<area shape="rect" id="node7" href="$classalbaEventBroadcaster.html" title="This class inerith form albaEventSender and extends albaEventSender with the capacity of send events ..." alt="" coords="551,1251,699,1277"/>
-<area shape="rect" id="node9" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="577,1885,672,1910"/>
-<area shape="rect" id="node10" href="$classalbaTimeStamped.html" title="class acting as an interface for timestamped objects This object simply defines few methods for manag..." alt="" coords="561,2326,688,2351"/>
-<area shape="rect" id="node19" href="$classalbaOBB.html" title="This class simply stores a Box boundary (i.e." alt="" coords="927,2377,1002,2402"/>
-<area shape="rect" id="node11" href="$classalbaMTime.html" title="albaMTime &#45; record modification timestamp." alt="" coords="273,2389,359,2414"/>
-<area shape="rect" id="node12" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="26,2645,102,2670"/>
-<area shape="rect" id="node16" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="585,1382,665,1407"/>
-<area shape="rect" id="node17" href="$classalbaAutoPointer.html" title=" " alt="" coords="1631,2548,1808,2588"/>
-<area shape="rect" id="node21" href="$classalbaAutoPointer.html" title="Hold a reference to a T instance." alt="" coords="552,2785,697,2810"/>
-<area shape="rect" id="node22" href="$classalbaAutoPointer.html" title=" " alt="" coords="2032,2643,2219,2683"/>
-<area shape="rect" id="node25" href="$classalbaAutoPointer.html" title=" " alt="" coords="865,2525,1064,2550"/>
-<area shape="rect" id="node26" href="$classalbaMutexLock.html" title="Critical section locking class that can be allocated on the stack." alt="" coords="416,2619,527,2645"/>
-<area shape="rect" id="node27" href="$classalbaAutoPointer.html" title=" " alt="" coords="2376,2652,2549,2692"/>
-<area shape="rect" id="node31" href="$classalbaAutoPointer.html" title=" " alt="" coords="1616,2688,1823,2728"/>
-<area shape="rect" id="node14" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="265,261,367,286"/>
-<area shape="rect" id="node38" href="$classalbaGUINamedPanel.html" title="Class Name: albaGUINamedPanel." alt="" coords="553,313,696,338"/>
-<area shape="rect" id="node15" title=" " alt="" coords="29,105,99,130"/>
-<area shape="rect" id="node45" href="$classalbaRWIBase.html" title="albaRWIBase is a vtkRenderWindowInteractor placed on a wxWindow" alt="" coords="1669,470,1770,495"/>
-<area shape="rect" id="node28" href="$classalbaAbsMatrixPipe.html" title="albaAbsMatrixPipe &#45; this class implements VME tree direct cinematic (AbsMatrix)." alt="" coords="2060,2447,2191,2473"/>
-<area shape="rect" id="node29" href="$classalbaTransformFrame.html" title="albaTransformFrame &#45; class for multi frame homogeneous transformations." alt="" coords="1649,2447,1789,2473"/>
-<area shape="rect" id="node33" href="$classalbaInteractionTool.html" title="Base class of the tools pushed on the stack of the PER." alt="" coords="2060,1629,2191,1654"/>
-<area shape="rect" id="node34" href="$classalbaInteractionAgent.html" title="Common base class of interactors and interaction tools." alt="" coords="1649,1223,1789,1249"/>
-<area shape="rect" id="node37" href="$classalbaGUIHolder.html" title="class name: albaGUIHolder Secialized panel in which a developer can put a albaGUI." alt="" coords="912,285,1017,310"/>
-<area shape="rect" id="node39" href="$classvtkALBASmartPointer.html" title=" " alt="" coords="1267,1305,1415,1345"/>
-<area shape="rect" id="node46" title=" " alt="" coords="1299,470,1383,495"/>
-<area shape="rect" id="node47" title=" " alt="" coords="1252,421,1431,446"/>
-<area shape="rect" id="node49" title=" " alt="" coords="5,26,123,51"/>
+<area shape="rect" id="node1" title="albaAttachCamera is tool to attach the camera present in albaRWI to the selected VME." alt="" coords="2398,213,2527,239"/>
+<area shape="rect" id="node2" href="$classalbaObserver.html" title="Interface implementing the Observer of the Subject/Observer design pattern." alt="" coords="15,727,113,752"/>
+<area shape="rect" id="node4" href="$classalbaVME.html" title="albaVME &#45;" alt="" coords="927,1724,1002,1749"/>
+<area shape="rect" id="node8" href="$classalbaEventSender.html" title="class acting as an interface for objects using ALBA hierarchical event communication model This objec..." alt="" coords="257,1553,375,1579"/>
+<area shape="rect" id="node13" href="$classalbaGUI.html" title="albaGUI is a panel with function to easily create GUI." alt="" coords="591,749,659,775"/>
+<area shape="rect" id="node18" href="$classalbaDataPipe.html" title="abstract class for process objects producing data as output of a VME." alt="" coords="1292,2325,1391,2351"/>
+<area shape="rect" id="node35" href="$classalbaAgent.html" title="An agent is a computational object with a default I/O interface." alt="" coords="925,1541,1005,1567"/>
+<area shape="rect" id="node36" href="$classalbaView.html" title="albaView is the base class for Views in alba." alt="" coords="1304,1227,1379,1252"/>
+<area shape="rect" id="node43" href="$classalbaRWI.html" title=" " alt="" coords="2090,395,2161,420"/>
+<area shape="rect" id="node44" href="$classalbaSceneGraph.html" title=" " alt="" coords="1660,1087,1779,1112"/>
+<area shape="rect" id="node46" href="$classalbaPipe.html" title=" " alt="" coords="2089,785,2161,811"/>
+<area shape="rect" id="node48" href="$classalbaGUIPicButton.html" title="albaGUIPicButton inherit from wxBitmapButton." alt="" coords="253,140,379,165"/>
+<area shape="rect" id="node3" title=" " alt="" coords="564,897,685,923"/>
+<area shape="rect" id="node23" href="$classalbaMatrixPipe.html" title="bridge class between albaTransform pipeline and VME to compute VME output matrix." alt="" coords="1665,2357,1773,2383"/>
+<area shape="rect" id="node30" href="$classalbaVMEOutput.html" title="albaVMEOutput &#45; the output data structure of a VME node." alt="" coords="2068,1948,2183,1973"/>
+<area shape="rect" id="node32" href="$classalbaInteractionBehavior.html" title="Base class of the behaviors: a behavior is the interaction tool of a VME." alt="" coords="2385,1609,2540,1635"/>
+<area shape="rect" id="node45" href="$classalbaSceneNode.html" title="albaSceneNode is a node of albaScenegraph." alt="" coords="2406,1300,2519,1325"/>
+<area shape="rect" id="node47" href="$classvtkALBAAssembly.html" title="create hierarchies of vtkProp3Ds (transformable props) vtkALBAAssembly same as vtkAssembly,..." alt="" coords="1654,1392,1785,1417"/>
+<area shape="rect" id="node50" href="$classalbaAxes.html" title="Create 3D axes representation and insert them in the passed renderer: axes can be global (World Coord..." alt="" coords="1485,615,1561,640"/>
+<area shape="rect" id="node5" href="$classalbaReferenceCounted.html" title="albaReferenceCounted &#45; abstract base class for ALBA objects with reference counting." alt="" coords="240,2089,392,2115"/>
+<area shape="rect" id="node20" href="$classalbaMatrix.html" title="albaMatrix &#45; Time stamped 4x4 Matrix." alt="" coords="583,2339,666,2364"/>
+<area shape="rect" id="node24" href="$classalbaTransformBase.html" title="Superclass for Homogeneous transformations." alt="" coords="1275,2532,1408,2557"/>
+<area shape="rect" id="node6" href="$classalbaObject.html" title="Abstract superclass for all ALBA classes implementing RTTI APIs." alt="" coords="22,1753,106,1779"/>
+<area shape="rect" id="node7" href="$classalbaEventBroadcaster.html" title="This class inerith form albaEventSender and extends albaEventSender with the capacity of send events ..." alt="" coords="551,1699,699,1724"/>
+<area shape="rect" id="node9" href="$classalbaStorable.html" title="albaStorable is an interface for serializable objects." alt="" coords="577,1800,672,1825"/>
+<area shape="rect" id="node10" href="$classalbaTimeStamped.html" title="class acting as an interface for timestamped objects This object simply defines few methods for manag..." alt="" coords="561,2235,688,2260"/>
+<area shape="rect" id="node19" href="$classalbaOBB.html" title="This class simply stores a Box boundary (i.e." alt="" coords="927,2228,1002,2253"/>
+<area shape="rect" id="node11" href="$classalbaMTime.html" title="albaMTime &#45; record modification timestamp." alt="" coords="273,2391,359,2416"/>
+<area shape="rect" id="node12" href="$classalbaBase.html" title="albaBase &#45; the pourpose of this class is just to groups utilities classes" alt="" coords="26,2539,102,2564"/>
+<area shape="rect" id="node16" href="$classalbaString.html" title="albaString &#45; performs common string operations on c&#45;strings." alt="" coords="585,1541,665,1567"/>
+<area shape="rect" id="node17" href="$classalbaAutoPointer.html" title=" " alt="" coords="1631,2471,1808,2511"/>
+<area shape="rect" id="node21" href="$classalbaAutoPointer.html" title="Hold a reference to a T instance." alt="" coords="552,2661,697,2687"/>
+<area shape="rect" id="node22" href="$classalbaAutoPointer.html" title=" " alt="" coords="2032,2582,2219,2622"/>
+<area shape="rect" id="node25" href="$classalbaAutoPointer.html" title=" " alt="" coords="865,2583,1064,2608"/>
+<area shape="rect" id="node26" href="$classalbaMutexLock.html" title="Critical section locking class that can be allocated on the stack." alt="" coords="416,2751,527,2776"/>
+<area shape="rect" id="node27" href="$classalbaAutoPointer.html" title=" " alt="" coords="2376,2591,2549,2631"/>
+<area shape="rect" id="node31" href="$classalbaAutoPointer.html" title=" " alt="" coords="1616,2287,1823,2327"/>
+<area shape="rect" id="node14" href="$classalbaGUIPanel.html" title="class name: albaGUIPanel Inherits directly from wxPanel and adds the pointer to the next panel" alt="" coords="265,1291,367,1316"/>
+<area shape="rect" id="node38" href="$classalbaGUINamedPanel.html" title="Class Name: albaGUINamedPanel." alt="" coords="553,1291,696,1316"/>
+<area shape="rect" id="node15" title=" " alt="" coords="29,1599,99,1624"/>
+<area shape="rect" id="node40" href="$classalbaRWIBase.html" title="albaRWIBase is a vtkRenderWindowInteractor placed on a wxWindow" alt="" coords="1669,939,1770,964"/>
+<area shape="rect" id="node28" href="$classalbaAbsMatrixPipe.html" title="albaAbsMatrixPipe &#45; this class implements VME tree direct cinematic (AbsMatrix)." alt="" coords="2060,2420,2191,2445"/>
+<area shape="rect" id="node29" href="$classalbaTransformFrame.html" title="albaTransformFrame &#45; class for multi frame homogeneous transformations." alt="" coords="1649,2592,1789,2617"/>
+<area shape="rect" id="node33" href="$classalbaInteractionTool.html" title="Base class of the tools pushed on the stack of the PER." alt="" coords="2060,1453,2191,1479"/>
+<area shape="rect" id="node34" href="$classalbaInteractionAgent.html" title="Common base class of interactors and interaction tools." alt="" coords="1649,1453,1789,1479"/>
+<area shape="rect" id="node37" href="$classalbaGUIHolder.html" title="class name: albaGUIHolder Secialized panel in which a developer can put a albaGUI." alt="" coords="912,1303,1017,1328"/>
+<area shape="rect" id="node39" href="$classvtkALBASmartPointer.html" title=" " alt="" coords="1267,1503,1415,1543"/>
+<area shape="rect" id="node41" title=" " alt="" coords="1299,885,1383,911"/>
+<area shape="rect" id="node42" title=" " alt="" coords="1252,935,1431,960"/>
+<area shape="rect" id="node49" title=" " alt="" coords="5,5,123,31"/>
 </map>
